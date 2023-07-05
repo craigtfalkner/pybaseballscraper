@@ -6,7 +6,8 @@
 For fun project - practice Python, SQL, data analysis, and using git/github.
 
 ### Things to do:
-- [X] Pitching and hitting modules need improvements.  
+- [X] Pitching and hitting modules need improvements :tada:  
 - [ ] Exploratory notebook.  
-- [ ] Incorporate other stat sources.  
-- [ ] Create a update module, to add new data added since last time program was run.   
+- [ ] Incorporate other stat sources - player salaries, advanced stats.  
+- [ ] Create a update module, to add new data added since last time program was run.
+- [ ] Investigate if the lag added during scraping does anything (prevents IP getting blocked, maybe?)
