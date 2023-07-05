@@ -33,7 +33,7 @@ def get_hitting(start_season = 1876, end_season = current_year):
         temp_df = pd.DataFrame(make_request['stats'])
         hitting_df = pd.concat([hitting_df, temp_df], axis = 0)
         print(f'Finished {y} season.')
-        lag = np.random.uniform(low = 5, high = 15)
+        lag = np.random.uniform(low = 2, high = 5)
         print(f'Waiting {round(lag, 1)} seconds before getting next season.')
         time.sleep(lag)
     # Data saved as csv in current working directory
@@ -53,12 +53,12 @@ def get_pitching(start_season = 1876, end_season = current_year):
         temp_df = pd.DataFrame(make_request['stats'])
         pitching_df = pd.concat([pitching_df, temp_df], axis = 0)
         print(f'Finished {y} season.')
-        lag = np.random.uniform(low = 5, high = 15)
+        lag = np.random.uniform(low = 2, high = 5)
         print(f'Waiting {round(lag, 1)} seconds before getting next season.')
         time.sleep(lag)
     # Data saved as csv in current working directory
     current_directory = os.getcwd()
     pitching_df.to_csv(current_directory + '\\pitching_data.csv')
 
-get_pitching(1990,)
-get_hitting(1990,)
+get_pitching()
+get_hitting()
