@@ -60,5 +60,26 @@ def get_pitching(start_season = 1876, end_season = current_year):
     current_directory = os.getcwd()
     pitching_df.to_csv(current_directory + '\\pitching_data.csv')
 
-get_pitching()
-get_hitting()
+def get_war(start_season = 1871, end_season = current_year):
+    years = list(map(str, range(start_season, end_season + 1)))
+    war_df = pd.DataFrame()
+    listener = keyboard.Listener(on_press=on_press)
+    listener.start()
+    for y in years:
+        if break_program:
+            break
+        api_url = 'https://www.fangraphs.com/api/leaders/war?season=' + y + '&lg=&wartype=0&teamid='
+        make_request = requests.get(url = api_url).json()
+        temp_df = pd.DataFrame(make_request)
+        war_df = pd.concat([war_df, temp_df], axis = 0)
+        print(f'Finished {y} season.')
+        lag = np.random.uniform(low = 2, high = 5)
+        print(f'Waiting {round(lag, 1)} seconds before getting next season.')
+        time.sleep(lag)
+    # Data saved as csv in current working directory
+    current_directory = os.getcwd()
+    war_df.to_csv(current_directory + '\\war_data.csv')
+
+#get_pitching()
+#get_hitting()
+get_war()
