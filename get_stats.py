@@ -11,6 +11,8 @@ import time
 break_program = False
 today = dt.date.today()
 current_year = today.year
+t_id =  list(range(1, 31))
+current_directory = os.getcwd()
 
 # Provides the ability to cancel the request by pressing the end key.
 def on_press(key):
@@ -37,7 +39,6 @@ def get_hitting(start_season = 1876, end_season = current_year):
         print(f'Waiting {round(lag, 1)} seconds before getting next season.')
         time.sleep(lag)
     # Data saved as csv in current working directory
-    current_directory = os.getcwd()
     hitting_df.to_csv(current_directory + '\\hitting_data.csv')
 
 def get_pitching(start_season = 1876, end_season = current_year):
@@ -57,7 +58,6 @@ def get_pitching(start_season = 1876, end_season = current_year):
         print(f'Waiting {round(lag, 1)} seconds before getting next season.')
         time.sleep(lag)
     # Data saved as csv in current working directory
-    current_directory = os.getcwd()
     pitching_df.to_csv(current_directory + '\\pitching_data.csv')
 
 def get_war(start_season = 1871, end_season = current_year):
@@ -77,9 +77,28 @@ def get_war(start_season = 1871, end_season = current_year):
         print(f'Waiting {round(lag, 1)} seconds before getting next season.')
         time.sleep(lag)
     # Data saved as csv in current working directory
-    current_directory = os.getcwd()
     war_df.to_csv(current_directory + '\\war_data.csv')
+
+def get_contracts():
+    contracts_df = pd.DataFrame()
+    listener = keyboard.Listener(on_press=on_press)
+    listener.start()
+    for t in t_id:
+        if break_program:
+            break
+        api_url = f'https://www.fangraphs.com/api/contracts/team-2020?teamid={t}&season=2023'
+        make_request = requests.get(url=api_url).json()
+        temp_df1 = pd.DataFrame(make_request['players'])
+        temp_df2 = pd.json_normalize(temp_df1['contractSummary'])
+        contracts_df = pd.concat([contracts_df, temp_df2], axis=0)
+        print(f'Finished {t}.')
+        lag = np.random.uniform(low = 2, high = 5)
+        print(f'Waiting {round(lag, 1)} seconds before getting next season.')
+        time.sleep(lag)
+    # Data saved as csv in current working directory
+    contracts_df.to_csv(current_directory + '\\contract_data.csv')
 
 #get_pitching()
 #get_hitting()
-get_war()
+#get_war()
+#get_contracts()
