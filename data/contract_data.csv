@@ -1,0 +1,879 @@
+,ContractId,ContractDate,MLBAMID,playerId,playerName,playerNameRoute,servicetime,servicetimeFallback,ContractSummaryPayrollNote,ContractTypeId,ContractType,isEstimate,hasClubOption,hasMutualOption,hasVestingOption,hasFreeAgent,hasTBD,hasArbYearOverride,hasArbYearOverrideFuture,age,YearsTotal,ContractTotal,AAV,startSeason,endSeason,endSeasonAll,payrollType,isFutureContract
+0,490,,545361,10155,Mike Trout,Mike Trout,11.070,10.070,,3,Extension,,0,0,0,0,0,-1,-1,31.9,12.0,426500000.0,35541666.66666667,2019,2030,2030,gauranteed,0
+1,2,2009-12-11T00:00:00,543685,12861,Anthony Rendon,Anthony Rendon,9.130,8.130,,2,Free Agent,,0,0,0,0,0,-1,-1,33.1,7.0,245000000.0,35000000.0,2020,2026,2026,gauranteed,0
+2,2616,2022-10-01T00:00:00,660271,19755,Shohei Ohtani,Shohei Ohtani,5.000,4.000,,3,Extension,,0,0,0,0,0,-1,-1,29.0,1.0,30000000.0,30000000.0,2023,2023,2023,gauranteed,0
+3,3080,2022-11-15T00:00:00,542881,12880,Tyler Anderson,Tyler Anderson,7.065,6.065,,2,Free Agent,,0,0,0,0,0,-1,-1,33.5,3.0,39000000.0,13000000.0,2023,2025,2025,gauranteed,0
+4,2798,,592669,15464,Hunter Renfroe,Hunter Renfroe,5.165,4.165,,1,Arbitration,,0,0,0,0,0,-1,-1,31.4,1.0,11900000.0,11900000.0,2023,2023,2023,arbeligible,0
+5,2299,2021-11-26T00:00:00,500871,6153,Eduardo Escobar,Eduardo Escobar,10.128,9.128,,2,Free Agent,,1,0,0,0,0,-1,-1,34.5,2.0,20000000.0,10000000.0,2022,2023,2024,gauranteed,0
+6,2293,2021-11-22T00:00:00,571901,10343,Aaron Loup,Aaron Loup,10.040,9.040,,2,Free Agent,,1,0,0,0,0,-1,-1,35.5,2.0,17000000.0,8500000.0,2022,2023,2024,gauranteed,0
+7,3175,2022-12-20T00:00:00,592273,11615,Brandon Drury,Brandon Drury,6.001,5.001,,2,Free Agent,,0,0,0,0,0,-1,-1,30.9,2.0,17000000.0,8500000.0,2023,2024,2024,gauranteed,0
+8,2816,,570482,10681,Gio Urshela,Gio Urshela,5.127,4.127,,1,Arbitration,,0,0,0,0,0,-1,-1,31.7,1.0,8400000.0,8400000.0,2023,2023,2023,arbeligible,0
+9,3368,2023-02-16T00:00:00,519043,1890,Matt Moore,Matt Moore,10.000,9.000,,2,Free Agent,,0,0,0,0,0,-1,-1,34.0,1.0,7550000.0,7550000.0,2023,2023,2023,gauranteed,0
+10,2461,2022-03-17T00:00:00,572193,10291,Ryan Tepera,Ryan Tepera,7.008,6.008,,2,Free Agent,,0,0,0,1,0,-1,-1,35.7,2.0,14000000.0,7000000.0,2022,2023,2023,not40man,0
+11,3105,2022-12-05T00:00:00,608032,14542,Carlos Estévez,Carlos Estevez,6.022,5.022,,2,Free Agent,,0,0,0,0,0,-1,-1,30.5,2.0,13500000.0,6750000.0,2023,2024,2024,gauranteed,0
+12,2121,,545358,10059,Max Stassi,Max Stassi,6.049,5.049,,3,Extension,,1,0,0,0,0,-1,-1,32.3,3.0,17500000.0,5833333.33333333,2022,2024,2025,gauranteed,0
+13,1109,2021-04-01T00:00:00,664058,17992,David Fletcher,David Fletcher,4.111,3.111,,3,Extension,,1,0,0,0,0,-1,-1,29.1,5.0,26000000.0,5200000.0,2021,2025,2027,gauranteed,0
+14,2773,,621493,17548,Taylor Ward,Taylor Ward,2.164,1.164,,1,Arbitration,,0,0,0,0,0,1,-1,29.6,1.0,2750000.0,2750000.0,2023,2023,2023,arbeligible,0
+15,2962,,663776,19447,Patrick Sandoval,Patrick Sandoval,2.149,1.149,,1,Arbitration,,0,0,0,0,0,1,-1,26.7,1.0,2750000.0,2750000.0,2023,2023,2023,arbeligible,0
+16,2772,,665120,18607,Jared Walsh,Jared Walsh,3.010,2.010,,1,Arbitration,,0,0,0,0,0,-1,-1,29.9,1.0,2650000.0,2650000.0,2023,2023,2023,arbeligible,0
+17,2769,,650859,19858,Luis Rengifo,Luis Rengifo,3.043,2.064,,1,Arbitration,,0,0,0,0,0,-1,-1,26.4,1.0,2300000.0,2300000.0,2023,2023,2023,arbeligible,0
+18,3290,2023-01-09T00:00:00,621433,14735,Brett Phillips,Brett Phillips,3.013,3.013,,2,Free Agent,,0,0,0,1,0,1,-1,29.1,2.0,2400000.0,1200000.0,2023,2023,2023,not40man,0
+19,2770,,642545,18356,Jaime Barria,Jaime Barria,3.035,2.035,,1,Arbitration,,0,0,0,0,0,-1,-1,27.0,1.0,1050000.0,1050000.0,2023,2023,2023,arbeligible,0
+20,3478,,606965,12763,Chris Devenski,Chris Devenski,6.036,5.164,,2,Free Agent,,0,0,0,0,0,-1,-1,32.6,1.0,900000.0,900000.0,2023,2023,2023,gauranteed,0
+21,2768,,656288,19867,Griffin Canning,Griffin Canning,3.075,2.075,,1,Arbitration,,0,0,0,0,0,-1,-1,27.2,1.0,850000.0,850000.0,2023,2023,2023,arbeligible,0
+22,2964,,660761,19911,José Suarez,Jose Suarez,2.084,1.120,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.5,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+23,2965,,623474,17556,Jimmy Herget,Jimmy Herget,2.079,1.074,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.8,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+24,2966,,650671,19200,José Quijada,Jose Quijada,2.046,1.046,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.7,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+25,2963,,672282,27468,Reid Detmers,Reid Detmers,1.059,0.055,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.0,1.0,740000.0,740000.0,2023,2023,2023,arbineligible,0
+26,2967,,681806,24933,Andrew Wantz,Andrew Wantz,1.065,0.074,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.7,1.0,740000.0,740000.0,2023,2023,2023,arbineligible,0
+27,3255,,656353,19871,Tucker Davidson,Tucker Davidson,1.039,0.130,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.3,1.0,740000.0,740000.0,2023,2023,2023,arbineligible,0
+28,3470,,642136,19318,Matt Thaiss,Matt Thaiss,1.038,0.162,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,740000.0,740000.0,2023,2023,2023,arbineligible,0
+29,3253,,681351,24729,Logan O'Hoppe,Logan O'Hoppe,0.008,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.4,1.0,730000.0,730000.0,2023,2023,2023,arbineligible,0
+30,3391,2023-03-25T00:00:00,519058,4892,Mike Moustakas,Mike Moustakas,11.111,10.111,,2,Free Agent,,0,0,0,0,0,-1,-1,34.8,1.0,720000.0,720000.0,2023,2023,2023,gauranteed,0
+31,3460,,666160,19956,Mickey Moniak,Mickey Moniak,1.056,0.063,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.1,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+32,3461,,687263,31347,Zach Neto,Zach Neto,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,22.4,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+33,3176,2023-03-29T00:00:00,571875,13329,Jake Lamb,Jake Lamb,7.053,7.053,"$1.25M, prorated",2,Free Agent,,0,0,0,1,0,-1,-1,32.7,1.0,625000.0,625000.0,2023,2023,2023,not40man,0
+0,1387,2020-12-12T00:00:00,543510,12859,James McCann,James McCann,8.028,7.028,,2,Free Agent,,0,0,0,0,0,-1,-1,33.1,4.0,40600000.0,12150000.0,2021,2024,2024,gauranteed,0
+1,3102,2022-12-03T00:00:00,502043,10123,Kyle Gibson,Kyle Gibson,9.039,8.039,,2,Free Agent,,0,0,0,0,0,-1,-1,35.7,1.0,10000000.0,10000000.0,2023,2023,2023,gauranteed,0
+2,3148,2022-12-15T00:00:00,624428,15223,Adam Frazier,Adam Frazier,6.075,5.075,,2,Free Agent,,0,0,0,0,0,-1,-1,31.6,1.0,8000000.0,8000000.0,2023,2023,2023,gauranteed,0
+3,2630,,623993,14551,Anthony Santander,Anthony Santander,4.162,3.162,,1,Arbitration,,0,0,0,0,0,-1,-1,28.7,1.0,7400000.0,7400000.0,2023,2023,2023,arbeligible,0
+4,3169,2022-12-19T00:00:00,571710,10430,Mychal Givens,Mychal Givens,7.069,6.069,,2,Free Agent,,0,1,0,0,0,-1,-1,33.1,1.0,5000000.0,5000000.0,2023,2023,2024,gauranteed,0
+5,2633,,656775,17929,Cedric Mullins,Cedric Mullins II,3.078,2.078,,1,Arbitration,,0,0,0,0,0,-1,-1,28.8,1.0,4100000.0,4100000.0,2023,2023,2023,arbeligible,0
+6,3106,,669720,19363,Austin Hays,Austin Hays,3.057,2.057,,1,Arbitration,,0,0,0,0,0,-1,-1,28.0,1.0,3200000.0,3200000.0,2023,2023,2023,arbeligible,0
+7,2014,2022-05-21T00:00:00,607644,16269,John Means,John Means,4.007,3.007,,3,Extension,,0,0,0,0,0,-1,-1,30.2,2.0,5925000.0,2962500.0,2022,2023,2023,gauranteed,0
+8,2635,,622761,17273,Jorge Mateo,Jorge Mateo,3.000,2.000,,1,Arbitration,,0,0,0,0,0,-1,-1,28.0,1.0,2000000.0,2000000.0,2023,2023,2023,arbeligible,0
+9,2631,,608723,15047,Austin Voth,Austin Voth,3.127,2.127,,3,Extension,,1,0,0,0,0,-1,-1,31.0,1.0,1850000.0,1850000.0,2023,2023,2024,gauranteed,0
+10,2634,,622253,17796,Dillon Tate,Dillon Tate,3.048,2.048,,1,Arbitration,,0,0,0,0,0,-1,-1,29.2,1.0,1500000.0,1500000.0,2023,2023,2023,arbeligible,0
+11,2714,,656811,16442,Ryan O'Hearn,Ryan O'Hearn,4.002,3.002,,1,Arbitration,,0,0,0,0,0,-1,-1,29.9,1.0,1400000.0,1400000.0,2023,2023,2023,arbeligible,0
+12,3194,,543056,13293,Danny Coulombe,Danny Coulombe,4.008,3.008,,1,Arbitration,,0,0,0,0,0,-1,-1,33.7,1.0,1000000.0,1000000.0,2023,2023,2023,arbeligible,0
+13,2619,,663624,18373,Ryan Mountcastle,Ryan Mountcastle,2.105,1.105,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.4,1.0,738400.0,738400.0,2023,2023,2023,arbineligible,0
+14,2980,,608344,19244,Cole Irvin,Cole Irvin,2.120,1.120,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.4,1.0,737600.0,737600.0,2023,2023,2023,arbineligible,0
+15,2621,,602104,18795,Ramón Urías,Ramon Urias,2.025,1.025,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.1,1.0,734700.0,734700.0,2023,2023,2023,arbineligible,0
+16,2625,,668939,26288,Adley Rutschman,Adley Rutschman,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,733900.0,733900.0,2023,2023,2023,arbineligible,0
+17,2622,,669330,20000,Tyler Wells,Tyler Wells,2.000,1.000,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.9,1.0,732400.0,732400.0,2023,2023,2023,arbineligible,0
+18,2629,,672335,19614,Cionel Pérez,Cionel Perez,2.085,1.079,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.2,1.0,732300.0,732300.0,2023,2023,2023,arbineligible,0
+19,2624,,642585,20666,Félix Bautista,Felix Bautista,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.0,1.0,731800.0,731800.0,2023,2023,2023,arbineligible,0
+20,2628,,665152,19350,Dean Kremer,Dean Kremer,1.112,0.112,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.5,1.0,731200.0,731200.0,2023,2023,2023,arbineligible,0
+21,2620,,669211,19362,Keegan Akin,Keegan Akin,2.083,1.083,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.3,1.0,731100.0,731100.0,2023,2023,2023,arbineligible,0
+22,3242,,641329,19804,Bryan Baker,Bryan Baker,1.008,0.008,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.6,1.0,729000.0,729000.0,2023,2023,2023,arbineligible,0
+23,2627,,680694,24586,Kyle Bradish,Kyle Bradish,0.160,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.8,1.0,728100.0,728100.0,2023,2023,2023,arbineligible,0
+24,2626,,683002,26289,Gunnar Henderson,Gunnar Henderson,0.036,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,22.0,1.0,723200.0,723200.0,2023,2023,2023,arbineligible,0
+25,3440,,666974,25911,Yennier Cano,Yennier Cano,0.065,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.3,1.0,722000.0,722000.0,2023,2023,2023,arbineligible,0
+26,3446,2023-05-30T00:00:00,543305,5297,Aaron Hicks,Aaron Hicks,9.041,8.041,"league minimum, prorated",2,Free Agent,,0,0,0,0,0,-1,-1,33.8,1.0,483871.0,483871.0,2023,2023,2023,gauranteed,0
+0,55,2019-03-23T00:00:00,519242,10603,Chris Sale,Chris Sale,12.061,11.061,can opt out after 2022,3,Extension,,1,0,0,0,0,-1,-1,34.3,5.0,145000000.0,25600000.0,2020,2024,2025,gauranteed,0
+1,2487,2022-03-20T00:00:00,596115,12564,Trevor Story,Trevor Story,7.000,6.000,opt out after 2025 that club can void by exercising 2028 option,2,Free Agent,,1,0,0,0,0,-1,-1,30.6,6.0,140000000.0,23333333.33333333,2022,2027,2028,gauranteed,0
+2,3126,2022-12-07T00:00:00,807799,31837,Masataka Yoshida,Masataka Yoshida,0.000,,,2,Free Agent,,0,0,0,1,0,-1,-1,30.0,5.0,90000000.0,18000000.0,2023,2027,2027,gauranteed,0
+3,2639,,646240,17350,Rafael Devers,Rafael Devers,5.070,4.070,,13,Arbitration (Guarant,,0,0,0,0,0,-1,-1,26.7,1.0,17500000.0,17500000.0,2023,2023,2023,gauranteed,0
+4,3121,2022-12-07T00:00:00,445276,3096,Kenley Jansen,Kenley Jansen,12.073,11.073,,2,Free Agent,,0,0,0,0,0,-1,-1,35.8,2.0,32000000.0,16000000.0,2023,2024,2024,gauranteed,0
+5,9,,543333,3516,Eric Hosmer,Eric Hosmer,11.146,10.146,can opt out after 2022,2,Free Agent,,0,0,0,1,0,-1,-1,33.7,8.0,144000000.0,15375000.0,2018,2025,2025,not40man,0
+6,3165,2022-12-18T00:00:00,457759,5235,Justin Turner,Justin Turner,12.045,11.045,,2,Free Agent,,0,0,0,0,0,-1,-1,38.6,2.0,21700000.0,10850000.0,2023,2023,2024,gauranteed,0
+7,2610,2022-09-05T00:00:00,571771,10472,Enrique Hernández,Enrique Hernandez,8.054,7.054,,3,Extension,,0,0,0,1,0,-1,-1,31.9,1.0,10000000.0,10000000.0,2023,2023,2023,gauranteed,0
+8,3192,2022-12-28T00:00:00,446372,2429,Corey Kluber,Corey Kluber,10.074,9.074,,2,Free Agent,,1,0,0,0,0,-1,-1,37.2,1.0,10000000.0,10000000.0,2023,2023,2024,gauranteed,0
+9,3099,2022-12-02T00:00:00,455119,11847,Chris Martin,Chris Martin,5.133,4.133,,2,Free Agent,,0,0,0,0,0,-1,-1,37.1,2.0,17500000.0,8750000.0,2023,2024,2024,gauranteed,0
+10,3315,2023-01-18T00:00:00,594807,10950,Adam Duvall,Adam Duvall,6.151,5.151,,2,Free Agent,,0,0,0,0,0,-1,-1,34.8,1.0,7000000.0,7000000.0,2023,2023,2023,gauranteed,0
+11,2642,,657077,17027,Alex Verdugo,Alex Verdugo,4.078,3.078,,1,Arbitration,,0,0,0,0,0,-1,-1,27.1,1.0,6300000.0,6300000.0,2023,2023,2023,arbeligible,0
+12,2640,,601713,15454,Nick Pivetta,Nick Pivetta,4.166,3.166,,1,Arbitration,,0,0,0,0,0,-1,-1,30.4,1.0,5350000.0,5350000.0,2023,2023,2023,arbeligible,0
+13,2526,2022-04-10T00:00:00,676477,20191,Garrett Whitlock,Garrett Whitlock,2.000,1.000,,3,Extension,,1,0,0,0,0,-1,-1,27.1,4.0,18750000.0,4687500.0,2023,2026,2028,gauranteed,0
+14,2332,2021-12-01T00:00:00,572020,11828,James Paxton,James Paxton,8.151,7.151,,2,Free Agent,,0,0,0,0,0,-1,-1,34.7,2.0,10000000.0,4200000.0,2022,2023,2023,gauranteed,0
+15,1875,,542947,7803,Richard Bleier,Richard Bleier,6.074,5.074,,3,Extension,,1,0,0,0,0,-1,-1,36.2,2.0,6000000.0,3750000.0,2022,2023,2024,gauranteed,0
+16,2711,,609275,13769,Adalberto Mondesi,Adalberto Mondesi,5.088,4.088,,1,Arbitration,,0,0,0,0,0,-1,-1,27.9,1.0,3045000.0,3045000.0,2023,2023,2023,arbeligible,0
+17,2638,,518489,5615,Ryan Brasier,Ryan Brasier,5.109,4.109,,1,Arbitration,,0,0,0,1,0,-1,-1,35.9,1.0,2000000.0,2000000.0,2023,2023,2023,not40man,0
+18,2644,,624414,16434,Christian Arroyo,Christian Arroyo,4.036,3.036,,1,Arbitration,,0,0,0,0,0,-1,-1,28.1,1.0,2000000.0,2000000.0,2023,2023,2023,arbeligible,0
+19,3084,2022-11-23T00:00:00,570257,11487,Joely Rodríguez,Joely Rodriguez,3.096,2.096,,2,Free Agent,,1,0,0,1,0,-1,-1,31.6,1.0,2000000.0,2000000.0,2023,2023,2024,gauranteed,0
+20,2646,,624512,15674,Reese McGuire,Reese McGuire,3.027,2.027,,1,Arbitration,,0,0,0,0,0,-1,-1,28.3,1.0,1225000.0,1225000.0,2023,2023,2023,arbeligible,0
+21,2643,,608701,13770,Rob Refsnyder,Rob Refsnyder,4.048,3.091,,13,Arbitration (Guarant,,0,0,0,0,0,-1,-1,32.3,1.0,1200000.0,1200000.0,2023,2023,2023,gauranteed,0
+22,3367,2023-02-16T00:00:00,644374,14773,Yu Chang,Yu Chang,3.007,2.007,,2,Free Agent,,0,0,0,0,0,-1,-1,27.9,1.0,850000.0,850000.0,2023,2023,2023,gauranteed,0
+23,2636,,670167,20020,John Schreiber,John Schreiber,2.027,1.017,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.3,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+24,2637,,656557,19879,Tanner Houck,Tanner Houck,1.100,0.100,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.0,1.0,740000.0,740000.0,2023,2023,2023,arbineligible,0
+25,3190,,671213,22514,Triston Casas,Triston Casas,0.032,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.5,1.0,732500.0,732500.0,2023,2023,2023,arbineligible,0
+26,3320,2023-03-30T00:00:00,606132,14350,Raimel Tapia,Raimel Tapia,5.020,4.020,"$2M, prorated",2,Free Agent,,0,0,0,1,0,-1,-1,29.4,1.0,731183.0,731183.0,2023,2023,2023,not40man,0
+27,3243,,676710,20531,Kutter Crawford,Kutter Crawford,0.136,0.002,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.3,1.0,730000.0,730000.0,2023,2023,2023,arbineligible,0
+28,3487,,678394,23920,Brayan Bello,Brayan Bello,0.082,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.1,1.0,729500.0,729500.0,2023,2023,2023,arbineligible,0
+29,3433,,657136,19896,Connor Wong,Connor Wong,0.079,0.027,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.1,1.0,722000.0,722000.0,2023,2023,2023,arbineligible,0
+30,3455,,680776,24617,Jarren Duran,Jarren Duran,0.160,0.068,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.8,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+31,3297,2023-01-04T00:00:00,646240,17350,Rafael Devers,Rafael Devers,5.070,4.070,,3,Extension,,0,0,0,0,0,-1,-1,26.7,10.0,313500000.0,,2024,2033,2033,gauranteed,1
+32,3445,2023-06-03T00:00:00,608701,13770,Rob Refsnyder,Rob Refsnyder,4.048,3.091,,3,Extension,,1,0,0,0,0,-1,-1,32.3,1.0,1850000.0,,2024,2024,2025,gauranteed,1
+0,1608,2021-07-17T00:00:00,458681,2520,Lance Lynn,Lance Lynn,11.119,10.119,,3,Extension,,1,0,0,0,0,-1,-1,36.2,2.0,38000000.0,19000000.0,2022,2023,2024,gauranteed,0
+1,395,2019-11-21T00:00:00,518735,11368,Yasmani Grandal,Yasmani Grandal,10.115,9.115,,2,Free Agent,,0,0,0,0,0,-1,-1,34.7,4.0,73000000.0,18250000.0,2020,2023,2023,gauranteed,0
+2,1412,2021-01-11T00:00:00,521230,3548,Liam Hendriks,Liam Hendriks,8.164,7.164,,2,Free Agent,,1,0,0,0,0,-1,-1,34.4,3.0,54000000.0,18000000.0,2021,2023,2024,gauranteed,0
+3,3158,2022-12-16T00:00:00,643217,17901,Andrew Benintendi,Andrew Benintendi,6.062,5.062,,2,Free Agent,,0,0,0,0,0,-1,-1,29.0,5.0,75000000.0,15000000.0,2023,2027,2027,gauranteed,0
+4,404,2020-03-06T00:00:00,660162,17232,Yoán Moncada,Yoan Moncada,5.106,4.106,,3,Extension,,1,0,0,0,0,-1,-1,28.1,5.0,70000000.0,14000000.0,2020,2024,2025,gauranteed,0
+5,401,2017-03-21T00:00:00,641313,15172,Tim Anderson,Tim Anderson,6.115,5.115,,3,Extension,,1,0,0,0,0,-1,-1,30.0,7.0,36500000.0,12500000.0,2017,2023,2024,gauranteed,0
+6,3088,2022-11-27T00:00:00,605182,12808,Mike Clevinger,Mike Clevinger,6.033,5.033,,2,Free Agent,,0,1,0,0,0,-1,-1,32.5,1.0,12000000.0,12000000.0,2023,2023,2024,gauranteed,0
+7,2651,,608337,15474,Lucas Giolito,Lucas Giolito,5.080,4.080,,1,Arbitration,,0,0,0,0,0,-1,-1,29.0,1.0,10400000.0,10400000.0,2023,2023,2023,arbeligible,0
+8,2369,2022-03-12T00:00:00,523260,9761,Joe Kelly,Joe Kelly,10.029,9.029,,2,Free Agent,,1,0,0,0,0,-1,-1,35.1,2.0,17000000.0,8500000.0,2022,2023,2024,gauranteed,0
+9,405,2020-01-02T00:00:00,673357,20043,Luis Robert Jr.,Luis Robert,3.000,2.000,,2,Free Agent,,1,0,0,0,0,-1,-1,25.9,6.0,50000000.0,8333333.33333333,2020,2025,2027,gauranteed,0
+10,2295,2021-11-23T00:00:00,608665,15514,Kendall Graveman,Kendall Graveman,7.078,6.078,,2,Free Agent,,0,0,0,0,0,-1,-1,32.5,3.0,24000000.0,8000000.0,2022,2024,2024,gauranteed,0
+11,403,2019-03-22T00:00:00,650391,17484,Eloy Jiménez,Eloy Jimenez,4.000,3.000,,3,Extension,,1,0,0,0,0,-1,-1,26.6,6.0,43000000.0,7166666.66666667,2019,2024,2026,gauranteed,0
+12,2655,,656302,18525,Dylan Cease,Dylan Cease,3.089,2.089,,1,Arbitration,,0,0,0,0,0,-1,-1,27.5,1.0,5700000.0,5700000.0,2023,2023,2023,arbeligible,0
+13,2330,2021-11-30T00:00:00,544725,5913,Leury García,Leury Garcia,8.025,7.025,,2,Free Agent,,0,0,0,1,0,-1,-1,32.3,3.0,16500000.0,5500000.0,2022,2024,2024,not40man,0
+14,2402,2022-03-15T00:00:00,518617,5003,Jake Diekman,Jake Diekman,10.050,9.050,,2,Free Agent,,1,0,0,0,0,-1,-1,36.5,2.0,8000000.0,4000000.0,2022,2023,2023,not40man,0
+15,2654,,625643,16400,Reynaldo López,Reynaldo Lopez,5.004,4.004,,1,Arbitration,,0,0,0,0,0,-1,-1,29.5,1.0,3625000.0,3625000.0,2023,2023,2023,arbeligible,0
+16,406,2020-02-22T00:00:00,607481,16258,Aaron Bummer,Aaron Bummer,4.150,3.150,,3,Extension,,1,0,0,0,0,-1,-1,29.8,5.0,16000000.0,3200000.0,2020,2024,2026,gauranteed,0
+17,3377,2023-02-19T00:00:00,462101,8709,Elvis Andrus,Elvis Andrus,14.000,13.000,,2,Free Agent,,0,0,0,0,0,-1,-1,34.9,1.0,3000000.0,3000000.0,2023,2023,2023,gauranteed,0
+18,2657,,656629,17282,Michael Kopech,Michael Kopech,3.041,2.041,,1,Arbitration,,0,0,0,0,0,-1,-1,27.2,1.0,2050000.0,2050000.0,2023,2023,2023,arbeligible,0
+19,3425,,641871,15264,Keynan Middleton,Keynan Middleton,5.023,4.052,,1,Arbitration,,0,0,0,0,0,-1,-1,29.8,1.0,1000000.0,1000000.0,2023,2023,2023,arbeligible,0
+20,3300,2023-03-30T00:00:00,593643,11902,Hanser Alberto,Hanser Alberto,6.085,5.085,"$2.3M, prorated",2,Free Agent,,0,0,0,1,0,-1,-1,30.7,1.0,791398.0,791398.0,2023,2023,2023,not40man,0
+21,2649,,683734,26197,Andrew Vaughn,Andrew Vaughn,2.000,1.000,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.3,1.0,760000.0,760000.0,2023,2023,2023,arbineligible,0
+22,2650,,669424,19541,Jimmy Lambert,Jimmy Lambert,1.134,1.007,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.6,1.0,735000.0,735000.0,2023,2023,2023,arbineligible,0
+23,3435,,657757,19901,Gavin Sheets,Gavin Sheets,1.073,0.076,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.2,1.0,735000.0,735000.0,2023,2023,2023,arbineligible,0
+24,2648,,676979,27463,Garrett Crochet,Garrett Crochet,2.028,1.028,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.0,1.0,733000.0,733000.0,2023,2023,2023,arbineligible,0
+25,3244,,664874,18887,Seby Zavala,Seby Zavala,1.045,0.080,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.9,1.0,732000.0,732000.0,2023,2023,2023,arbineligible,0
+26,3429,,669394,22275,Jake Burger,Jake Burger,0.127,0.024,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.2,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+27,3488,,666619,21894,Gregory Santos,Gregory Santos,0.055,0.006,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.9,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,2517,2022-04-06T00:00:00,608070,13510,José Ramírez,Jose Ramirez,8.074,7.074,,3,Extension,,0,0,0,0,0,-1,-1,30.8,7.0,141000000.0,20142857.14285714,2022,2028,2028,gauranteed,0
+1,3113,2022-12-06T00:00:00,605137,13145,Josh Bell,Josh Bell,6.053,5.053,,2,Free Agent,,0,0,0,0,0,-1,-1,30.9,2.0,33000000.0,16500000.0,2023,2024,2024,gauranteed,0
+2,2672,2023-03-30T00:00:00,665926,19950,Andrés Giménez,Andres Gimenez,2.106,1.106,,3,Extension,,1,0,0,0,0,-1,-1,24.8,7.0,106500000.0,15214285.71428571,2023,2029,2030,gauranteed,0
+3,2661,,669456,19427,Shane Bieber,Shane Bieber,4.097,3.097,,1,Arbitration,,0,0,0,0,0,-1,-1,28.1,1.0,10010000.0,10010000.0,2023,2023,2023,arbeligible,0
+4,2660,,642708,15518,Amed Rosario,Amed Rosario,5.062,4.062,,1,Arbitration,,0,0,0,0,0,-1,-1,27.6,1.0,7800000.0,7800000.0,2023,2023,2023,arbeligible,0
+5,3138,2022-12-13T00:00:00,572287,13265,Mike Zunino,Mike Zunino,8.165,7.165,,2,Free Agent,,0,0,0,1,0,-1,-1,32.3,1.0,6000000.0,6000000.0,2023,2023,2023,not40man,0
+6,2663,,615698,19312,Cal Quantrill,Cal Quantrill,3.132,2.132,,1,Arbitration,,0,0,0,0,0,-1,-1,28.4,1.0,5550000.0,5550000.0,2023,2023,2023,arbeligible,0
+7,2063,2022-04-09T00:00:00,664702,17620,Myles Straw,Myles Straw,3.112,2.112,,3,Extension,,1,0,0,0,0,-1,-1,28.7,5.0,25000000.0,5000000.0,2022,2026,2028,gauranteed,0
+8,2069,,661403,21032,Emmanuel Clase,Emmanuel Clase,2.059,1.059,,3,Extension,,1,0,0,0,0,-1,-1,25.3,5.0,20000000.0,4000000.0,2022,2026,2028,gauranteed,0
+9,2664,,647304,18839,Josh Naylor,Josh Naylor,3.127,2.127,,1,Arbitration,,0,0,0,0,0,-1,-1,26.0,1.0,3350000.0,3350000.0,2023,2023,2023,arbeligible,0
+10,2665,,668676,19979,Zach Plesac,Zach Plesac,3.086,2.086,,1,Arbitration,,0,0,0,1,0,-1,-1,28.5,1.0,2950000.0,2950000.0,2023,2023,2023,not40man,0
+11,2666,,650644,19479,Aaron Civale,Aaron Civale,3.058,2.058,,1,Arbitration,,0,0,0,0,0,-1,-1,28.1,1.0,2600000.0,2600000.0,2023,2023,2023,arbeligible,0
+12,2673,2023-03-29T00:00:00,663986,19932,Trevor Stephan,Trevor Stephan,2.000,1.000,,3,Extension,,1,0,0,0,0,-1,-1,27.6,4.0,10000000.0,2500000.0,2023,2026,2028,gauranteed,0
+13,2667,,675916,20151,James Karinchak,James Karinchak,2.169,1.169,,1,Arbitration,,0,0,0,0,0,1,-1,27.8,1.0,1500000.0,1500000.0,2023,2023,2023,arbeligible,0
+14,3204,2023-03-30T00:00:00,595956,12981,Cam Gallagher,Cam Gallagher,4.073,3.106,,8,Free Agent/Arb,,0,0,0,0,0,-1,-1,30.6,1.0,1250000.0,1250000.0,2023,2023,2023,arbeligible,0
+15,2670,,660853,18403,Enyel De Los Santos,Enyel De Los Santos,2.015,1.017,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.5,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+16,2671,,663474,18000,Triston McKenzie,Triston McKenzie,2.074,1.074,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.9,1.0,739500.0,739500.0,2023,2023,2023,arbineligible,0
+17,2669,,656529,18548,Sam Hentges,Sam Hentges,1.157,0.157,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.0,1.0,730200.0,730200.0,2023,2023,2023,arbineligible,0
+18,2676,,680757,24610,Steven Kwan,Steven Kwan,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.8,1.0,727300.0,727300.0,2023,2023,2023,arbineligible,0
+19,2674,,669212,20203,Eli Morgan,Eli Morgan,1.108,0.108,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.1,1.0,727000.0,727000.0,2023,2023,2023,arbineligible,0
+20,2675,,680704,20517,Nick Sandlin,Nick Sandlin,1.152,0.157,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.5,1.0,726000.0,726000.0,2023,2023,2023,arbineligible,0
+21,2668,,660757,20970,Oscar Gonzalez,Oscar Gonzalez,0.133,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.5,1.0,722600.0,722600.0,2023,2023,2023,arbineligible,0
+22,3462,,686823,25660,Will Brennan,Will Brennan,0.015,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,720100.0,720100.0,2023,2023,2023,arbineligible,0
+23,3473,,676440,30134,Tanner Bibee,Tanner Bibee,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.3,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+24,3474,,671106,27589,Logan Allen,Logan Allen,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.8,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,439,,408234,1744,Miguel Cabrera,Miguel Cabrera,19.101,18.101,,3,Extension,,0,0,1,0,0,-1,-1,40.2,8.0,248000000.0,31000000.0,2016,2023,2025,gauranteed,0
+1,2323,2021-11-30T00:00:00,595879,12979,Javier Báez,Javier Baez,7.089,6.089,can opt out after 2023,2,Free Agent,,0,0,0,0,0,-1,-1,30.6,6.0,140000000.0,23333333.33333333,2022,2027,2027,gauranteed,0
+2,2287,2021-11-15T00:00:00,593958,13164,Eduardo Rodriguez,Eduardo Rodriguez,7.070,6.130,2022 salary reduced (restricted list),2,Free Agent,,0,0,0,0,0,-1,-1,30.2,5.0,71846154.0,15400000.0,2022,2026,2026,gauranteed,0
+3,3095,2022-12-01T00:00:00,571510,15440,Matthew Boyd,Matthew Boyd,6.136,5.136,,2,Free Agent,,0,0,0,0,0,-1,-1,32.4,1.0,10000000.0,10000000.0,2023,2023,2023,gauranteed,0
+4,3145,2022-12-14T00:00:00,547179,14843,Michael Lorenzen,Michael Lorenzen,7.159,6.159,,2,Free Agent,,0,0,0,0,0,-1,-1,31.5,1.0,8500000.0,8500000.0,2023,2023,2023,gauranteed,0
+5,1681,2021-08-07T00:00:00,570731,11265,Jonathan Schoop,Jonathan Schoop,9.027,8.027,,3,Extension,,0,0,0,1,0,-1,-1,31.7,2.0,15000000.0,7500000.0,2022,2023,2023,gauranteed,0
+6,2681,,640457,15672,Austin Meadows,Austin Meadows,4.074,3.074,,1,Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,4300000.0,4300000.0,2023,2023,2023,arbeligible,0
+7,2679,,542585,6399,José Cisnero,Jose Cisnero,5.020,4.020,,1,Arbitration,,0,0,0,0,0,-1,-1,34.2,1.0,2287500.0,2287500.0,2023,2023,2023,arbeligible,0
+8,2684,,641302,17735,Tyler Alexander,Tyler Alexander,3.058,2.058,,1,Arbitration,,0,0,0,0,0,-1,-1,29.0,1.0,1875000.0,1875000.0,2023,2023,2023,arbeligible,0
+9,2081,,605513,16207,Spencer Turnbull,Spencer Turnbull,4.020,3.020,,3,Extension,,0,0,0,0,0,-1,-1,30.8,2.0,3650000.0,1825000.0,2022,2023,2023,gauranteed,0
+10,3291,2023-03-30T00:00:00,592741,10855,Chasen Shreve,Chasen Shreve,5.158,5.158,,2,Free Agent,,0,0,0,0,0,-1,-1,33.0,1.0,1250000.0,1250000.0,2023,2023,2023,gauranteed,0
+11,2686,,665621,20430,Rony García,Rony Garcia,2.138,1.142,,1,Arbitration,,0,0,0,0,0,1,-1,25.5,1.0,830000.0,830000.0,2023,2023,2023,arbeligible,0
+12,2689,,669373,22267,Tarik Skubal,Tarik Skubal,2.114,1.114,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.6,1.0,743700.0,743700.0,2023,2023,2023,arbineligible,0
+13,2690,,606992,14111,Eric Haase,Eric Haase,2.072,1.072,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,30.5,1.0,740100.0,740100.0,2023,2023,2023,arbineligible,0
+14,3449,,656716,19392,Zach McKinstry,Zach McKinstry,1.099,0.148,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,734500.0,734500.0,2023,2023,2023,arbineligible,0
+15,2688,,663554,20492,Casey Mize,Casey Mize,2.111,1.111,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.2,1.0,734200.0,734200.0,2023,2023,2023,arbineligible,0
+16,3246,,666159,20369,Matt Manning,Matt Manning,1.098,0.098,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,729200.0,729200.0,2023,2023,2023,arbineligible,0
+17,2694,,682985,25976,Riley Greene,Riley Greene,0.110,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,22.8,1.0,727800.0,727800.0,2023,2023,2023,arbineligible,0
+18,3042,,663837,21558,Matt Vierling,Matt Vierling,1.026,0.043,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.8,1.0,727100.0,727100.0,2023,2023,2023,arbineligible,0
+19,3286,,665155,21635,Nick Maton,Nick Maton,1.034,0.088,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.4,1.0,726600.0,726600.0,2023,2023,2023,arbineligible,0
+20,3247,,671345,19531,Jason Foley,Jason Foley,1.026,0.033,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.7,1.0,726200.0,726200.0,2023,2023,2023,arbineligible,0
+21,2692,,668670,19452,Jake Rogers,Jake Rogers,2.040,1.040,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,726000.0,726000.0,2023,2023,2023,arbineligible,0
+22,2693,,656638,19883,Alex Lange,Alex Lange,1.112,0.112,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.8,1.0,726000.0,726000.0,2023,2023,2023,arbineligible,0
+23,2691,,679529,27465,Spencer Torkelson,Spencer Torkelson,0.137,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.9,1.0,723100.0,723100.0,2023,2023,2023,arbineligible,0
+24,3459,,670097,19562,Zack Short,Zack Short,0.102,0.088,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.1,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+25,3245,,668731,22168,Akil Baddoo,Akil Baddoo,1.119,1.000,,0,Pre-Arbitration,,0,0,0,0,1,-1,-1,24.9,1.0,0.0,,2023,2023,2023,arbineligible,0
+0,1574,2021-03-21T00:00:00,521692,7304,Salvador Perez,Salvador Perez,11.050,10.050,,3,Extension,,1,0,0,0,0,-1,-1,33.2,4.0,82000000.0,20500000.0,2022,2025,2026,gauranteed,0
+1,3171,2022-12-20T00:00:00,543475,7593,Jordan Lyles,Jordan Lyles,11.002,10.002,,2,Free Agent,,0,0,0,0,0,-1,-1,32.7,2.0,17000000.0,8500000.0,2023,2024,2024,gauranteed,0
+2,3338,2023-01-30T00:00:00,425844,1943,Zack Greinke,Zack Greinke,18.057,17.057,,2,Free Agent,,0,0,0,0,0,-1,-1,39.7,1.0,8500000.0,8500000.0,2023,2023,2023,gauranteed,0
+3,1096,2021-03-01T00:00:00,641531,15117,Hunter Dozier,Hunter Dozier,5.060,4.060,,3,Extension,,1,0,0,0,0,-1,-1,31.9,4.0,25000000.0,6250000.0,2021,2024,2024,not40man,0
+4,2712,,641745,15734,Brad Keller,Brad Keller,5.000,4.000,,1,Arbitration,,0,0,0,0,0,-1,-1,27.9,1.0,5775000.0,5775000.0,2023,2023,2023,arbeligible,0
+5,2713,,605130,14993,Scott Barlow,Scott Barlow,4.030,3.030,,1,Arbitration,,0,0,0,0,0,-1,-1,30.5,1.0,5300000.0,5300000.0,2023,2023,2023,arbeligible,0
+6,2715,,670032,19339,Nicky Lopez,Nicky Lopez,3.139,2.139,,1,Arbitration,,0,0,0,0,0,-1,-1,28.3,1.0,3700000.0,3700000.0,2023,2023,2023,arbeligible,0
+7,3141,2022-12-13T00:00:00,642232,16502,Ryan Yarbrough,Ryan Yarbrough,4.117,3.147,,2,Free Agent,,0,0,0,0,0,-1,-1,31.5,1.0,3000000.0,3000000.0,2023,2023,2023,gauranteed,0
+8,2718,,663903,25377,Brady Singer,Brady Singer,2.156,2.000,,1,Arbitration,,0,0,0,0,0,1,-1,26.9,1.0,2950000.0,2950000.0,2023,2023,2023,arbeligible,0
+9,2710,,607237,14375,Amir Garrett,Amir Garrett,5.099,4.099,,1,Arbitration,,0,0,0,0,0,-1,-1,31.2,1.0,2650000.0,2650000.0,2023,2023,2023,arbeligible,0
+10,2719,,663460,21455,Kris Bubic,Kris Bubic,2.135,1.148,,1,Arbitration,,0,0,0,0,0,1,-1,25.9,1.0,2200000.0,2200000.0,2023,2023,2023,arbeligible,0
+11,3331,2023-03-30T00:00:00,622110,13836,Matt Duffy,Matt Duffy,7.059,6.059,,2,Free Agent,,0,0,0,0,0,-1,-1,32.5,1.0,1500000.0,1500000.0,2023,2023,2023,gauranteed,0
+12,2716,,664199,17611,Taylor Clarke,Taylor Clarke,3.120,2.106,,1,Arbitration,,0,0,0,0,0,-1,-1,30.1,1.0,1150000.0,1150000.0,2023,2023,2023,arbeligible,0
+13,2645,,657031,17359,Josh Taylor,Josh Taylor,3.121,2.121,,1,Arbitration,,0,0,0,0,0,-1,-1,30.3,1.0,1025000.0,1025000.0,2023,2023,2023,arbeligible,0
+14,2717,,622251,18335,Josh Staumont,Josh Staumont,3.072,2.072,,1,Arbitration,,0,0,0,0,0,-1,-1,29.5,1.0,1025000.0,1025000.0,2023,2023,2023,arbeligible,0
+15,3394,2023-03-16T00:00:00,641394,17783,Jake Brentz,Jake Brentz,2.000,1.000,,2,Free Agent,,0,0,0,0,0,-1,-1,28.8,2.0,1900000.0,950000.0,2023,2024,2024,gauranteed,0
+16,2723,,677951,25764,Bobby Witt Jr.,Bobby Witt Jr.,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.1,1.0,745750.0,745750.0,2023,2023,2023,arbineligible,0
+17,3251,,658668,19698,Edward Olivares,Edward Olivares,2.055,1.045,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.3,1.0,740750.0,740750.0,2023,2023,2023,arbineligible,0
+18,2721,,663738,21537,Daniel Lynch,Daniel Lynch,1.083,0.083,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.6,1.0,730250.0,730250.0,2023,2023,2023,arbineligible,0
+19,3480,,672578,22713,Carlos Hernández,Carlos Hernandez,1.145,1.043,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.3,1.0,730250.0,730250.0,2023,2023,2023,arbineligible,0
+20,2724,,669004,22197,MJ Melendez,MJ Melendez,0.153,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.6,1.0,726500.0,726500.0,2023,2023,2023,arbineligible,0
+21,2725,,686469,27676,Vinnie Pasquantino,Vinnie Pasquantino,0.101,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.7,1.0,725500.0,725500.0,2023,2023,2023,arbineligible,0
+22,3456,,672580,22715,Maikel Garcia,Maikel Garcia,0.015,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.3,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+23,3463,,668472,22117,Nick Pratto,Nick Pratto,0.080,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.7,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+24,3387,2023-03-30T00:00:00,598265,12984,Jackie Bradley Jr.,Jackie Bradley Jr.,8.150,7.150,"$950K, prorated",2,Free Agent,,0,0,0,1,0,-1,-1,33.2,1.0,383065.0,383065.0,2023,2023,2023,not40man,0
+0,3142,2023-01-10T00:00:00,621043,14162,Carlos Correa,Carlos Correa,7.119,6.119,,2,Free Agent,,0,0,1,0,0,-1,-1,28.8,6.0,200000000.0,33333333.33333333,2023,2028,2032,gauranteed,0
+1,2133,,621439,14161,Byron Buxton,Byron Buxton,6.160,5.160,,3,Extension,,0,0,0,0,0,-1,-1,29.5,7.0,100000000.0,14285714.28571429,2022,2028,2028,gauranteed,0
+2,132,2019-01-21T00:00:00,543243,12768,Sonny Gray,Sonny Gray,9.061,8.061,,3,Extension,,0,0,0,0,0,-1,-1,33.7,4.0,45000000.0,12500000.0,2020,2023,2023,gauranteed,0
+3,3157,2022-12-16T00:00:00,608336,14128,Joey Gallo,Joey Gallo,6.103,5.103,,2,Free Agent,,0,0,0,0,0,-1,-1,29.6,1.0,11000000.0,11000000.0,2023,2023,2023,gauranteed,0
+4,3137,2022-12-12T00:00:00,543877,9774,Christian Vázquez,Christian Vazquez,8.031,7.031,,2,Free Agent,,0,0,0,0,0,-1,-1,32.9,3.0,30000000.0,10000000.0,2023,2025,2025,gauranteed,0
+5,2818,,641816,16358,Tyler Mahle,Tyler Mahle,5.018,4.018,,1,Arbitration,,0,0,0,0,0,-1,-1,28.8,1.0,7500000.0,7500000.0,2023,2023,2023,arbeligible,0
+6,520,,596146,12144,Max Kepler,Max Kepler,6.152,5.152,,3,Extension,,1,0,0,0,0,-1,-1,30.4,5.0,35000000.0,7000000.0,2019,2023,2024,gauranteed,0
+7,2753,,571657,14813,Kyle Farmer,Kyle Farmer,4.129,3.129,,1,Arbitration,,0,0,0,0,0,-1,-1,32.9,1.0,5585000.0,5585000.0,2023,2023,2023,arbeligible,0
+8,2791,,641154,17085,Pablo López,Pablo Lopez,4.093,3.093,,13,Arbitration (Guarant,,0,0,0,0,0,-1,-1,27.3,1.0,5450000.0,5450000.0,2023,2023,2023,gauranteed,0
+9,524,,593871,13152,Jorge Polanco,Jorge Polanco,6.024,5.024,,3,Extension,,1,0,0,0,0,-1,-1,30.0,5.0,25749999.0,5149999.8,2019,2023,2025,gauranteed,0
+10,1777,,572191,11489,Michael A. Taylor,Michael A. Taylor,7.129,6.129,,3,Extension,,0,0,0,1,0,-1,-1,32.3,2.0,9000000.0,4500000.0,2022,2023,2023,gauranteed,0
+11,2822,,663978,20099,Chris Paddack,Chris Paddack,4.000,3.000,,3,Extension,,0,0,0,0,0,-1,-1,27.5,3.0,12500000.0,4166666.66666667,2023,2025,2025,gauranteed,0
+12,2820,,605347,14527,Jorge López,Jorge Lopez,4.102,3.102,,1,Arbitration,,0,0,0,0,0,-1,-1,30.4,1.0,3525000.0,3525000.0,2023,2023,2023,arbeligible,0
+13,2817,,641941,14771,Emilio Pagán,Emilio Pagan,5.091,4.091,,1,Arbitration,,0,0,0,0,0,-1,-1,32.2,1.0,3500000.0,3500000.0,2023,2023,2023,arbeligible,0
+14,523,,628317,18498,Kenta Maeda,Kenta Maeda,7.000,6.000,,2,Free Agent,,0,0,0,0,0,-1,-1,35.2,8.0,26000000.0,3250000.0,2016,2023,2023,gauranteed,0
+15,2819,,573204,10078,Caleb Thielbar,Caleb Thielbar,4.131,3.131,,1,Arbitration,,0,0,0,0,0,-1,-1,36.4,1.0,2400000.0,2400000.0,2023,2023,2023,arbeligible,0
+16,3380,2023-02-21T00:00:00,456781,8623,Donovan Solano,Donovan Solano,7.081,6.081,,2,Free Agent,,0,0,0,0,0,-1,-1,35.6,1.0,2000000.0,2000000.0,2023,2023,2023,gauranteed,0
+17,1272,2021-03-28T00:00:00,677976,23798,Randy Dobnak,Randy Dobnak,2.043,2.043,,3,Extension,,1,0,0,0,0,-1,-1,28.5,5.0,9250000.0,1850000.0,2021,2025,2028,not40man,0
+18,3196,,650489,17338,Willi Castro,Willi Castro,3.017,2.017,,1,Arbitration,,0,0,0,0,0,-1,-1,26.2,1.0,1800000.0,1800000.0,2023,2023,2023,arbeligible,0
+19,2826,,660896,19459,Jorge Alcala,Jorge Alcala,3.014,2.014,,1,Arbitration,,0,0,0,0,0,-1,-1,27.9,1.0,790000.0,790000.0,2023,2023,2023,arbeligible,0
+20,2827,,664247,18063,Kyle Garlick,Kyle Garlick,2.163,1.163,,1,Arbitration,,0,0,0,1,0,1,-1,31.4,1.0,750000.0,750000.0,2023,2023,2023,not40man,0
+21,2968,,680777,24618,Ryan Jeffers,Ryan Jeffers,2.089,1.089,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.1,1.0,741650.0,741650.0,2023,2023,2023,arbineligible,0
+22,2969,,666135,20325,Alex Kirilloff,Alex Kirilloff,1.141,0.165,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.7,1.0,735650.0,735650.0,2023,2023,2023,arbineligible,0
+23,3257,,624503,16337,Nick Gordon,Nick Gordon,1.136,0.136,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.7,1.0,735400.0,735400.0,2023,2023,2023,arbineligible,0
+24,2972,,663616,21501,Trevor Larnach,Trevor Larnach,1.101,0.101,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.4,1.0,733650.0,733650.0,2023,2023,2023,arbineligible,0
+25,2974,,643377,20253,Griffin Jax,Griffin Jax,1.091,0.091,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.6,1.0,733150.0,733150.0,2023,2023,2023,arbineligible,0
+26,2971,,657746,21390,Joe Ryan,Joe Ryan,1.033,0.033,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.1,1.0,730250.0,730250.0,2023,2023,2023,arbineligible,0
+27,2975,,669304,20538,Jose Miranda,Jose Miranda,0.157,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.0,1.0,727850.0,727850.0,2023,2023,2023,arbineligible,0
+28,3256,,668904,20437,Royce Lewis,Royce Lewis,0.142,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.1,1.0,727100.0,727100.0,2023,2023,2023,arbineligible,0
+29,3258,,663558,20422,Jovani Moran,Jovani Moran,0.124,0.023,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.2,1.0,726200.0,726200.0,2023,2023,2023,arbineligible,0
+30,2973,,661395,21029,Jhoan Duran,Jhoan Duran,1.000,0.000,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.5,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+31,2970,,641927,21224,Bailey Ober,Bailey Ober,1.124,0.124,,0,Pre-Arbitration,,0,0,0,0,1,-1,-1,28.0,1.0,0.0,,2023,2023,2023,arbineligible,0
+32,3417,2023-04-17T00:00:00,641154,17085,Pablo López,Pablo Lopez,4.093,3.093,,3,Extension,,0,0,0,1,0,-1,-1,27.3,4.0,73500000.0,,2024,2027,2027,gauranteed,1
+0,3120,2022-12-07T00:00:00,592450,15640,Aaron Judge,Aaron Judge,6.051,5.051,,2,Free Agent,,0,0,0,0,0,-1,-1,31.2,9.0,360000000.0,40000000.0,2023,2031,2031,gauranteed,0
+1,537,2020-01-01T00:00:00,543037,13125,Gerrit Cole,Gerrit Cole,9.111,8.111,can opt out after 2024; team can void opt-out by adding 2029 club option,2,Free Agent,,0,0,0,0,0,-1,-1,32.8,9.0,324000000.0,36000000.0,2020,2028,2028,gauranteed,0
+2,3150,2022-12-15T00:00:00,607074,16137,Carlos Rodón,Carlos Rodon,7.168,6.168,,2,Free Agent,,0,0,0,0,0,-1,-1,30.6,6.0,162000000.0,27000000.0,2023,2028,2028,gauranteed,0
+3,513,2020-01-01T00:00:00,518626,5038,Josh Donaldson,Josh Donaldson,10.158,9.158,,2,Free Agent,,0,1,0,0,0,-1,-1,37.6,4.0,92000000.0,25000000.0,2020,2023,2024,gauranteed,0
+4,538,,519317,4949,Giancarlo Stanton,Giancarlo Stanton,12.118,11.118,,3,Extension,,1,0,0,0,0,-1,-1,33.7,13.0,325000000.0,25000000.0,2015,2027,2028,gauranteed,0
+5,3082,2022-11-15T00:00:00,519203,3473,Anthony Rizzo,Anthony Rizzo,10.168,9.168,,2,Free Agent,,1,0,0,0,0,-1,-1,33.9,2.0,40000000.0,20000000.0,2023,2024,2025,gauranteed,0
+6,545,,622663,15890,Luis Severino,Luis Severino,6.170,5.170,,3,Extension,,0,0,0,0,0,-1,-1,29.4,5.0,52250000.0,15000000.0,2019,2023,2023,gauranteed,0
+7,1417,2021-01-15T00:00:00,518934,9874,DJ LeMahieu,DJ LeMahieu,10.128,9.128,,2,Free Agent,,0,0,0,0,0,-1,-1,35.0,6.0,90000000.0,15000000.0,2021,2026,2026,gauranteed,0
+8,544,,543305,5297,Aaron Hicks,Aaron Hicks,9.041,8.041,,3,Extension,,1,0,0,0,0,-1,-1,33.8,7.0,70000000.0,10000000.0,2019,2025,2025,not40man,0
+9,2840,,650402,16997,Gleyber Torres,Gleyber Torres,4.162,3.162,,1,Arbitration,,0,0,0,0,0,-1,-1,26.6,1.0,9950000.0,9950000.0,2023,2023,2023,arbeligible,0
+10,2837,,593423,14309,Frankie Montas,Frankie Montas,5.015,4.015,,1,Arbitration,,0,0,0,0,0,-1,-1,30.3,1.0,7500000.0,7500000.0,2023,2023,2023,arbeligible,0
+11,2838,,643396,16512,Isiah Kiner-Falefa,Isiah Kiner-Falefa,5.000,4.000,,1,Arbitration,,0,0,0,0,0,-1,-1,28.3,1.0,6000000.0,6000000.0,2023,2023,2023,arbeligible,0
+12,3107,2022-12-06T00:00:00,592454,11384,Tommy Kahnle,Tommy Kahnle,7.131,6.131,,2,Free Agent,,0,0,0,0,0,-1,-1,33.9,2.0,11500000.0,5750000.0,2023,2024,2024,gauranteed,0
+13,1987,,664056,18030,Harrison Bader,Harrison Bader,5.030,4.030,,3,Extension,,0,0,0,0,0,-1,-1,29.1,2.0,10400000.0,5200000.0,2022,2023,2023,gauranteed,0
+14,2839,,642152,15043,Lou Trivino,Lou Trivino,4.163,3.163,,1,Arbitration,,0,0,0,0,0,-1,-1,31.8,1.0,4100000.0,4100000.0,2023,2023,2023,arbeligible,0
+15,2836,,593974,14295,Wandy Peralta,Wandy Peralta,5.168,4.168,,1,Arbitration,,0,0,0,0,0,-1,-1,31.9,1.0,3350000.0,3350000.0,2023,2023,2023,arbeligible,0
+16,2841,,605280,13649,Clay Holmes,Clay Holmes,4.031,3.031,,1,Arbitration,,0,0,0,0,0,-1,-1,30.3,1.0,3300000.0,3300000.0,2023,2023,2023,arbeligible,0
+17,2847,,641482,17874,Nestor Cortes,Nestor Cortes,3.094,2.094,,1,Arbitration,,0,0,0,0,0,-1,-1,28.6,1.0,3200000.0,3200000.0,2023,2023,2023,arbeligible,0
+18,2843,,593334,17149,Domingo Germán,Domingo German,4.017,3.017,,1,Arbitration,,0,0,0,0,0,-1,-1,30.9,1.0,2600000.0,2600000.0,2023,2023,2023,arbeligible,0
+19,2848,,624431,16725,Jose Trevino,Jose Trevino,3.063,2.063,,1,Arbitration,,0,0,0,0,0,-1,-1,30.6,1.0,2360000.0,2360000.0,2023,2023,2023,arbeligible,0
+20,2842,,642528,19753,Jonathan Loáisiga,Jonathan Loaisiga,4.022,3.022,,1,Arbitration,,0,0,0,0,0,-1,-1,28.7,1.0,2262500.0,2262500.0,2023,2023,2023,arbeligible,0
+21,2845,,543309,5517,Kyle Higashioka,Kyle Higashioka,4.005,3.005,,1,Arbitration,,0,0,0,0,0,-1,-1,33.2,1.0,1462500.0,1462500.0,2023,2023,2023,arbeligible,0
+22,2849,,650633,19853,Michael King,Michael King,3.004,2.004,,1,Arbitration,,0,0,0,0,0,-1,-1,28.1,1.0,1300000.0,1300000.0,2023,2023,2023,arbeligible,0
+23,3101,2022-03-29T00:00:00,614173,14567,Franchy Cordero,Franchy Cordero,4.092,3.122,,2,Free Agent,,0,0,0,0,0,-1,-1,28.8,1.0,1000000.0,1000000.0,2023,2023,2023,gauranteed,0
+24,3483,,641656,19261,Ian Hamilton,Ian Hamilton,0.126,0.114,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.1,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+25,2976,,664123,18384,Scott Effross,Scott Effross,1.037,0.037,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.5,1.0,742750.0,742750.0,2023,2023,2023,arbineligible,0
+26,3259,,665828,21707,Oswaldo Cabrera,Oswaldo Cabrera,0.050,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.3,1.0,742100.0,742100.0,2023,2023,2023,arbineligible,0
+27,3482,,657376,19899,Clarke Schmidt,Clarke Schmidt,1.148,1.010,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.4,1.0,740475.0,740475.0,2023,2023,2023,arbineligible,0
+28,3260,,676760,23488,Ron Marinaccio,Ron Marinaccio,0.154,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.0,1.0,739900.0,739900.0,2023,2023,2023,arbineligible,0
+29,3261,,656061,17485,Albert Abreu,Albert Abreu,1.118,0.114,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.8,1.0,738700.0,738700.0,2023,2023,2023,arbineligible,0
+30,3262,,661563,21052,Luis Gil,Luis Gil,0.073,0.015,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.1,1.0,732400.0,732400.0,2023,2023,2023,arbineligible,0
+31,3405,,683011,27647,Anthony Volpe,Anthony Volpe,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,22.2,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+32,3419,,622772,15690,Jimmy Cordero,Jimmy Cordero,2.136,2.136,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,31.7,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,3124,2022-12-07T00:00:00,649557,15937,Aledmys Díaz,Aledmys Diaz,6.100,5.100,,2,Free Agent,,0,0,0,0,0,-1,-1,32.9,2.0,14500000.0,7250000.0,2023,2024,2024,gauranteed,0
+1,3155,2022-12-16T00:00:00,543507,6398,Trevor May,Trevor May,8.012,7.012,,2,Free Agent,,0,0,0,0,0,-1,-1,33.8,1.0,7000000.0,7000000.0,2023,2023,2023,gauranteed,0
+2,3112,2022-12-06T00:00:00,607054,12325,Jace Peterson,Jace Peterson,6.142,5.142,,2,Free Agent,,0,0,0,0,0,-1,-1,33.2,2.0,9500000.0,4750000.0,2023,2024,2024,gauranteed,0
+3,2288,2021-11-15T00:00:00,444489,2829,Manny Piña,Manny Pina,7.046,6.046,,2,Free Agent,,1,0,0,0,0,-1,-1,36.1,2.0,8000000.0,4500000.0,2022,2023,2024,gauranteed,0
+4,2850,,643393,14894,Tony Kemp,Tony Kemp,5.098,4.098,,1,Arbitration,,0,0,0,0,0,-1,-1,31.7,1.0,3725000.0,3725000.0,2023,2023,2023,arbeligible,0
+5,2853,,657656,17128,Ramón Laureano,Ramon Laureano,3.165,3.014,,1,Arbitration,,0,0,0,0,0,1,1,29.0,1.0,3550000.0,3550000.0,2023,2023,2023,arbeligible,0
+6,3298,2023-01-11T00:00:00,660261,31839,Shintaro Fujinami,Shintaro Fujinami,,,,2,Free Agent,,0,0,0,1,0,-1,-1,29.2,1.0,3250000.0,3250000.0,2023,2023,2023,gauranteed,0
+7,3174,2022-12-20T00:00:00,607968,12499,Drew Rucinski,Drew Rucinski,0.162,0.162,,2,Free Agent,,1,0,0,1,0,-1,-1,34.5,1.0,3000000.0,3000000.0,2023,2023,2024,gauranteed,0
+8,3324,2023-01-24T00:00:00,542583,11342,Jesús Aguilar,Jesus Aguilar,6.082,5.082,,2,Free Agent,,0,0,0,1,0,-1,-1,33.0,1.0,3000000.0,3000000.0,2023,2023,2023,not40man,0
+9,2855,,621112,14739,Paul Blackburn,Paul Blackburn,3.018,2.018,,1,Arbitration,,0,0,0,0,0,-1,-1,29.6,1.0,1900000.0,1900000.0,2023,2023,2023,arbeligible,0
+10,2981,,621076,18331,James Kaprielian,James Kaprielian,2.004,1.004,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.3,1.0,730000.0,730000.0,2023,2023,2023,arbineligible,0
+11,2982,,664913,18171,Seth Brown,Seth Brown,2.104,1.104,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,31.0,1.0,730000.0,730000.0,2023,2023,2023,arbineligible,0
+12,2979,,667427,19493,Zach Jackson,Zach Jackson,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.5,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+13,2984,,666204,21170,Dany Jiménez,Dany Jimenez,1.031,0.031,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.5,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+14,3268,,594580,14874,Sam Moll,Sam Moll,1.075,0.075,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,31.5,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+15,3442,,667670,19627,Brent Rooker,Brent Rooker,1.059,0.167,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.7,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+16,2978,,676664,23429,JP Sears,JP Sears,0.081,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.4,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+17,3263,,669127,25816,Shea Langeliers,Shea Langeliers,0.051,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.6,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+18,3264,,669397,22277,Nick Allen,Nick Allen,0.126,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.7,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+19,3266,,665923,21780,Esteury Ruiz,Esteury Ruiz,0.029,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.4,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+20,3267,,686610,27681,Ken Waldichuk,Ken Waldichuk,0.035,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.5,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+21,3439,,676116,23312,Ryan Noda,Ryan Noda,0.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.3,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+22,3484,,695243,31757,Mason Miller,Mason Miller,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.9,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+23,3329,2023-01-25T00:00:00,544727,5114,Jeurys Familia,Jeurys Familia,9.023,9.023,,2,Free Agent,,0,0,0,1,0,-1,-1,33.7,1.0,282258.0,282258.0,2023,2023,2023,not40man,0
+0,2319,2021-11-29T00:00:00,592662,11486,Robbie Ray,Robbie Ray,8.007,7.007,can opt out after 2024,2,Free Agent,,0,0,0,0,0,-1,-1,31.8,5.0,115000000.0,23000000.0,2022,2026,2026,gauranteed,0
+1,2614,2022-09-24T00:00:00,622491,15689,Luis Castillo,Luis Castillo,5.101,4.101,option vests with 180 IP in 2027,3,Extension,,0,0,1,0,0,-1,-1,30.6,5.0,108000000.0,21600000.0,2023,2027,2028,gauranteed,0
+2,2608,2022-08-26T00:00:00,677594,23697,Julio Rodríguez,Julio Rodriguez,1.000,,conditional club options after 2029 (8 or 10 years),3,Extension,,0,0,0,0,0,-1,-1,22.5,12.0,209300000.0,17441666.66666667,2023,2029,2034,gauranteed,0
+3,2939,,606192,13066,Teoscar Hernández,Teoscar Hernandez,5.097,4.097,,1,Arbitration,,0,0,0,0,0,-1,-1,30.7,1.0,14000000.0,14000000.0,2023,2023,2023,arbeligible,0
+4,2186,,641487,15491,J.P. Crawford,J.P. Crawford,4.163,3.163,,3,Extension,,0,0,0,0,0,-1,-1,28.5,5.0,51000000.0,10200000.0,2022,2026,2026,gauranteed,0
+5,1475,2021-02-03T00:00:00,543939,12532,Kolten Wong,Kolten Wong,9.045,8.045,,2,Free Agent,,0,0,0,0,0,-1,-1,32.7,3.0,26000000.0,10000000.0,2021,2023,2023,gauranteed,0
+6,133,2018-03-06T00:00:00,553993,12552,Eugenio Suárez,Eugenio Suarez,8.061,7.061,,3,Extension,,1,0,0,0,0,-1,-1,32.0,7.0,66000000.0,9428571.42857143,2018,2024,2025,gauranteed,0
+7,865,2020-02-03T00:00:00,594835,15467,Marco Gonzales,Marco Gonzales,5.102,4.102,,3,Extension,,1,0,0,0,0,-1,-1,31.4,4.0,30000000.0,7500000.0,2021,2024,2025,gauranteed,0
+8,3287,,572041,9256,AJ Pollock,A.J. Pollock,10.052,9.052,,2,Free Agent,,0,0,0,0,0,-1,-1,35.6,1.0,7000000.0,7000000.0,2023,2023,2023,gauranteed,0
+9,2881,,623149,13892,Paul Sewald,Paul Sewald,4.072,3.072,,1,Arbitration,,0,0,0,0,0,-1,-1,33.1,1.0,4100000.0,4100000.0,2023,2023,2023,arbeligible,0
+10,2887,,664034,17982,Ty France,Ty France,3.089,2.089,,1,Arbitration,,0,0,0,0,0,-1,-1,29.0,1.0,4100000.0,4100000.0,2023,2023,2023,arbeligible,0
+11,587,2020-01-01T00:00:00,657108,20078,Evan White,Evan White,2.144,2.000,,3,Extension,,1,0,0,0,0,-1,-1,27.2,6.0,24000000.0,4000000.0,2020,2025,2028,gauranteed,0
+12,2884,,664238,18042,Dylan Moore,Dylan Moore,4.000,3.000,,3,Extension,,0,0,0,0,0,-1,-1,30.9,3.0,8875000.0,2958333.33333333,2023,2025,2025,gauranteed,0
+13,2880,,650895,17496,Diego Castillo,Diego Castillo,4.118,3.118,,1,Arbitration,,0,0,0,1,0,-1,-1,29.5,2.0,5900000.0,2950000.0,2023,2023,2023,not40man,0
+14,2199,,662253,20373,Andrés Muñoz,Andres Munoz,3.080,2.080,,3,Extension,,1,0,0,0,0,-1,-1,24.5,4.0,7500000.0,1875000.0,2022,2025,2028,gauranteed,0
+15,2879,,608596,13499,Tom Murphy,Tom Murphy,5.092,4.092,,1,Arbitration,,0,0,0,0,0,-1,-1,32.3,1.0,1625000.0,1625000.0,2023,2023,2023,arbeligible,0
+16,2985,,669302,22250,Logan Gilbert,Logan Gilbert,1.144,0.144,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.2,1.0,767300.0,767300.0,2023,2023,2023,arbineligible,0
+17,2986,,663728,21534,Cal Raleigh,Cal Raleigh,1.085,0.085,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.6,1.0,758300.0,758300.0,2023,2023,2023,arbineligible,0
+18,2987,,669923,25436,George Kirby,George Kirby,0.135,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,758300.0,758300.0,2023,2023,2023,arbineligible,0
+19,3270,,672284,22558,Jarred Kelenic,Jarred Kelenic,0.169,0.105,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.0,1.0,729400.0,729400.0,2023,2023,2023,arbineligible,0
+20,2988,,682171,25174,Penn Murfee,Penn Murfee,0.169,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.2,1.0,727000.0,727000.0,2023,2023,2023,arbineligible,0
+21,3271,,664059,18054,Sam Haggerty,Sam Haggerty,2.093,1.140,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.1,1.0,726600.0,726600.0,2023,2023,2023,arbineligible,0
+22,3477,,666374,25756,Matt Brash,Matt Brash,0.121,0.006,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.1,1.0,725800.0,725800.0,2023,2023,2023,arbineligible,0
+23,3272,,670036,19330,Matt Festa,Matthew Festa,1.085,0.095,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,30.3,1.0,725200.0,725200.0,2023,2023,2023,arbineligible,0
+24,3428,,623437,15145,Justin Topa,Justin Topa,2.044,1.058,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,32.3,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+25,3322,2023-01-19T00:00:00,600303,12371,Tommy La Stella,Tommy La Stella,8.057,7.057,,2,Free Agent,,0,0,0,1,0,-1,-1,34.4,1.0,720000.0,720000.0,2023,2023,2023,not40man,0
+26,3453,,676609,23401,José Caballero,Jose Caballero,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.8,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+27,3476,,682243,29837,Bryce Miller,Bryce Miller,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.9,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+28,3485,,642100,17170,Gabe Speier,Gabe Speier,1.030,0.124,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,2224,,677551,23667,Wander Franco,Wander Franco,1.104,0.104,,3,Extension,,1,0,0,0,0,-1,-1,22.3,11.0,182000000.0,16545454.54545455,2022,2032,2033,gauranteed,0
+1,2609,2022-08-26T00:00:00,607192,14374,Tyler Glasnow,Tyler Glasnow,5.158,4.158,,3,Extension,,0,0,0,1,0,-1,-1,29.9,2.0,30350000.0,15175000.0,2023,2024,2024,gauranteed,0
+2,3097,2022-12-01T00:00:00,621107,13774,Zach Eflin,Zach Eflin,6.018,5.018,,2,Free Agent,,0,0,0,0,0,-1,-1,29.2,3.0,40000000.0,13333333.33333333,2023,2025,2025,gauranteed,0
+3,2515,2022-04-05T00:00:00,622534,14712,Manuel Margot,Manuel Margot,6.012,5.012,,3,Extension,,0,1,0,0,0,-1,-1,28.8,2.0,19000000.0,9500000.0,2023,2024,2025,gauranteed,0
+4,2916,,650490,16578,Yandy Díaz,Yandy Diaz,4.122,3.122,,3,Extension,,1,0,0,0,0,-1,-1,31.9,3.0,24000000.0,8000000.0,2023,2025,2026,gauranteed,0
+5,2922,,605488,17677,Jeffrey Springs,Jeffrey Springs,4.055,3.055,,3,Extension,,1,0,0,0,0,-1,-1,30.8,4.0,31000000.0,7750000.0,2023,2026,2027,gauranteed,0
+6,2932,,668227,19290,Randy Arozarena,Randy Arozarena,2.129,1.129,,1,Arbitration,,0,0,0,0,0,1,-1,28.4,1.0,4150000.0,4150000.0,2023,2023,2023,arbeligible,0
+7,604,,664040,18882,Brandon Lowe,Brandon Lowe,4.058,3.058,,3,Extension,,1,0,0,0,0,-1,-1,29.0,6.0,24000000.0,4000000.0,2019,2024,2026,gauranteed,0
+8,2928,,664126,17998,Pete Fairbanks,Pete Fairbanks,3.057,2.057,,3,Extension,,1,0,0,0,0,-1,-1,29.6,3.0,12000000.0,4000000.0,2023,2025,2026,gauranteed,0
+9,2925,,623912,14387,Harold Ramírez,Harold Ramirez,3.124,2.124,,1,Arbitration,,0,0,0,0,0,-1,-1,28.8,1.0,2200000.0,2200000.0,2023,2023,2023,arbeligible,0
+10,2920,,642336,16403,Francisco Mejía,Francisco Mejia,4.062,3.062,,1,Arbitration,,0,0,0,0,0,-1,-1,27.7,1.0,2155000.0,2155000.0,2023,2023,2023,arbeligible,0
+11,2921,,552640,12828,Andrew Kittredge,Andrew Kittredge,4.070,3.070,,1,Arbitration,,0,0,0,0,0,-1,-1,33.3,1.0,2075000.0,2075000.0,2023,2023,2023,arbeligible,0
+12,2931,,592094,11861,Jason Adam,Jason Adam,2.132,1.129,,1,Arbitration,,0,0,0,0,0,1,-1,31.9,1.0,1775000.0,1775000.0,2023,2023,2023,arbeligible,0
+13,2863,,596112,13594,Robert Stephenson,Robert Stephenson,5.049,4.049,,1,Arbitration,,0,0,0,0,0,-1,-1,30.4,1.0,1750000.0,1750000.0,2023,2023,2023,arbeligible,0
+14,2919,,656222,17192,Jalen Beeks,Jalen Beeks,4.070,3.070,,1,Arbitration,,0,0,0,0,0,-1,-1,30.0,1.0,1375000.0,1375000.0,2023,2023,2023,arbeligible,0
+15,2929,,542194,10028,Christian Bethancourt,Christian Bethancourt,3.038,2.038,,1,Arbitration,,0,0,0,0,0,-1,-1,31.8,1.0,1350000.0,1350000.0,2023,2023,2023,arbeligible,0
+16,2915,,630023,16401,Yonny Chirinos,Yonny Chirinos,4.137,3.137,,1,Arbitration,,0,0,0,0,0,-1,-1,29.5,1.0,1275000.0,1275000.0,2023,2023,2023,arbeligible,0
+17,2918,,542888,12857,Shawn Armstrong,Shawn Armstrong,4.113,3.129,,1,Arbitration,,0,0,0,0,0,-1,-1,32.8,1.0,1200000.0,1200000.0,2023,2023,2023,arbeligible,0
+18,2926,,621363,19403,Colin Poche,Colin Poche,3.109,2.114,,1,Arbitration,,0,0,0,0,0,-1,-1,29.5,1.0,1175000.0,1175000.0,2023,2023,2023,arbeligible,0
+19,2930,,657044,16647,Ryan Thompson,Ryan Thompson,3.000,2.000,,1,Arbitration,,0,0,0,0,0,-1,-1,31.0,1.0,1000000.0,1000000.0,2023,2023,2023,arbeligible,0
+20,2989,,656876,25385,Drew Rasmussen,Drew Rasmussen,2.111,1.111,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.9,1.0,739700.0,739700.0,2023,2023,2023,arbineligible,0
+21,2991,,663556,21483,Shane McClanahan,Shane McClanahan,1.158,0.158,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.2,1.0,737000.0,737000.0,2023,2023,2023,arbineligible,0
+22,2992,,670623,20036,Isaac Paredes,Isaac Paredes,1.160,1.009,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.4,1.0,735000.0,735000.0,2023,2023,2023,arbineligible,0
+23,3273,,642350,17452,Jose Siri,Jose Siri,1.015,0.031,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.0,1.0,731600.0,731600.0,2023,2023,2023,arbineligible,0
+24,3274,,670764,22458,Taylor Walls,Taylor Walls,1.092,0.083,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.0,1.0,727600.0,727600.0,2023,2023,2023,arbineligible,0
+25,3275,,664076,17897,Garrett Cleavinger,Garrett Cleavinger,1.060,0.168,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.2,1.0,725100.0,725100.0,2023,2023,2023,arbineligible,0
+26,3276,,669358,22264,Shane Baz,Shane Baz,1.014,0.014,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.1,1.0,723600.0,723600.0,2023,2023,2023,arbineligible,0
+27,3430,,666139,19953,Josh Lowe,Josh Lowe,0.093,0.003,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,723200.0,723200.0,2023,2023,2023,arbineligible,0
+28,3448,,670042,19354,Luke Raley,Luke Raley,0.106,0.051,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.8,1.0,722300.0,722300.0,2023,2023,2023,arbineligible,0
+29,3475,,671737,22543,Taj Bradley,Taj Bradley,0.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,22.3,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+30,3486,,687330,25679,Kevin Kelly,Kevin Kelly,0.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.6,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+31,3443,2023-05-10T00:00:00,518617,5003,Jake Diekman,Jake Diekman,10.050,9.050,,2,Free Agent,,0,0,0,0,0,-1,-1,36.5,1.0,561290.0,561290.0,2023,2023,2023,gauranteed,0
+0,3100,2022-12-02T00:00:00,594798,10954,Jacob deGrom,Jacob deGrom,8.139,7.139,option can be worth as much as $37M,2,Free Agent,,1,0,0,0,0,-1,-1,35.0,5.0,185000000.0,37000000.0,2023,2027,2028,gauranteed,0
+1,2320,2021-11-29T00:00:00,608369,13624,Corey Seager,Corey Seager,7.032,6.032,,2,Free Agent,,0,0,0,0,0,-1,-1,29.2,10.0,325000000.0,32500000.0,2022,2031,2031,gauranteed,0
+2,2306,2021-11-28T00:00:00,543760,12533,Marcus Semien,Marcus Semien,8.118,7.118,,2,Free Agent,,0,0,0,0,0,-1,-1,32.8,7.0,175000000.0,25000000.0,2022,2028,2028,gauranteed,0
+3,3079,2022-11-15T00:00:00,527048,6902,Martín Pérez,Martin Perez,10.038,9.038,,2,Free Agent,,0,0,0,0,0,-1,-1,32.3,1.0,19650000.0,19650000.0,2023,2023,2023,gauranteed,0
+4,3191,2022-12-27T00:00:00,543135,9132,Nathan Eovaldi,Nathan Eovaldi,11.013,10.013,becomes player option with 300 IP from 2023-24,2,Free Agent,,0,0,1,0,0,-1,-1,33.4,2.0,34000000.0,17000000.0,2023,2024,2025,gauranteed,0
+5,2309,2021-11-28T00:00:00,592351,14916,Jon Gray,Jon Gray,7.062,6.062,,2,Free Agent,,0,0,0,0,0,-1,-1,31.7,4.0,56000000.0,14000000.0,2022,2025,2025,gauranteed,0
+6,1569,2021-03-06T00:00:00,543606,6397,Jake Odorizzi,Jake Odorizzi,9.042,8.042,,2,Free Agent,,0,0,0,0,0,-1,-1,33.3,3.0,29500000.0,12500000.0,2021,2023,2023,gauranteed,0
+7,3114,2022-12-06T00:00:00,571760,15423,Andrew Heaney,Andrew Heaney,7.150,6.150,,2,Free Agent,,0,0,0,0,0,-1,-1,32.1,2.0,25000000.0,12500000.0,2023,2024,2024,gauranteed,0
+8,633,,600917,14524,José Leclerc,Jose Leclerc,6.041,5.041,,3,Extension,,1,0,0,0,0,-1,-1,29.5,5.0,20000000.0,6000000.0,2019,2023,2024,gauranteed,0
+9,2424,2022-03-16T00:00:00,543543,12775,Brad Miller,Brad Miller,9.004,8.004,,2,Free Agent,,0,0,0,0,0,-1,-1,33.7,2.0,10000000.0,5000000.0,2022,2023,2023,gauranteed,0
+10,2938,,663993,19566,Nathaniel Lowe,Nathaniel Lowe,2.145,1.145,,1,Arbitration,,0,0,0,0,0,1,-1,28.0,1.0,4050000.0,4050000.0,2023,2023,2023,arbeligible,0
+11,2933,,641598,15161,Mitch Garver,Mitch Garver,5.045,4.045,,1,Arbitration,,0,0,0,0,0,-1,-1,32.5,1.0,3900000.0,3900000.0,2023,2023,2023,arbeligible,0
+12,3321,2023-01-19T00:00:00,547973,10233,Aroldis Chapman,Aroldis Chapman,12.009,11.009,,2,Free Agent,,0,0,0,0,0,-1,-1,35.4,1.0,3750000.0,3750000.0,2023,2023,2023,gauranteed,0
+13,3371,2023-02-17T00:00:00,543257,5254,Robbie Grossman,Robbie Grossman,8.060,7.060,,2,Free Agent,,0,0,0,0,0,-1,-1,33.8,1.0,2000000.0,2000000.0,2023,2023,2023,gauranteed,0
+14,3388,2023-03-04T00:00:00,519293,8048,Will Smith,Will Smith,9.155,8.155,,2,Free Agent,,0,0,0,0,0,-1,-1,34.0,1.0,1500000.0,1500000.0,2023,2023,2023,gauranteed,0
+15,2935,,621368,18325,Taylor Hearn,Taylor Hearn,3.125,2.140,,1,Arbitration,,0,0,0,0,0,-1,-1,28.8,1.0,1462500.0,1462500.0,2023,2023,2023,arbeligible,0
+16,2934,,656685,17369,Brett Martin,Brett Martin,3.151,2.151,,1,Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,1275000.0,1275000.0,2023,2023,2023,arbeligible,0
+17,3336,2023-03-30T00:00:00,608671,13768,Travis Jankowski,Travis Jankowski,5.028,5.028,,2,Free Agent,,0,0,0,0,0,-1,-1,32.1,1.0,1250000.0,1250000.0,2023,2023,2023,gauranteed,0
+18,2937,,642546,17464,Jonathan Hernández,Jonathan Hernandez,3.041,2.041,,1,Arbitration,,0,0,0,0,0,-1,-1,27.0,1.0,995000.0,995000.0,2023,2023,2023,arbeligible,0
+19,2996,,666969,19287,Adolis García,Adolis Garcia,2.095,1.095,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,30.3,1.0,747760.0,747760.0,2023,2023,2023,arbineligible,0
+20,2993,,641680,16930,Jonah Heim,Jonah Heim,2.097,1.097,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.0,1.0,745660.0,745660.0,2023,2023,2023,arbineligible,0
+21,2995,,641540,19409,Dane Dunning,Dane Dunning,2.083,1.083,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.5,1.0,742840.0,742840.0,2023,2023,2023,arbineligible,0
+22,2997,,656271,17968,Brock Burke,Brock Burke,2.065,1.065,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.9,1.0,742840.0,742840.0,2023,2023,2023,arbineligible,0
+23,3281,,622250,18323,Josh Sborz,Josh Sborz,2.055,1.113,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.5,1.0,733450.0,733450.0,2023,2023,2023,arbineligible,0
+24,2994,,665750,18900,Leody Taveras,Leody Taveras,1.124,1.009,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.8,1.0,733445.0,733445.0,2023,2023,2023,arbineligible,0
+25,3278,,669701,26396,Josh H. Smith,Josh Smith,0.111,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.9,1.0,727095.0,727095.0,2023,2023,2023,arbineligible,0
+26,3279,,677649,23733,Ezequiel Duran,Ezequiel Duran,0.072,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.1,1.0,724170.0,724170.0,2023,2023,2023,arbineligible,0
+27,3277,,673962,26299,Josh Jung,Josh Jung,0.027,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,721485.0,721485.0,2023,2023,2023,arbineligible,0
+28,3333,2023-03-30T00:00:00,453178,6986,Ian Kennedy,Ian Kennedy,13.124,12.124,"$2.25M, prorated",2,Free Agent,,0,0,0,0,0,-1,-1,38.5,1.0,508063.0,508063.0,2023,2023,2023,not40man,0
+29,2998,,669618,22296,Joe Barlow,Joe Barlow,1.103,0.103,,0,Pre-Arbitration,,0,0,0,0,1,-1,-1,27.8,1.0,0.0,,2023,2023,2023,arbineligible,0
+0,1428,2021-01-19T00:00:00,543807,12856,George Springer,George Springer,8.166,7.166,,2,Free Agent,,0,0,0,0,0,-1,-1,33.8,6.0,150000000.0,25000000.0,2021,2026,2026,gauranteed,0
+1,2308,2021-11-28T00:00:00,592332,14107,Kevin Gausman,Kevin Gausman,8.151,7.151,,2,Free Agent,,0,0,0,0,0,-1,-1,32.5,5.0,110000000.0,22000000.0,2022,2026,2026,gauranteed,0
+2,3136,2022-12-12T00:00:00,605135,12304,Chris Bassitt,Chris Bassitt,6.130,5.130,,2,Free Agent,,0,0,0,0,0,-1,-1,34.4,3.0,63000000.0,21000000.0,2023,2025,2025,gauranteed,0
+3,641,2020-01-01T00:00:00,547943,14444,Hyun Jin Ryu,Hyun-Jin Ryu,10.000,9.000,,2,Free Agent,,0,0,0,0,0,-1,-1,36.3,4.0,80000000.0,20000000.0,2020,2023,2023,gauranteed,0
+4,2246,,621244,14168,José Berríos,Jose Berrios,6.044,5.044,can opt out after 2026,3,Extension,,0,0,0,0,0,-1,-1,29.1,7.0,131000000.0,18714285.71428571,2022,2028,2028,gauranteed,0
+5,2945,,665489,19611,Vladimir Guerrero Jr.,Vladimir Guerrero Jr.,3.157,2.157,,1,Arbitration,,0,0,0,0,0,-1,-1,24.3,1.0,14500000.0,14500000.0,2023,2023,2023,arbeligible,0
+6,2172,2022-03-22T00:00:00,656305,16505,Matt Chapman,Matt Chapman,5.109,4.109,,3,Extension,,0,0,0,0,0,-1,-1,30.2,2.0,25000000.0,12500000.0,2022,2023,2023,gauranteed,0
+7,2364,2022-03-12T00:00:00,579328,20633,Yusei Kikuchi,Yusei Kikuchi,4.000,3.000,,2,Free Agent,,0,0,0,0,0,-1,-1,32.1,3.0,36000000.0,12000000.0,2022,2024,2024,gauranteed,0
+8,2949,,666182,19612,Bo Bichette,Bo Bichette,3.063,2.063,,3,Extension,,0,0,0,0,0,-1,-1,25.3,3.0,33600000.0,11200000.0,2023,2025,2025,gauranteed,0
+9,3292,2023-01-09T00:00:00,474832,10264,Brandon Belt,Brandon Belt,11.128,10.128,,2,Free Agent,,0,0,0,0,0,-1,-1,35.2,1.0,9300000.0,9300000.0,2023,2023,2023,gauranteed,0
+10,3143,2022-12-13T00:00:00,595281,11038,Kevin Kiermaier,Kevin Kiermaier,8.131,7.131,,2,Free Agent,,0,0,0,0,0,-1,-1,33.2,1.0,9000000.0,9000000.0,2023,2023,2023,gauranteed,0
+11,478,,593160,11281,Whit Merrifield,Whit Merrifield,6.101,5.101,,3,Extension,,0,1,0,0,0,-1,-1,34.4,5.0,27000000.0,6750000.0,2019,2023,2024,gauranteed,0
+12,2304,2021-11-27T00:00:00,554340,12095,Yimi García,Yimi Garcia,7.149,6.149,,2,Free Agent,,1,0,0,0,0,-1,-1,32.9,2.0,11000000.0,5500000.0,2022,2023,2024,gauranteed,0
+13,2950,,605447,16122,Jordan Romano,Jordan Romano,3.051,2.051,,1,Arbitration,,0,0,0,0,0,-1,-1,30.2,1.0,4537500.0,4537500.0,2023,2023,2023,arbeligible,0
+14,3344,2023-01-31T00:00:00,643338,15552,Chad Green,Chad Green,6.050,5.050,3-yr club option after 2023; 2-yr club option if player option declined,2,Free Agent,,0,0,0,0,0,-1,-1,32.1,2.0,8500000.0,4250000.0,2023,2023,2024,gauranteed,0
+15,2944,,643376,16535,Danny Jansen,Danny Jansen,4.050,3.050,,1,Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,3500000.0,3500000.0,2023,2023,2023,arbeligible,0
+16,2941,,643256,15288,Adam Cimber,Adam Cimber,4.156,3.156,,1,Arbitration,,0,0,0,0,0,-1,-1,32.9,1.0,3150000.0,3150000.0,2023,2023,2023,arbeligible,0
+17,2734,,662139,19918,Daulton Varsho,Daulton Varsho,2.128,1.128,,1,Arbitration,,0,0,0,0,0,1,-1,27.0,1.0,3050000.0,3050000.0,2023,2023,2023,arbeligible,0
+18,2947,,624415,19252,Cavan Biggio,Cavan Biggio,3.129,2.129,,1,Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,2800000.0,2800000.0,2023,2023,2023,arbeligible,0
+19,1436,2021-01-22T00:00:00,542914,7982,Anthony Bass,Anthony Bass,8.010,7.010,,2,Free Agent,,0,0,0,1,0,-1,-1,35.7,3.0,7000000.0,2333333.33333333,2021,2023,2023,not40man,0
+20,2946,,641835,15042,Tim Mayza,Tim Mayza,3.156,2.156,,1,Arbitration,,0,0,0,0,0,-1,-1,31.5,1.0,2100000.0,2100000.0,2023,2023,2023,arbeligible,0
+21,2951,,669289,19997,Santiago Espinal,Santiago Espinal,2.149,1.149,,1,Arbitration,,0,0,0,0,0,1,-1,28.6,1.0,2100000.0,2100000.0,2023,2023,2023,arbeligible,0
+22,2942,,670950,19309,Trevor Richards,Trevor Richards,4.084,3.084,,1,Arbitration,,0,0,0,0,0,-1,-1,30.1,1.0,1500000.0,1500000.0,2023,2023,2023,arbeligible,0
+23,3168,2022-12-19T00:00:00,656669,16424,Jordan Luplow,Jordan Luplow,4.108,3.112,,2,Free Agent,,0,0,0,0,0,-1,-1,29.8,1.0,1400000.0,1400000.0,2023,2023,2023,not40man,0
+24,2885,,657024,16587,Erik Swanson,Erik Swanson,3.096,2.096,,1,Arbitration,,0,0,0,0,0,-1,-1,29.8,1.0,1250000.0,1250000.0,2023,2023,2023,arbeligible,0
+25,2948,,663423,17948,Trent Thornton,Trent Thornton,3.073,2.130,,1,Arbitration,,0,0,0,0,0,-1,-1,29.8,1.0,1000000.0,1000000.0,2023,2023,2023,arbeligible,0
+26,2999,,672386,22581,Alejandro Kirk,Alejandro Kirk,2.047,1.047,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.7,1.0,767300.0,767300.0,2023,2023,2023,arbineligible,0
+27,3000,,666201,26410,Alek Manoah,Alek Manoah,1.130,0.130,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.5,1.0,745650.0,745650.0,2023,2023,2023,arbineligible,0
+28,3282,,669952,19225,Mitch White,Mitch White,1.087,0.099,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.5,1.0,743000.0,743000.0,2023,2023,2023,arbineligible,0
+29,3001,,647315,20185,Zach Pop,Zach Pop,1.094,1.000,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.8,1.0,742200.0,742200.0,2023,2023,2023,arbineligible,0
+0,38,2019-12-17T00:00:00,518516,5524,Madison Bumgarner,Madison Bumgarner,12.127,11.127,,2,Free Agent,,0,0,0,1,0,-1,-1,33.9,5.0,85000000.0,17000000.0,2020,2024,2024,not40man,0
+1,2506,2022-03-27T00:00:00,606466,13613,Ketel Marte,Ketel Marte,6.162,5.162,,3,Extension,,1,0,0,0,0,-1,-1,29.7,5.0,76000000.0,15200000.0,2023,2027,2028,gauranteed,0
+2,3004,,682998,25878,Corbin Carroll,Corbin Carroll,0.038,,,3,Extension,,1,0,0,0,0,-1,-1,22.9,8.0,111000000.0,13875000.0,2023,2030,2031,gauranteed,0
+3,2512,2022-04-01T00:00:00,518876,11156,Merrill Kelly,Merrill Kelly,4.000,3.000,,3,Extension,,1,0,0,0,0,-1,-1,34.7,2.0,18000000.0,9000000.0,2023,2024,2025,gauranteed,0
+4,37,2020-02-10T00:00:00,605113,12147,Nick Ahmed,Nick Ahmed,8.054,7.054,,3,Extension,,0,0,0,0,0,-1,-1,33.3,4.0,32500000.0,8125000.0,2020,2023,2023,gauranteed,0
+5,2334,2021-12-01T00:00:00,453343,4264,Mark Melancon,Mark Melancon,12.098,11.098,,2,Free Agent,,0,1,0,0,0,-1,-1,38.3,2.0,14000000.0,7000000.0,2022,2023,2024,gauranteed,0
+6,2729,,572233,13419,Christian Walker,Christian Walker,4.124,3.124,,1,Arbitration,,0,0,0,0,0,-1,-1,32.3,1.0,6500000.0,6500000.0,2023,2023,2023,arbeligible,0
+7,3358,2023-02-11T00:00:00,605177,12988,Andrew Chafin,Andrew Chafin,8.020,7.020,,2,Free Agent,,1,0,0,0,0,-1,-1,33.1,1.0,6250000.0,6250000.0,2023,2023,2024,gauranteed,0
+8,646,,666971,19238,Lourdes Gurriel Jr.,Lourdes Gurriel Jr.,4.094,3.094,,2,Free Agent,,0,0,0,1,0,-1,-1,29.7,7.0,22000000.0,5828571.0,2017,2023,2023,gauranteed,0
+9,2732,,668678,19291,Zac Gallen,Zac Gallen,3.100,2.100,,1,Arbitration,,0,0,0,0,0,-1,-1,27.9,1.0,5600000.0,5600000.0,2023,2023,2023,arbeligible,0
+10,3208,,605200,13183,Zach Davies,Zach Davies,7.020,6.020,,2,Free Agent,,0,1,0,0,0,-1,-1,30.4,1.0,5000000.0,5000000.0,2023,2023,2024,gauranteed,0
+11,2728,,608348,13620,Carson Kelly,Carson Kelly,4.161,3.161,,1,Arbitration,,0,0,0,0,0,-1,-1,29.0,1.0,4275000.0,4275000.0,2023,2023,2023,arbeligible,0
+12,3195,2022-12-30T00:00:00,446334,9368,Evan Longoria,Evan Longoria,14.170,13.170,,2,Free Agent,,0,0,0,0,0,-1,-1,37.7,1.0,4000000.0,4000000.0,2023,2023,2023,gauranteed,0
+13,3098,2022-12-02T00:00:00,612434,15684,Miguel Castro,Miguel Castro,6.079,5.079,,2,Free Agent,,0,0,1,0,0,-1,-1,28.5,1.0,3500000.0,3500000.0,2023,2023,2024,gauranteed,0
+14,3149,2022-12-15T00:00:00,543518,12056,Scott McGough,Scott McGough,,,,2,Free Agent,,0,1,0,1,0,-1,-1,33.7,2.0,6250000.0,3125000.0,2023,2024,2025,gauranteed,0
+15,2733,,668942,19734,Josh Rojas,Josh Rojas,2.152,1.152,,1,Arbitration,,0,0,0,0,0,1,-1,29.0,1.0,2575000.0,2575000.0,2023,2023,2023,arbeligible,0
+16,2889,,641786,19508,Kyle Lewis,Kyle Lewis,2.146,2.020,,1,Arbitration,,0,0,0,0,0,1,-1,28.0,1.0,1610000.0,1610000.0,2023,2023,2023,arbeligible,0
+17,2656,,614179,14552,José Ruiz,Jose Ruiz,3.048,2.048,,1,Arbitration,,0,0,0,0,0,-1,-1,28.7,1.0,925000.0,925000.0,2023,2023,2023,arbeligible,0
+18,2795,,642121,15256,Cole Sulser,Cole Sulser,3.028,2.028,,1,Arbitration,,0,0,0,0,0,-1,-1,33.3,1.0,825000.0,825000.0,2023,2023,2023,arbeligible,0
+19,3002,,573009,14857,Joe Mantiply,Joe Mantiply,2.049,1.049,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,32.3,1.0,756000.0,756000.0,2023,2023,2023,arbineligible,0
+20,3213,,656464,19876,Kevin Ginkel,Kevin Ginkel,2.033,1.139,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.3,1.0,746600.0,746600.0,2023,2023,2023,arbineligible,0
+21,3427,,672695,22799,Geraldo Perdomo,Geraldo Perdomo,1.015,0.015,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.7,1.0,738600.0,738600.0,2023,2023,2023,arbineligible,0
+22,3003,,664983,21622,Jake McCarthy,Jake McCarthy,0.170,0.038,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.9,1.0,735600.0,735600.0,2023,2023,2023,arbineligible,0
+23,3005,,686753,26260,Drey Jameson,Drey Jameson,0.021,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.9,1.0,732600.0,732600.0,2023,2023,2023,arbineligible,0
+24,3214,,669459,20515,Kyle Nelson,Kyle Nelson,1.076,0.076,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.0,1.0,728900.0,728900.0,2023,2023,2023,arbineligible,0
+25,3006,,669194,26253,Ryne Nelson,Ryne Nelson,0.031,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,722700.0,722700.0,2023,2023,2023,arbineligible,0
+26,3437,,672515,22664,Gabriel Moreno,Gabriel Moreno,0.061,0.000,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.4,1.0,722500.0,722500.0,2023,2023,2023,arbineligible,0
+27,3458,,656896,19890,Emmanuel Rivera,Emmanuel Rivera,1.058,0.074,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.0,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,2603,2022-08-01T00:00:00,663586,18360,Austin Riley,Austin Riley,3.138,2.138,,3,Extension,,1,0,0,0,0,-1,-1,26.3,10.0,212000000.0,21200000.0,2023,2032,2033,gauranteed,0
+1,2173,2022-03-15T00:00:00,621566,14344,Matt Olson,Matt Olson,5.103,4.103,,3,Extension,,1,0,0,0,0,-1,-1,29.3,8.0,168000000.0,21000000.0,2022,2029,2030,gauranteed,0
+2,2615,2022-09-30T00:00:00,450203,4676,Charlie Morton,Charlie Morton,14.010,13.010,,3,Extension,,1,0,0,0,0,-1,-1,39.6,1.0,20000000.0,20000000.0,2023,2023,2024,gauranteed,0
+3,1489,2021-02-05T00:00:00,542303,10324,Marcell Ozuna,Marcell Ozuna,9.124,8.124,,2,Free Agent,,1,0,0,0,0,-1,-1,32.6,4.0,65000000.0,16250000.0,2021,2024,2025,gauranteed,0
+4,2331,2021-11-30T00:00:00,628452,17130,Raisel Iglesias,Raisel Iglesias,7.154,6.154,,2,Free Agent,,0,0,0,0,0,-1,-1,33.5,4.0,58000000.0,16000000.0,2022,2025,2025,gauranteed,0
+5,2737,,608331,13743,Max Fried,Max Fried,4.148,3.148,,1,Arbitration,,0,0,0,0,0,-1,-1,29.5,1.0,13500000.0,13500000.0,2023,2023,2023,arbeligible,0
+6,91,2019-04-02T00:00:00,660670,18401,Ronald Acuña Jr.,Ronald Acuna Jr.,4.159,3.159,,3,Extension,,1,0,0,0,0,-1,-1,25.5,8.0,100000000.0,12500000.0,2019,2026,2028,gauranteed,0
+7,2618,2022-10-10T00:00:00,675911,27498,Spencer Strider,Spencer Strider,1.003,0.003,,3,Extension,,1,0,0,0,0,-1,-1,24.7,6.0,75000000.0,12500000.0,2023,2028,2029,gauranteed,0
+8,2854,2022-12-27T00:00:00,669221,19352,Sean Murphy,Sean Murphy,3.029,2.029,,3,Extension,,1,0,0,0,0,-1,-1,28.8,6.0,73000000.0,12166666.66666667,2023,2028,2029,gauranteed,0
+9,2416,2022-03-16T00:00:00,592696,12155,Eddie Rosario,Eddie Rosario,7.120,6.120,,2,Free Agent,,1,0,0,0,0,-1,-1,31.8,2.0,18000000.0,9000000.0,2022,2023,2024,gauranteed,0
+10,2606,2022-08-16T00:00:00,671739,25931,Michael Harris II,Michael Harris II,1.000,,,3,Extension,,1,0,0,0,0,-1,-1,22.3,8.0,72000000.0,9000000.0,2023,2030,2032,gauranteed,0
+11,1717,2021-08-20T00:00:00,518595,7739,Travis d'Arnaud,Travis d'Arnaud,9.044,8.044,,3,Extension,,1,0,0,0,0,-1,-1,34.4,2.0,16000000.0,8000000.0,2022,2023,2024,gauranteed,0
+12,90,2019-04-11T00:00:00,645277,16556,Ozzie Albies,Ozzie Albies,5.062,4.062,,3,Extension,,1,0,0,0,0,-1,-1,26.5,7.0,35000000.0,5000000.0,2019,2025,2027,gauranteed,0
+13,2408,2022-03-15T00:00:00,543521,7531,Collin McHugh,Collin McHugh,8.085,7.085,,2,Free Agent,,1,0,0,0,0,-1,-1,36.0,2.0,10000000.0,5000000.0,2022,2023,2024,gauranteed,0
+14,2736,,621345,18655,A.J. Minter,A.J. Minter,4.154,3.154,,1,Arbitration,,0,0,0,0,0,-1,-1,29.8,1.0,4287500.0,4287500.0,2023,2023,2023,arbeligible,0
+15,2322,2021-11-29T00:00:00,489446,9073,Kirby Yates,Kirby Yates,8.021,7.021,,2,Free Agent,,1,0,0,0,0,-1,-1,36.3,2.0,8250000.0,4125000.0,2022,2023,2024,gauranteed,0
+16,3317,2023-03-30T00:00:00,607680,12434,Kevin Pillar,Kevin Pillar,8.072,7.113,,2,Free Agent,,0,0,0,0,0,-1,-1,34.5,1.0,3000000.0,3000000.0,2023,2023,2023,gauranteed,0
+17,2738,,647336,18383,Michael Soroka,Mike Soroka,4.122,3.146,,1,Arbitration,,0,0,0,0,0,1,-1,25.9,1.0,2800000.0,2800000.0,2023,2023,2023,arbeligible,0
+18,2677,,641729,15761,Joe Jiménez,Joe Jimenez,5.061,4.061,,1,Arbitration,,0,0,0,0,0,-1,-1,28.5,1.0,2765000.0,2765000.0,2023,2023,2023,arbeligible,0
+19,3400,2023-03-30T00:00:00,606115,13185,Orlando Arcia,Orlando Arcia,5.114,4.112,,3,Extension,,1,0,0,0,0,-1,-1,28.9,3.0,7300000.0,2433333.33333333,2023,2025,2026,gauranteed,0
+20,2739,,554431,10058,Tyler Matzek,Tyler Matzek,4.019,3.019,,3,Extension,,1,0,0,0,0,-1,-1,32.7,2.0,3100000.0,1550000.0,2023,2024,2025,gauranteed,0
+21,2844,,476595,8337,Lucas Luetge,Lucas Luetge,4.015,3.015,,1,Arbitration,,0,0,0,1,0,-1,-1,36.3,1.0,1550000.0,1550000.0,2023,2023,2023,not40man,0
+22,3078,2023-03-30T00:00:00,445926,5448,Jesse Chavez,Jesse Chavez,12.038,11.038,,2,Free Agent,,0,0,0,0,0,-1,-1,39.9,1.0,1200000.0,1200000.0,2023,2023,2023,gauranteed,0
+23,3154,2023-03-30T00:00:00,501303,8418,Ehire Adrianza,Ehire Adrianza,8.131,7.131,,2,Free Agent,,0,0,0,0,0,-1,-1,33.9,1.0,1000000.0,1000000.0,2023,2023,2023,gauranteed,0
+24,2924,2022-11-11T00:00:00,623433,18337,Nick Anderson,Nick Anderson,3.153,3.000,,2,Free Agent,,0,0,0,0,0,1,-1,33.0,1.0,875000.0,875000.0,2023,2023,2023,gauranteed,0
+25,3009,,657140,19665,Kyle Wright,Kyle Wright,2.062,1.062,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.8,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+26,3424,,543859,10315,Michael Tonkin,Michael Tonkin,2.074,2.074,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,33.6,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+27,3426,,656541,17954,Sam Hilliard,Sam Hilliard,2.094,1.144,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.4,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+28,3008,,669276,19996,Dylan Lee,Dylan Lee,0.150,0.007,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.9,1.0,730000.0,730000.0,2023,2023,2023,arbineligible,0
+29,3432,,693821,27779,Bryce Elder,Bryce Elder,0.040,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.1,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+0,3160,2022-12-17T00:00:00,621020,18314,Dansby Swanson,Dansby Swanson,6.047,5.047,,2,Free Agent,,0,0,0,0,0,-1,-1,29.4,7.0,177000000.0,25285714.28571429,2023,2029,2029,gauranteed,0
+1,2337,2021-12-01T00:00:00,573186,13431,Marcus Stroman,Marcus Stroman,8.026,7.026,can opt out after 2023,2,Free Agent,,0,0,0,0,0,-1,-1,32.2,3.0,71000000.0,23666666.66666667,2022,2024,2024,gauranteed,0
+2,104,2015-12-15T00:00:00,518792,4940,Jason Heyward,Jason Heyward,13.000,12.000,,2,Free Agent,,0,0,0,1,0,-1,-1,33.9,8.0,184000000.0,23000000.0,2016,2023,2023,not40man,0
+3,3115,2022-12-06T00:00:00,641355,15998,Cody Bellinger,Cody Bellinger,5.160,4.160,,2,Free Agent,,0,1,0,0,0,-1,-1,28.0,1.0,17500000.0,17500000.0,2023,2023,2024,gauranteed,0
+4,2410,2022-03-16T00:00:00,673548,30116,Seiya Suzuki,Seiya Suzuki,1.000,,,2,Free Agent,,0,0,0,1,0,-1,-1,28.9,5.0,85000000.0,17000000.0,2022,2026,2026,gauranteed,0
+5,3119,2022-12-06T00:00:00,592791,11674,Jameson Taillon,Jameson Taillon,6.110,5.110,,2,Free Agent,,0,0,0,0,0,-1,-1,31.6,4.0,68000000.0,17000000.0,2023,2026,2026,gauranteed,0
+6,110,2019-03-26T00:00:00,543294,12049,Kyle Hendricks,Kyle Hendricks,8.081,7.081,,3,Extension,,0,0,1,0,0,-1,-1,33.6,4.0,55500000.0,13875000.0,2020,2023,2024,gauranteed,0
+7,2741,,664023,17919,Ian Happ,Ian Happ,5.036,4.036,,13,Arbitration (Guarant,,0,0,0,0,0,-1,-1,28.9,1.0,10850000.0,10850000.0,2023,2023,2023,gauranteed,0
+8,3183,2022-12-22T00:00:00,592767,11760,Drew Smyly,Drew Smyly,10.143,9.143,,2,Free Agent,,0,1,0,0,0,-1,-1,34.1,2.0,19000000.0,9500000.0,2023,2024,2025,gauranteed,0
+9,3308,2023-01-14T00:00:00,641820,15149,Trey Mancini,Trey Mancini,6.015,5.015,needs 350 PA in 2023 to opt out,2,Free Agent,,0,0,0,0,0,-1,-1,31.3,2.0,14000000.0,7000000.0,2023,2024,2024,gauranteed,0
+10,2324,2021-11-30T00:00:00,543228,9627,Yan Gomes,Yan Gomes,10.083,9.083,,2,Free Agent,,1,0,0,0,0,-1,-1,36.0,2.0,13000000.0,6500000.0,2022,2023,2024,gauranteed,0
+11,3362,2023-02-15T00:00:00,605242,13218,Michael Fulmer,Michael Fulmer,6.157,5.157,,2,Free Agent,,0,0,0,0,0,-1,-1,30.3,1.0,4000000.0,4000000.0,2023,2023,2023,gauranteed,0
+12,3181,2022-12-22T00:00:00,571466,10200,Tucker Barnhart,Tucker Barnhart,8.075,7.075,,2,Free Agent,,0,0,0,0,0,-1,-1,32.5,2.0,6500000.0,3250000.0,2023,2023,2024,gauranteed,0
+13,114,2019-04-03T00:00:00,623520,14593,David Bote,David Bote,4.083,3.100,,3,Extension,,1,0,0,0,0,-1,-1,30.2,5.0,16000000.0,3000000.0,2020,2024,2026,not40man,0
+14,3146,2022-12-15T00:00:00,502202,10133,Brad Boxberger,Brad Boxberger,9.033,8.033,,2,Free Agent,,0,1,0,0,0,-1,-1,35.1,1.0,2800000.0,2800000.0,2023,2023,2024,gauranteed,0
+15,2747,,663538,21479,Nico Hoerner,Nico Hoerner,3.014,2.014,,13,Arbitration (Guarant,,0,0,0,0,0,-1,-1,26.1,1.0,2525000.0,2525000.0,2023,2023,2023,gauranteed,0
+16,3010,,592716,13339,Adrian Sampson,Adrian Sampson,2.117,2.009,,1,Arbitration,,0,0,0,0,0,1,-1,31.7,1.0,1900000.0,1900000.0,2023,2023,2023,arbeligible,0
+17,2744,,592858,14646,Rowan Wick,Rowan Wick,3.114,2.114,,1,Arbitration,,0,0,0,1,0,-1,-1,30.7,1.0,1550000.0,1550000.0,2023,2023,2023,not40man,0
+18,2749,,663611,20521,Nick Madrigal,Nick Madrigal,2.164,1.164,,1,Arbitration,,0,0,0,0,0,1,-1,26.3,1.0,1225000.0,1225000.0,2023,2023,2023,arbeligible,0
+19,3372,2023-02-17T00:00:00,621458,18316,Edwin Ríos,Edwin Rios,3.003,2.043,,2,Free Agent,,0,0,0,0,0,-1,-1,29.2,1.0,1000000.0,1000000.0,2023,2023,2023,gauranteed,0
+20,3215,,643410,15551,Mark Leiter Jr.,Mark Leiter Jr.,2.031,1.082,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,32.3,1.0,850000.0,850000.0,2023,2023,2023,arbineligible,0
+21,2748,,676051,23293,Codi Heuer,Codi Heuer,3.000,2.000,,1,Arbitration,,0,0,0,0,0,-1,-1,27.0,1.0,785000.0,785000.0,2023,2023,2023,arbeligible,0
+22,3013,,621550,13602,Patrick Wisdom,Patrick Wisdom,2.058,1.058,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,31.9,1.0,763000.0,763000.0,2023,2023,2023,arbineligible,0
+23,3014,,640470,17859,Adbert Alzolay,Adbert Alzolay,2.050,1.050,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.3,1.0,744750.0,744750.0,2023,2023,2023,arbineligible,0
+24,3016,,624522,19795,Keegan Thompson,Keegan Thompson,1.131,0.131,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.3,1.0,740000.0,740000.0,2023,2023,2023,arbineligible,0
+25,3017,,657006,17312,Justin Steele,Justin Steele,1.143,0.143,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.0,1.0,740000.0,740000.0,2023,2023,2023,arbineligible,0
+26,3313,,657240,16703,Julian Merryweather,Julian Merryweather,2.109,1.114,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,31.7,1.0,737000.0,737000.0,2023,2023,2023,arbineligible,0
+27,3011,,676714,23460,Brandon Hughes,Brandon Hughes,0.141,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.6,1.0,728000.0,728000.0,2023,2023,2023,arbineligible,0
+28,3412,,669713,27581,Hayden Wesneski,Hayden Wesneski,0.031,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.6,1.0,721500.0,721500.0,2023,2023,2023,arbineligible,0
+29,3207,,543333,3516,Eric Hosmer,Eric Hosmer,11.146,10.146,,2,Free Agent,,0,0,0,1,0,-1,-1,33.7,1.0,720000.0,720000.0,2023,2023,2023,not40man,0
+30,3018,,666624,21897,Christopher Morel,Christopher Morel,0.142,0.000,,0,Pre-Arbitration,,0,0,0,0,1,-1,-1,24.0,1.0,0.0,,2023,2023,2023,arbineligible,0
+31,3399,2023-03-27T00:00:00,663538,21479,Nico Hoerner,Nico Hoerner,3.014,2.014,,3,Extension,,0,0,0,1,0,-1,-1,26.1,3.0,35000000.0,,2024,2026,2026,gauranteed,1
+32,3414,2023-04-12T00:00:00,664023,17919,Ian Happ,Ian Happ,5.036,4.036,,3,Extension,,0,0,0,1,0,-1,-1,28.9,3.0,61000000.0,,2024,2026,2026,gauranteed,1
+0,129,2012-04-03T00:00:00,458015,4314,Joey Votto,Joey Votto,15.027,14.027,,3,Extension,,1,0,0,0,0,-1,-1,39.8,10.0,225000000.0,22500000.0,2014,2023,2024,gauranteed,0
+1,131,2019-12-05T00:00:00,519058,4892,Mike Moustakas,Mike Moustakas,11.111,10.111,,2,Free Agent,,1,0,0,0,0,-1,-1,34.8,4.0,64000000.0,16000000.0,2020,2023,2023,not40man,0
+2,3023,2023-04-18T00:00:00,668881,22182,Hunter Greene,Hunter Greene,1.000,,,3,Extension,,1,0,0,0,0,-1,-1,23.9,6.0,53000000.0,8833333.33333333,2023,2028,2029,gauranteed,0
+3,3180,2022-12-22T00:00:00,571976,10047,Wil Myers,Wil Myers,9.104,8.104,,2,Free Agent,,0,1,0,0,0,-1,-1,32.6,1.0,7500000.0,7500000.0,2023,2023,2023,not40man,0
+4,3182,2022-12-22T00:00:00,592200,12510,Curt Casali,Curt Casali,6.151,5.151,,2,Free Agent,,0,1,0,0,0,-1,-1,34.7,1.0,3250000.0,3250000.0,2023,2023,2024,gauranteed,0
+5,2864,,621028,17696,Kevin Newman,Kevin Newman,4.046,3.046,,1,Arbitration,,0,0,0,0,0,-1,-1,29.9,1.0,2662500.0,2662500.0,2023,2023,2023,arbeligible,0
+6,2752,,570666,13345,Luis Cessa,Luis Cessa,5.131,4.131,,1,Arbitration,,0,0,0,1,0,-1,-1,31.2,1.0,2650000.0,2650000.0,2023,2023,2023,not40man,0
+7,3306,2023-01-13T00:00:00,596133,16918,Luke Weaver,Luke Weaver,5.112,4.112,,2,Free Agent,,0,0,0,0,0,-1,-1,29.9,1.0,2000000.0,2000000.0,2023,2023,2023,gauranteed,0
+8,2756,,669222,19293,Nick Senzel,Nick Senzel,3.150,2.150,,1,Arbitration,,0,0,0,0,0,-1,-1,28.0,1.0,1950000.0,1950000.0,2023,2023,2023,arbeligible,0
+9,2751,,571656,14814,Buck Farmer,Buck Farmer,5.140,5.018,,1,Arbitration,,0,0,0,0,0,-1,-1,32.4,1.0,1750000.0,1750000.0,2023,2023,2023,arbeligible,0
+10,2755,,608371,13470,Lucas Sims,Lucas Sims,4.014,3.014,,1,Arbitration,,0,0,0,0,0,-1,-1,29.2,1.0,1267500.0,1267500.0,2023,2023,2023,arbeligible,0
+11,3090,2022-11-28T00:00:00,571912,13355,Luke Maile,Luke Maile,5.148,4.132,,2,Free Agent,,0,0,0,0,0,-1,-1,32.4,1.0,1175000.0,1175000.0,2023,2023,2023,gauranteed,0
+12,3423,,622065,18333,Alex Young,Alex Young,2.143,2.060,,1,Arbitration,,0,0,0,0,0,-1,-1,29.8,1.0,1150000.0,1150000.0,2023,2023,2023,arbeligible,0
+13,3402,2023-03-30T00:00:00,571882,13133,Derek Law,Derek Law,3.081,3.035,,8,Free Agent/Arb,,0,0,0,0,0,-1,-1,32.8,1.0,1000000.0,1000000.0,2023,2023,2023,arbeligible,0
+14,2759,,643290,19268,Justin Dunn,Justin Dunn,3.016,2.020,,1,Arbitration,,0,0,0,0,0,-1,-1,27.8,1.0,900000.0,900000.0,2023,2023,2023,arbeligible,0
+15,2761,,622088,16233,Tejay Antone,Tejay Antone,3.000,2.000,,1,Arbitration,,0,0,0,0,0,-1,-1,29.6,1.0,770000.0,770000.0,2023,2023,2023,arbeligible,0
+16,3216,,663697,21523,Jonathan India,Jonathan India,2.000,1.000,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.6,1.0,760000.0,760000.0,2023,2023,2023,arbineligible,0
+17,3021,,663886,17988,Tyler Stephenson,Tyler Stephenson,2.056,1.056,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.9,1.0,740000.0,740000.0,2023,2023,2023,arbineligible,0
+18,3022,,641584,19260,Jake Fraley,Jake Fraley,2.097,1.097,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.1,1.0,740000.0,740000.0,2023,2023,2023,arbineligible,0
+19,3020,,666157,26378,Nick Lodolo,Nick Lodolo,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,730000.0,730000.0,2023,2023,2023,arbineligible,0
+20,3024,,664747,21132,Alexis Díaz,Alexis Diaz,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.8,1.0,730000.0,730000.0,2023,2023,2023,arbineligible,0
+21,3219,,661269,19278,Vladimir Gutierrez,Vladimir Gutierrez,1.127,0.127,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.8,1.0,730000.0,730000.0,2023,2023,2023,arbineligible,0
+22,3019,,670770,19522,TJ Friedl,T.J. Friedl,0.112,0.016,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.9,1.0,722500.0,722500.0,2023,2023,2023,arbineligible,0
+23,3025,,668933,27552,Graham Ashcraft,Graham Ashcraft,0.136,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,722500.0,722500.0,2023,2023,2023,arbineligible,0
+24,3218,,665665,19754,Reiver Sanmartin,Reiver Sanmartin,0.147,0.007,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.2,1.0,722500.0,722500.0,2023,2023,2023,arbineligible,0
+25,3466,,656413,20321,Stuart Fairchild,Stuart Fairchild,0.136,0.048,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.3,1.0,722500.0,722500.0,2023,2023,2023,arbineligible,0
+26,3408,,668715,26323,Spencer Steer,Spencer Steer,0.035,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.6,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+27,3454,,680574,29695,Matt McLain,Matt McLain,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.9,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+28,3490,,682829,26668,Elly De La Cruz,Elly De La Cruz,0.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,21.5,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,2428,2022-03-16T00:00:00,592178,15429,Kris Bryant,Kris Bryant,7.171,6.171,,2,Free Agent,,0,0,0,0,0,-1,-1,31.5,7.0,182000000.0,26000000.0,2022,2028,2028,gauranteed,0
+1,156,2018-04-04T00:00:00,453568,7859,Charlie Blackmon,Charlie Blackmon,10.102,9.102,,3,Extension,,0,0,0,0,0,-1,-1,37.0,6.0,113000000.0,18833333.33333333,2018,2023,2023,gauranteed,0
+2,1848,2022-04-19T00:00:00,607536,16256,Kyle Freeland,Kyle Freeland,5.144,4.144,conditional opt-out after 2024,3,Extension,,0,0,1,0,0,-1,-1,30.1,5.0,64500000.0,12900000.0,2022,2026,2027,gauranteed,0
+3,1849,,641857,15112,Ryan McMahon,Ryan McMahon,5.006,4.006,conditional opt-out after 2025 and 2026,3,Extension,,0,0,0,0,0,-1,-1,28.6,6.0,70000000.0,11666666.66666667,2022,2027,2027,gauranteed,0
+4,642,,545341,10243,Randal Grichuk,Randal Grichuk,8.033,7.033,,3,Extension,,0,0,0,0,0,-1,-1,31.9,5.0,51999999.0,10333333.0,2019,2023,2023,gauranteed,0
+5,1779,,622608,15488,Antonio Senzatela,Antonio Senzatela,5.106,4.106,,3,Extension,,1,0,0,0,0,-1,-1,28.5,5.0,50500000.0,10100000.0,2022,2026,2027,gauranteed,0
+6,2601,2022-07-30T00:00:00,453268,7115,Daniel Bard,Daniel Bard,6.103,5.103,,3,Extension,,0,0,0,1,0,-1,-1,38.0,2.0,19000000.0,9500000.0,2023,2024,2024,gauranteed,0
+7,163,2019-04-06T00:00:00,608566,15038,Germán Márquez,German Marquez,6.027,5.027,,3,Extension,,1,0,0,0,0,-1,-1,28.4,5.0,43000000.0,8600000.0,2019,2023,2024,gauranteed,0
+8,3395,2023-03-19T00:00:00,595777,10815,Jurickson Profar,Jurickson Profar,8.165,7.165,,2,Free Agent,,0,0,0,0,0,-1,-1,30.4,1.0,7750000.0,7750000.0,2023,2023,2023,gauranteed,0
+9,1780,,543068,12546,C.J. Cron,C.J. Cron,8.097,7.097,,3,Extension,,0,0,0,1,0,-1,-1,33.5,2.0,14500000.0,7250000.0,2022,2023,2023,gauranteed,0
+10,2762,,659275,17186,Dinelson Lamet,Dinelson Lamet,5.070,4.130,,1,Arbitration,,0,0,0,1,0,-1,-1,31.0,1.0,5000000.0,5000000.0,2023,2023,2023,not40man,0
+11,3139,2022-12-13T00:00:00,572955,13435,Pierce Johnson,Pierce Johnson,3.137,2.137,,2,Free Agent,,0,0,0,1,0,-1,-1,32.2,1.0,5000000.0,5000000.0,2023,2023,2023,gauranteed,0
+12,1847,,553869,11680,Elias Díaz,Elias Diaz,6.088,5.088,,3,Extension,,0,0,0,0,0,-1,-1,32.6,3.0,14500000.0,4833333.33333333,2022,2024,2024,gauranteed,0
+13,3076,2022-11-11T00:00:00,570632,11589,José Ureña,Jose Urena,6.165,6.040,,2,Free Agent,,1,0,0,0,0,-1,-1,31.8,1.0,3500000.0,3500000.0,2023,2023,2023,not40man,0
+14,2799,,608718,13942,Brent Suter,Brent Suter,5.161,4.161,,1,Arbitration,,0,0,0,0,0,-1,-1,33.9,1.0,3000000.0,3000000.0,2023,2023,2023,arbeligible,0
+15,3389,2023-03-04T00:00:00,543272,9111,Brad Hand,Brad Hand,9.092,8.092,,2,Free Agent,,1,0,0,0,0,-1,-1,33.3,1.0,3000000.0,3000000.0,2023,2023,2024,gauranteed,0
+16,2766,,663898,17907,Brendan Rodgers,Brendan Rodgers,3.075,2.075,,1,Arbitration,,0,0,0,0,0,-1,-1,26.9,1.0,2700000.0,2700000.0,2023,2023,2023,arbeligible,0
+17,2764,,641755,18297,Tyler Kinley,Tyler Kinley,4.014,3.014,,3,Extension,,1,0,0,0,0,-1,-1,32.4,3.0,6250000.0,2083333.33333333,2023,2025,2026,gauranteed,0
+18,2765,,596295,16561,Austin Gomber,Austin Gomber,3.111,2.111,,1,Arbitration,,0,0,0,0,0,-1,-1,29.6,1.0,1650000.0,1650000.0,2023,2023,2023,arbeligible,0
+19,3307,,605612,14691,Harold Castro,Harold Castro,3.141,2.141,,8,Free Agent/Arb,,0,0,0,0,0,-1,-1,29.6,1.0,1300000.0,1300000.0,2023,2023,2023,arbeligible,0
+20,3221,,656458,21290,Lucas Gilbreath,Lucas Gilbreath,1.147,0.148,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.3,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+21,3220,,678662,24064,Ezequiel Tovar,Ezequiel Tovar,0.014,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,21.9,1.0,722000.0,722000.0,2023,2023,2023,arbineligible,0
+22,3422,,664875,17639,Justin Lawrence,Justin Lawrence,0.167,0.064,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.6,1.0,722000.0,722000.0,2023,2023,2023,arbineligible,0
+23,3438,,656234,21267,Jake Bird,Jake Bird,0.117,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.6,1.0,722000.0,722000.0,2023,2023,2023,arbineligible,0
+24,3467,,666134,20529,Nolan Jones,Nolan Jones,0.045,0.000,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.2,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+25,3468,,686668,25479,Brenton Doyle,Brenton Doyle,0.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.1,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,2307,2021-11-28T00:00:00,541645,5760,Avisaíl García,Avisail Garcia,9.167,8.167,,2,Free Agent,,1,0,0,0,0,-1,-1,32.1,4.0,53000000.0,13250000.0,2022,2025,2026,gauranteed,0
+1,2483,2022-03-19T00:00:00,624585,14221,Jorge Soler,Jorge Soler,7.143,6.143,,2,Free Agent,,0,0,0,0,0,-1,-1,31.4,3.0,36000000.0,12000000.0,2022,2024,2024,gauranteed,0
+2,1880,,645261,18684,Sandy Alcantara,Sandy Alcantara,4.100,3.100,,3,Extension,,1,0,0,0,0,-1,-1,27.8,5.0,56000000.0,11200000.0,2022,2026,2027,gauranteed,0
+3,1607,2021-07-11T00:00:00,598264,12863,Matt Barnes,Matt Barnes,7.110,6.110,,3,Extension,,1,0,0,0,0,-1,-1,33.1,2.0,18750000.0,10875000.0,2022,2023,2024,gauranteed,0
+4,3193,2022-12-28T00:00:00,516416,5933,Jean Segura,Jean Segura,10.065,9.065,,2,Free Agent,,1,0,0,0,0,-1,-1,33.3,2.0,17000000.0,8500000.0,2023,2024,2025,gauranteed,0
+5,3293,2023-01-10T00:00:00,456501,6893,Johnny Cueto,Johnny Cueto,14.143,14.000,,2,Free Agent,,1,0,0,0,0,-1,-1,37.4,1.0,8500000.0,8500000.0,2023,2023,2024,gauranteed,0
+6,2824,,650333,18568,Luis Arraez,Luis Arraez,3.121,2.121,,1,Arbitration,,0,0,0,0,0,1,-1,26.2,1.0,6100000.0,6100000.0,2023,2023,2023,arbeligible,0
+7,3073,,621563,13853,Joey Wendle,Joey Wendle,5.088,4.088,,1,Arbitration,,0,0,0,0,0,-1,-1,33.2,1.0,6000000.0,6000000.0,2023,2023,2023,arbeligible,0
+8,2787,,643265,15279,Garrett Cooper,Garrett Cooper,5.053,4.053,,1,Arbitration,,0,0,0,0,0,-1,-1,32.5,1.0,4200000.0,4200000.0,2023,2023,2023,arbeligible,0
+9,2788,,571670,13394,Dylan Floro,Dylan Floro,5.053,4.053,,1,Arbitration,,0,0,0,0,0,-1,-1,32.5,1.0,3900000.0,3900000.0,2023,2023,2023,arbeligible,0
+10,2790,,607732,13723,Jacob Stallings,Jacob Stallings,4.149,3.149,,1,Arbitration,,0,0,0,0,0,-1,-1,33.5,1.0,3350000.0,3350000.0,2023,2023,2023,arbeligible,0
+11,2792,,656945,17586,Tanner Scott,Tanner Scott,4.059,3.059,,1,Arbitration,,0,0,0,0,0,-1,-1,29.0,1.0,2825000.0,2825000.0,2023,2023,2023,arbeligible,0
+12,2797,,666200,19959,Jesús Luzardo,Jesus Luzardo,2.165,1.165,,1,Arbitration,,0,0,0,0,0,1,-1,25.8,1.0,2450000.0,2450000.0,2023,2023,2023,arbeligible,0
+13,2794,,542932,12037,Jon Berti,Jon Berti,3.168,2.168,,3,Extension,,1,0,0,1,0,1,1,33.5,1.0,2125000.0,2125000.0,2023,2023,2024,gauranteed,0
+14,3393,2023-03-30T00:00:00,493329,19198,Yuli Gurriel,Yuli Gurriel,6.043,5.043,,2,Free Agent,,0,0,0,0,0,-1,-1,39.1,1.0,1250000.0,1250000.0,2023,2023,2023,gauranteed,0
+15,2927,,608638,13767,JT Chargois,JT Chargois,3.101,2.101,,1,Arbitration,,0,0,0,0,0,-1,-1,32.6,1.0,850000.0,850000.0,2023,2023,2023,arbeligible,0
+16,3032,,669432,22286,Trevor Rogers,Trevor Rogers,2.094,1.093,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.6,1.0,752000.0,752000.0,2023,2023,2023,arbineligible,0
+17,3033,,665862,20454,Jazz Chisholm Jr.,Jazz Chisholm Jr.,2.075,1.075,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,749500.0,749500.0,2023,2023,2023,arbineligible,0
+18,3034,,595345,13580,Steven Okert,Steven Okert,2.109,1.109,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,32.0,1.0,739000.0,739000.0,2023,2023,2023,arbineligible,0
+19,3035,,669622,19742,Anthony Bender,Anthony Bender,1.153,0.153,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.4,1.0,738500.0,738500.0,2023,2023,2023,arbineligible,0
+20,3036,,660821,19913,Jesús Sánchez,Jesus Sanchez,1.118,0.103,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.7,1.0,738000.0,738000.0,2023,2023,2023,arbineligible,0
+21,2983,,640462,19343,A.J. Puk,A.J. Puk,2.124,1.124,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,736000.0,736000.0,2023,2023,2023,arbineligible,0
+22,3037,,650559,19600,Bryan De La Cruz,Bryan De La Cruz,1.056,0.066,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.6,1.0,736000.0,736000.0,2023,2023,2023,arbineligible,0
+23,3030,,666129,21844,Braxton Garrett,Braxton Garrett,0.168,0.045,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.9,1.0,732000.0,732000.0,2023,2023,2023,arbineligible,0
+24,3031,,665795,21690,Edward Cabrera,Edward Cabrera,0.168,0.040,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.2,1.0,731000.0,731000.0,2023,2023,2023,arbineligible,0
+25,3441,,623211,6107,Huascar Brazoban,Huascar Brazoban,0.074,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,33.7,1.0,724000.0,724000.0,2023,2023,2023,arbineligible,0
+26,3223,,676974,27474,Max Meyer,Max Meyer,0.082,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.3,1.0,721500.0,721500.0,2023,2023,2023,arbineligible,0
+0,457,,514888,5417,Jose Altuve,Jose Altuve,11.072,10.072,,3,Extension,,0,0,0,0,0,-1,-1,33.2,7.0,163500000.0,23357142.85714286,2018,2024,2024,gauranteed,0
+1,460,2020-01-01T00:00:00,608324,17678,Alex Bregman,Alex Bregman,6.070,5.070,,3,Extension,,0,0,0,0,0,-1,-1,29.3,5.0,100000000.0,20000000.0,2020,2024,2024,gauranteed,0
+2,3089,2022-11-28T00:00:00,547989,15676,José Abreu,Jose Abreu,9.000,8.000,,2,Free Agent,,0,0,0,0,0,-1,-1,36.4,3.0,58500000.0,19500000.0,2023,2025,2025,gauranteed,0
+3,2528,2022-06-03T00:00:00,670541,19556,Yordan Alvarez,Yordan Alvarez,3.113,2.113,,3,Extension,,0,0,0,0,0,-1,-1,26.0,6.0,115000000.0,19166666.66666667,2023,2028,2028,gauranteed,0
+4,1576,2021-03-24T00:00:00,621121,14120,Lance McCullers Jr.,Lance McCullers Jr.,7.140,6.140,,3,Extension,,0,0,0,1,0,-1,-1,29.8,5.0,85000000.0,17000000.0,2022,2026,2026,gauranteed,0
+5,2516,2022-04-05T00:00:00,519151,7005,Ryan Pressly,Ryan Pressly,9.039,8.039,,3,Extension,,0,0,1,0,0,-1,-1,34.6,2.0,30000000.0,15000000.0,2023,2024,2025,gauranteed,0
+6,2702,,664299,17606,Cristian Javier,Cristian Javier,3.000,2.000,,3,Extension,,0,0,0,0,0,-1,-1,26.3,5.0,64000000.0,12800000.0,2023,2027,2027,gauranteed,0
+7,3164,2022-12-18T00:00:00,488726,4106,Michael Brantley,Michael Brantley,12.131,11.131,,2,Free Agent,,0,0,0,0,0,-1,-1,36.1,1.0,12000000.0,12000000.0,2023,2023,2023,gauranteed,0
+8,3077,2022-11-12T00:00:00,606160,12760,Rafael Montero,Rafael Montero,6.138,5.138,,2,Free Agent,,0,0,0,0,0,-1,-1,32.7,3.0,34500000.0,11500000.0,2023,2025,2025,gauranteed,0
+9,2303,2021-11-27T00:00:00,593576,11804,Hector Neris,Hector Neris,7.068,6.068,,2,Free Agent,,1,0,0,0,0,-1,-1,34.1,2.0,17000000.0,8500000.0,2022,2023,2024,gauranteed,0
+10,2698,,664285,17295,Framber Valdez,Framber Valdez,3.163,2.163,,1,Arbitration,,0,0,0,0,0,-1,-1,29.6,1.0,6800000.0,6800000.0,2023,2023,2023,arbeligible,0
+11,2700,,663656,18345,Kyle Tucker,Kyle Tucker,3.079,2.079,,1,Arbitration,,0,0,0,0,0,-1,-1,26.5,1.0,5000000.0,5000000.0,2023,2023,2023,arbeligible,0
+12,1582,2021-04-21T00:00:00,455117,6887,Martín Maldonado,Martin Maldonado,10.156,9.156,,3,Extension,,0,0,0,0,0,-1,-1,36.9,2.0,9500000.0,4500000.0,2022,2023,2023,gauranteed,0
+13,2697,,592773,15947,Ryne Stanek,Ryne Stanek,5.038,4.038,,1,Arbitration,,0,0,0,0,0,-1,-1,31.9,1.0,3600000.0,3600000.0,2023,2023,2023,arbeligible,0
+14,2701,,664353,18413,José Urquidy,Jose Urquidy,3.049,2.049,,1,Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,3025000.0,3025000.0,2023,2023,2023,arbeligible,0
+15,2696,,664208,18064,Phil Maton,Phil Maton,5.047,4.047,,1,Arbitration,,0,0,0,0,0,-1,-1,30.3,1.0,2550000.0,2550000.0,2023,2023,2023,arbeligible,0
+16,2704,,643289,16530,Mauricio Dubón,Mauricio Dubon,2.162,1.142,,1,Arbitration,,0,0,0,0,0,1,-1,29.0,1.0,1400000.0,1400000.0,2023,2023,2023,arbeligible,0
+17,2703,,642130,16418,Blake Taylor,Blake Taylor,3.000,2.000,,1,Arbitration,,0,0,0,0,0,-1,-1,27.9,1.0,830000.0,830000.0,2023,2023,2023,arbeligible,0
+18,2705,,677651,23735,Luis Garcia,Luis Garcia,2.083,1.083,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.6,1.0,763200.0,763200.0,2023,2023,2023,arbineligible,0
+19,2708,,665161,21636,Jeremy Peña,Jeremy Pena,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.8,1.0,754900.0,754900.0,2023,2023,2023,arbineligible,0
+20,2706,,676801,19599,Chas McCormick,Chas McCormick,2.000,1.000,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,752500.0,752500.0,2023,2023,2023,arbineligible,0
+21,2707,,650556,16609,Bryan Abreu,Bryan Abreu,2.022,1.022,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.2,1.0,745200.0,745200.0,2023,2023,2023,arbineligible,0
+22,3249,,676694,20308,Jake Meyers,Jake Meyers,1.044,0.065,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.0,1.0,732000.0,732000.0,2023,2023,2023,arbineligible,0
+23,3250,,661527,21045,Seth Martinez,Seth Martinez,0.152,0.006,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.9,1.0,730200.0,730200.0,2023,2023,2023,arbineligible,0
+24,3407,,686613,25880,Hunter Brown,Hunter Brown,0.035,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.9,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+25,3411,,673237,23003,Yainer Diaz,Yainer Diaz,0.035,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.8,1.0,720300.0,720300.0,2023,2023,2023,arbineligible,0
+26,3469,,667452,20311,Corey Julks,Corey Julks,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.4,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,1369,2020-07-22T00:00:00,605141,13611,Mookie Betts,Mookie Betts,8.070,7.070,,3,Extension,,0,0,0,0,0,-1,-1,30.7,12.0,365000000.0,25554824.0,2021,2032,2032,gauranteed,0
+1,2452,2022-03-16T00:00:00,518692,5361,Freddie Freeman,Freddie Freeman,12.033,11.033,,2,Free Agent,,0,0,0,0,0,-1,-1,33.8,6.0,162000000.0,24700000.0,2022,2027,2027,gauranteed,0
+2,1486,2021-02-05T00:00:00,545333,12703,Trevor Bauer,Trevor Bauer,7.158,7.078,2023 and 2024 salaries reduced due to 194-game suspension,2,Free Agent,,0,0,0,0,0,-1,-1,32.5,3.0,64405766.0,22537634.0,2021,2023,2023,not40man,0
+3,3075,2022-11-11T00:00:00,477132,2036,Clayton Kershaw,Clayton Kershaw,14.105,13.105,,2,Free Agent,,0,0,0,0,0,-1,-1,35.3,1.0,20000000.0,20000000.0,2023,2023,2023,gauranteed,0
+4,2338,2021-12-01T00:00:00,621035,13757,Chris Taylor,Chris Taylor,7.037,6.037,,2,Free Agent,,1,0,0,0,0,-1,-1,32.9,4.0,60000000.0,15000000.0,2022,2025,2026,gauranteed,0
+5,2775,,628711,14765,Julio Urías,Julio Urias,5.117,4.117,,1,Arbitration,,0,0,0,0,0,-1,-1,26.9,1.0,14250000.0,14250000.0,2023,2023,2023,arbeligible,0
+6,2607,2022-08-22T00:00:00,571970,13301,Max Muncy,Max Muncy,6.027,5.027,,3,Extension,,1,0,0,0,0,-1,-1,32.9,1.0,13500000.0,13500000.0,2023,2023,2024,gauranteed,0
+7,3144,2022-12-14T00:00:00,592789,11762,Noah Syndergaard,Noah Syndergaard,7.149,6.149,,2,Free Agent,,0,0,0,0,0,-1,-1,30.9,1.0,13000000.0,13000000.0,2023,2023,2023,gauranteed,0
+8,3161,2022-12-17T00:00:00,502110,6184,J.D. Martinez,J.D. Martinez,11.036,10.036,,2,Free Agent,,0,0,0,0,0,-1,-1,35.9,1.0,10000000.0,10000000.0,2023,2023,2023,gauranteed,0
+9,2776,,621111,19374,Walker Buehler,Walker Buehler,4.168,3.168,,1,Arbitration,,0,0,0,0,0,-1,-1,28.9,1.0,8025000.0,8025000.0,2023,2023,2023,arbeligible,0
+10,1406,2021-01-05T00:00:00,595014,12572,Blake Treinen,Blake Treinen,8.065,7.065,,2,Free Agent,,1,0,0,0,0,-1,-1,35.0,3.0,24000000.0,8000000.0,2021,2023,2024,gauranteed,0
+11,2321,2021-11-29T00:00:00,543339,7146,Daniel Hudson,Daniel Hudson,12.106,11.106,,2,Free Agent,,1,0,0,0,0,-1,-1,36.3,2.0,12500000.0,6500000.0,2022,2023,2024,gauranteed,0
+12,3356,2023-02-10T00:00:00,444482,2136,David Peralta,David Peralta,8.120,7.120,,2,Free Agent,,0,0,0,0,0,-1,-1,35.9,1.0,6500000.0,6500000.0,2023,2023,2023,gauranteed,0
+13,3350,2023-02-04T00:00:00,500743,7802,Miguel Rojas,Miguel Rojas,8.043,7.043,,3,Extension,,1,0,0,0,0,-1,-1,34.4,2.0,11000000.0,5500000.0,2023,2024,2025,gauranteed,0
+14,2779,,669257,19197,Will Smith,Will Smith,3.090,2.090,,1,Arbitration,,0,0,0,0,0,-1,-1,28.3,1.0,5250000.0,5250000.0,2023,2023,2023,arbeligible,0
+15,2595,2022-04-03T00:00:00,605131,12158,Austin Barnes,Austin Barnes,6.098,5.098,,3,Extension,,1,0,0,0,0,-1,-1,33.5,2.0,7000000.0,3500000.0,2023,2024,2025,gauranteed,0
+16,2784,,664062,19388,Tony Gonsolin,Tony Gonsolin,2.152,1.152,,3,Extension,,0,0,0,0,0,1,-1,29.1,2.0,6650000.0,3325000.0,2023,2024,2024,gauranteed,0
+17,2780,,669160,19716,Dustin May,Dustin May,3.059,2.059,,1,Arbitration,,0,0,0,0,0,-1,-1,25.8,1.0,1675000.0,1675000.0,2023,2023,2023,arbeligible,0
+18,2778,,622075,15068,Yency Almonte,Yency Almonte,3.143,2.168,,1,Arbitration,,0,0,0,0,0,-1,-1,29.1,1.0,1500000.0,1500000.0,2023,2023,2023,arbeligible,0
+19,3094,2022-11-29T00:00:00,571946,10197,Shelby Miller,Shelby Miller,7.016,7.002,,2,Free Agent,,0,0,0,0,0,-1,-1,32.7,1.0,1500000.0,1500000.0,2023,2023,2023,gauranteed,0
+20,2781,,572204,9952,Trayce Thompson,Trayce Thompson,3.010,2.058,,1,Arbitration,,0,0,0,0,0,-1,-1,32.3,1.0,1450000.0,1450000.0,2023,2023,2023,arbeligible,0
+21,2785,,623465,17734,Evan Phillips,Evan Phillips,2.136,1.136,,1,Arbitration,,0,0,0,0,0,1,-1,28.8,1.0,1300000.0,1300000.0,2023,2023,2023,arbeligible,0
+22,2783,,660813,20367,Brusdar Graterol,Brusdar Graterol,2.167,1.167,,1,Arbitration,,0,0,0,0,0,1,-1,24.9,1.0,1225000.0,1225000.0,2023,2023,2023,arbeligible,0
+23,3364,2023-02-15T00:00:00,519076,10547,Jimmy Nelson,Jimmy Nelson,8.107,7.107,,2,Free Agent,,0,0,0,0,0,-1,-1,34.1,1.0,1200000.0,1200000.0,2023,2023,2023,gauranteed,0
+24,2777,,657571,19349,Caleb Ferguson,Caleb Ferguson,4.088,3.093,,1,Arbitration,,0,0,0,0,0,-1,-1,27.0,1.0,1100000.0,1100000.0,2023,2023,2023,arbeligible,0
+25,3359,2023-02-11T00:00:00,621052,15015,Alex Reyes,Alex Reyes,5.056,4.056,,2,Free Agent,,1,0,0,0,0,-1,-1,28.9,1.0,1100000.0,1100000.0,2023,2023,2024,gauranteed,0
+26,2990,,656420,16610,J.P. Feyereisen,J.P. Feyereisen,2.108,1.108,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,30.4,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+27,3028,,666158,19955,Gavin Lux,Gavin Lux,2.114,1.114,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.6,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+28,3029,,681911,25007,Alex Vesia,Alex Vesia,2.103,1.103,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.2,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+29,3222,,641360,18519,Phil Bickford,Phil Bickford,1.134,0.145,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.0,1.0,740000.0,740000.0,2023,2023,2023,arbineligible,0
+30,3409,,678246,20178,Miguel Vargas,Miguel Vargas,0.041,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.6,1.0,722500.0,722500.0,2023,2023,2023,arbineligible,0
+31,3420,,681546,24770,James Outman,James Outman,0.006,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.1,1.0,722500.0,722500.0,2023,2023,2023,arbineligible,0
+32,3128,2023-03-30T00:00:00,518792,4940,Jason Heyward,Jason Heyward,13.000,12.000,,2,Free Agent,,0,0,0,0,0,-1,-1,33.9,1.0,720000.0,720000.0,2023,2023,2023,gauranteed,0
+33,3481,,676272,27483,Bobby Miller,Bobby Miller,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.3,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,218,2020-03-06T00:00:00,592885,11477,Christian Yelich,Christian Yelich,9.069,8.069,,3,Extension,,0,1,0,0,0,-1,-1,31.6,9.0,215000000.0,23888888.88888889,2020,2028,2029,gauranteed,0
+1,2802,,605540,16162,Brandon Woodruff,Brandon Woodruff,4.161,3.161,,1,Arbitration,,0,0,0,0,0,-1,-1,30.4,1.0,10800000.0,10800000.0,2023,2023,2023,arbeligible,0
+2,2806,,669203,19361,Corbin Burnes,Corbin Burnes,4.049,3.049,,1,Arbitration,,0,0,0,0,0,-1,-1,28.7,1.0,10010000.0,10010000.0,2023,2023,2023,arbeligible,0
+3,2804,,642715,15986,Willy Adames,Willy Adames,4.105,3.105,,1,Arbitration,,0,0,0,0,0,-1,-1,27.8,1.0,8700000.0,8700000.0,2023,2023,2023,arbeligible,0
+4,1831,2022-06-16T00:00:00,608385,13590,Jesse Winker,Jesse Winker,5.080,4.080,,3,Extension,,0,0,0,0,0,-1,-1,29.9,2.0,14500000.0,8250000.0,2022,2023,2023,gauranteed,0
+5,2807,,641778,19316,Eric Lauer,Eric Lauer,4.033,3.033,,1,Arbitration,,0,0,0,0,0,-1,-1,28.1,1.0,5075000.0,5075000.0,2023,2023,2023,arbeligible,0
+6,2810,,642133,15679,Rowdy Tellez,Rowdy Tellez,4.004,3.004,,1,Arbitration,,0,0,0,0,0,-1,-1,28.3,1.0,4950000.0,4950000.0,2023,2023,2023,arbeligible,0
+7,2811,,649966,16622,Luis Urías,Luis Urias,3.120,2.120,,1,Arbitration,,0,0,0,0,0,-1,-1,26.1,1.0,4700000.0,4700000.0,2023,2023,2023,arbeligible,0
+8,3209,,489119,8779,Wade Miley,Wade Miley,11.025,10.025,,2,Free Agent,,0,1,0,0,0,-1,-1,36.6,1.0,4500000.0,4500000.0,2023,2023,2024,gauranteed,0
+9,2600,2022-07-23T00:00:00,676879,23550,Aaron Ashby,Aaron Ashby,1.046,0.046,,3,Extension,,1,0,0,0,0,-1,-1,25.1,5.0,20500000.0,4100000.0,2023,2027,2029,gauranteed,0
+10,2809,,605288,12718,Adrian Houser,Adrian Houser,4.010,3.010,,1,Arbitration,,0,0,0,0,0,-1,-1,30.4,1.0,3600000.0,3600000.0,2023,2023,2023,arbeligible,0
+11,3314,2023-01-17T00:00:00,605119,18289,Brian Anderson,Brian Anderson,5.031,4.031,,2,Free Agent,,0,0,0,0,0,-1,-1,30.1,1.0,3500000.0,3500000.0,2023,2023,2023,gauranteed,0
+12,2813,,642207,15816,Devin Williams,Devin Williams,3.056,2.056,,1,Arbitration,,0,0,0,0,0,-1,-1,28.8,1.0,3350000.0,3350000.0,2023,2023,2023,arbeligible,0
+13,230,2020-01-01T00:00:00,642547,18679,Freddy Peralta,Freddy Peralta,4.090,3.090,,3,Extension,,1,0,0,0,0,-1,-1,27.1,5.0,15500000.0,3100000.0,2020,2024,2026,gauranteed,0
+14,2800,,605170,14968,Victor Caratini,Victor Caratini,5.051,4.051,,1,Arbitration,,0,0,0,0,0,-1,-1,29.9,1.0,2800000.0,2800000.0,2023,2023,2023,arbeligible,0
+15,2815,,669374,20003,Keston Hiura,Keston Hiura,3.009,2.029,,1,Arbitration,,0,0,0,1,0,-1,-1,26.9,1.0,2200000.0,2200000.0,2023,2023,2023,not40man,0
+16,2803,,456713,1246,Matt Bush,Matt Bush,4.132,3.132,,1,Arbitration,,0,0,0,1,0,-1,-1,37.4,1.0,1850000.0,1850000.0,2023,2023,2023,not40man,0
+17,3444,2023-05-25T00:00:00,527054,6797,Julio Teheran,Julio Teheran,9.062,9.062,,2,Free Agent,,0,0,0,0,0,-1,-1,32.4,1.0,1500000.0,1500000.0,2023,2023,2023,gauranteed,0
+18,2814,,670712,19683,Mike Brosseau,Mike Brosseau,3.031,2.031,,1,Arbitration,,0,0,0,1,0,-1,-1,29.3,1.0,1400000.0,1400000.0,2023,2023,2023,not40man,0
+19,2888,,647351,19844,Abraham Toro,Abraham Toro,2.149,1.162,,1,Arbitration,,0,0,0,0,0,1,-1,26.5,1.0,1250000.0,1250000.0,2023,2023,2023,arbeligible,0
+20,2812,,571948,13346,Hoby Milner,Hoby Milner,3.068,2.064,,1,Arbitration,,0,0,0,0,0,-1,-1,32.5,1.0,1025000.0,1025000.0,2023,2023,2023,arbeligible,0
+21,3376,2023-02-18T00:00:00,458677,4301,Justin Wilson,Justin Wilson,10.035,9.035,,2,Free Agent,,1,0,0,0,0,-1,-1,35.9,1.0,1000000.0,1000000.0,2023,2023,2024,gauranteed,0
+22,3007,,661388,20503,William Contreras,William Contreras,1.106,0.112,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.5,1.0,739000.0,739000.0,2023,2023,2023,arbineligible,0
+23,3038,,621438,13675,Tyrone Taylor,Tyrone Taylor,2.093,1.093,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,29.5,1.0,735400.0,735400.0,2023,2023,2023,arbineligible,0
+24,3227,,669060,19990,Bryse Wilson,Bryse Wilson,2.036,1.076,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.5,1.0,732600.0,732600.0,2023,2023,2023,arbineligible,0
+25,3450,,680911,24655,Owen Miller,Owen Miller,1.091,0.091,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.6,1.0,731100.0,731100.0,2023,2023,2023,arbineligible,0
+26,3226,,657265,21367,Peter Strzelecki,Peter Strzelecki,0.081,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.7,1.0,726400.0,726400.0,2023,2023,2023,arbineligible,0
+27,3224,,669003,27555,Garrett Mitchell,Garrett Mitchell,0.040,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.8,1.0,724300.0,724300.0,2023,2023,2023,arbineligible,0
+28,3410,,668930,22186,Brice Turang,Brice Turang,0.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.6,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+29,3451,,686894,27690,Joey Wiemer,Joey Wiemer,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.4,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+30,3378,2023-03-27T00:00:00,572228,14811,Luke Voit,Luke Voit,4.169,3.169,"$2M, prorated",2,Free Agent,,0,0,0,1,0,-1,-1,32.4,1.0,666667.0,666667.0,2023,2023,2023,not40man,0
+0,360,2020-01-01T00:00:00,544931,10131,Stephen Strasburg,Stephen Strasburg,12.118,11.118,,2,Free Agent,,0,0,0,0,0,-1,-1,35.0,7.0,245000000.0,35000000.0,2020,2026,2026,gauranteed,0
+1,361,,571578,9323,Patrick Corbin,Patrick Corbin,10.105,9.105,,2,Free Agent,,0,0,0,0,0,-1,-1,34.0,6.0,140000000.0,23333333.33333333,2019,2024,2024,gauranteed,0
+2,3133,2022-12-09T00:00:00,592866,16977,Trevor Williams,Trevor Williams,6.027,5.026,,2,Free Agent,,0,0,0,0,0,-1,-1,31.2,2.0,13000000.0,6500000.0,2023,2024,2024,gauranteed,0
+3,3068,,660688,19610,Keibert Ruiz,Keibert Ruiz,1.064,0.064,,3,Extension,,1,0,0,0,0,-1,-1,25.0,8.0,50000000.0,6250000.0,2023,2030,2032,gauranteed,0
+4,3093,2022-11-29T00:00:00,600869,13621,Jeimer Candelario,Jeimer Candelario,5.038,4.038,,2,Free Agent,,0,0,0,0,0,-1,-1,29.6,1.0,5000000.0,5000000.0,2023,2023,2023,gauranteed,0
+5,2955,,645302,18363,Victor Robles,Victor Robles,4.033,3.033,,3,Extension,,1,0,0,0,0,-1,-1,26.1,1.0,2325000.0,2325000.0,2023,2023,2024,gauranteed,0
+6,2961,,640448,15009,Kyle Finnegan,Kyle Finnegan,3.000,2.000,,1,Arbitration,,0,0,0,0,0,-1,-1,31.8,1.0,2325000.0,2325000.0,2023,2023,2023,arbeligible,0
+7,2952,,605218,13607,Carl Edwards Jr.,Carl Edwards Jr.,5.169,5.020,,1,Arbitration,,0,0,0,0,0,-1,-1,31.8,1.0,2250000.0,2250000.0,2023,2023,2023,arbeligible,0
+8,3294,2023-01-10T00:00:00,572816,10762,Corey Dickerson,Corey Dickerson,9.101,8.101,,2,Free Agent,,0,0,0,0,0,-1,-1,34.1,1.0,2250000.0,2250000.0,2023,2023,2023,gauranteed,0
+9,2959,,657041,16939,Lane Thomas,Lane Thomas,3.014,2.014,,1,Arbitration,,0,0,0,0,0,-1,-1,27.9,1.0,2200000.0,2200000.0,2023,2023,2023,arbeligible,0
+10,3203,2023-01-03T00:00:00,642086,15653,Dominic Smith,Dominic Smith,4.081,3.146,,2,Free Agent,,0,0,0,0,0,-1,-1,28.1,1.0,2000000.0,2000000.0,2023,2023,2023,gauranteed,0
+11,2956,,663432,17610,Tanner Rainey,Tanner Rainey,3.127,2.127,,1,Arbitration,,0,0,0,0,0,-1,-1,30.5,1.0,1500000.0,1500000.0,2023,2023,2023,arbeligible,0
+12,3147,2022-12-15T00:00:00,541640,10314,Erasmo Ramírez,Erasmo Ramirez,7.169,7.001,,2,Free Agent,,0,0,0,1,0,-1,-1,33.2,1.0,1000000.0,1000000.0,2023,2023,2023,not40man,0
+13,3403,2023-03-30T00:00:00,656308,17321,Michael Chavis,Michael Chavis,3.089,2.089,,8,Free Agent/Arb,,0,0,0,0,0,-1,-1,27.9,1.0,1000000.0,1000000.0,2023,2023,2023,arbeligible,0
+14,2960,,545121,13324,Ildemaro Vargas,Ildemaro Vargas,3.007,2.097,,1,Arbitration,,0,0,0,0,0,-1,-1,32.0,1.0,975000.0,975000.0,2023,2023,2023,arbeligible,0
+15,3348,2023-03-30T00:00:00,641771,14975,Chad Kuhl,Chad Kuhl,6.079,5.079,"$2M, prorated",2,Free Agent,,0,0,0,1,0,-1,-1,30.8,1.0,946237.0,946237.0,2023,2023,2023,not40man,0
+16,2958,,644364,15915,Víctor Arano,Victor Arano,3.022,2.020,,1,Arbitration,,0,0,0,0,0,-1,-1,28.4,1.0,925000.0,925000.0,2023,2023,2023,arbeligible,0
+17,2957,,640451,15507,Hunter Harvey,Hunter Harvey,3.047,2.047,,1,Arbitration,,0,0,0,0,0,-1,-1,28.6,1.0,870000.0,870000.0,2023,2023,2023,arbeligible,0
+18,3236,,671277,20391,Luis García,Luis Garcia,1.164,1.037,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.1,1.0,738600.0,738600.0,2023,2023,2023,arbineligible,0
+19,3067,,680686,24580,Josiah Gray,Josiah Gray,1.075,0.075,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.5,1.0,730000.0,730000.0,2023,2023,2023,arbineligible,0
+20,3421,,666168,21850,Mason Thompson,Mason Thompson,1.046,0.080,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.4,1.0,724400.0,724400.0,2023,2023,2023,arbineligible,0
+21,3065,,682928,25768,CJ Abrams,CJ Abrams,0.130,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,22.8,1.0,724200.0,724200.0,2023,2023,2023,arbineligible,0
+22,3066,,608841,14366,Joey Meneses,Joey Meneses,0.065,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,31.2,1.0,723300.0,723300.0,2023,2023,2023,arbineligible,0
+23,3069,,669022,22201,MacKenzie Gore,MacKenzie Gore,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.4,1.0,723300.0,723300.0,2023,2023,2023,arbineligible,0
+24,3237,,676917,27473,Cade Cavalli,Cade Cavalli,0.041,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.9,1.0,720200.0,720200.0,2023,2023,2023,arbineligible,0
+25,3239,,502179,8246,Paolo Espino,Paolo Espino,2.075,1.074,,0,Pre-Arbitration,,0,0,0,0,1,-1,-1,36.5,1.0,0.0,,2023,2023,2023,arbineligible,0
+0,2312,2021-11-29T00:00:00,453286,3137,Max Scherzer,Max Scherzer,14.079,13.079,can opt out after 2023,2,Free Agent,,0,0,0,0,0,-1,-1,38.9,3.0,130000000.0,43333333.33333333,2022,2024,2024,gauranteed,0
+1,3103,2022-12-05T00:00:00,434378,8700,Justin Verlander,Justin Verlander,17.002,16.002,becomes player option with 140 IP in 2024,2,Free Agent,,0,0,1,0,0,-1,-1,40.4,2.0,86666666.0,43333333.0,2023,2024,2025,gauranteed,0
+2,1578,2021-03-31T00:00:00,596019,12916,Francisco Lindor,Francisco Lindor,7.113,6.113,,3,Extension,,0,0,0,0,0,-1,-1,29.6,10.0,341000000.0,31900000.0,2022,2031,2031,gauranteed,0
+3,243,2013-12-12T00:00:00,429664,3269,Robinson Canó,Robinson Cano,15.076,15.076,salary forfeited in 2021 due to suspension,2,Free Agent,,0,0,0,1,0,-1,-1,40.7,10.0,216000000.0,24000000.0,2014,2023,2023,not40man,0
+4,3130,2022-12-08T00:00:00,607043,12927,Brandon Nimmo,Brandon Nimmo,6.042,5.042,,2,Free Agent,,0,0,0,0,0,-1,-1,30.3,8.0,162000000.0,20250000.0,2023,2030,2030,gauranteed,0
+5,2301,2021-11-26T00:00:00,516782,9241,Starling Marte,Starling Marte,9.162,8.162,,2,Free Agent,,0,0,0,0,0,-1,-1,34.7,4.0,78000000.0,19500000.0,2022,2025,2025,gauranteed,0
+6,3072,,621242,14710,Edwin Díaz,Edwin Diaz,6.121,5.121,,2,Free Agent,,1,0,0,0,0,-1,-1,29.3,5.0,102000000.0,18600000.0,2023,2027,2028,gauranteed,0
+7,3134,2022-12-10T00:00:00,673540,31838,Kodai Senga,Kodai Senga,,,needs 400 IP in three years to opt out,2,Free Agent,,1,0,0,0,0,-1,-1,30.4,5.0,75000000.0,15000000.0,2023,2027,2028,gauranteed,0
+8,2834,,624413,19251,Pete Alonso,Pete Alonso,4.000,3.000,,1,Arbitration,,0,0,0,0,0,-1,-1,28.6,1.0,14500000.0,14500000.0,2023,2023,2023,arbeligible,0
+9,418,,471911,6632,Carlos Carrasco,Carlos Carrasco,11.147,10.147,,3,Extension,,0,0,0,0,0,-1,-1,36.3,5.0,58000000.0,14000000.0,2019,2023,2023,gauranteed,0
+10,2300,2021-11-26T00:00:00,592192,11445,Mark Canha,Mark Canha,7.092,6.092,,2,Free Agent,,1,0,0,0,0,-1,-1,34.4,2.0,26500000.0,13250000.0,2022,2023,2024,gauranteed,0
+11,3122,2022-12-07T00:00:00,500779,11423,José Quintana,Jose Quintana,10.133,9.133,,2,Free Agent,,0,0,0,0,0,-1,-1,34.4,2.0,26000000.0,13000000.0,2023,2024,2024,gauranteed,0
+12,2831,,643446,15362,Jeff McNeil,Jeff McNeil,4.069,3.069,,3,Extension,,1,0,0,0,0,-1,-1,31.2,4.0,50000000.0,12500000.0,2023,2026,2027,gauranteed,0
+13,3131,2022-12-08T00:00:00,502085,8241,David Robertson,David Robertson,13.119,12.104,,2,Free Agent,,0,0,0,0,0,-1,-1,38.2,1.0,10000000.0,10000000.0,2023,2023,2023,gauranteed,0
+14,3151,2022-12-15T00:00:00,553882,13338,Omar Narváez,Omar Narvaez,6.089,5.089,,2,Free Agent,,0,0,0,0,0,-1,-1,31.4,2.0,15000000.0,7500000.0,2023,2023,2024,gauranteed,0
+15,3173,2022-12-20T00:00:00,493603,1247,Adam Ottavino,Adam Ottavino,11.087,10.087,,2,Free Agent,,0,0,0,0,0,-1,-1,37.6,2.0,14500000.0,7250000.0,2023,2023,2024,gauranteed,0
+16,3316,2023-01-18T00:00:00,502054,2967,Tommy Pham,Tommy Pham,7.107,6.107,,2,Free Agent,,0,0,0,0,0,-1,-1,35.3,1.0,6000000.0,6000000.0,2023,2023,2023,gauranteed,0
+17,2313,2021-11-29T00:00:00,548384,10061,Brooks Raley,Brooks Raley,3.045,2.045,,2,Free Agent,,1,0,0,1,0,-1,-1,35.0,2.0,10000000.0,5750000.0,2022,2023,2024,gauranteed,0
+18,1380,2020-12-09T00:00:00,623167,13896,Chris Flexen,Chris Flexen,2.107,1.107,,2,Free Agent,,0,0,0,1,0,-1,-1,29.0,3.0,12750000.0,4250000.0,2021,2023,2023,not40man,0
+19,1976,,573131,9929,Darin Ruf,Darin Ruf,5.138,4.138,,3,Extension,,1,0,0,0,0,-1,-1,36.9,2.0,6250000.0,3125000.0,2022,2023,2024,not40man,0
+20,2829,,621512,13755,Tomás Nido,Tomas Nido,4.089,3.089,,3,Extension,,0,0,0,0,0,-1,-1,29.2,2.0,3700000.0,1850000.0,2023,2024,2024,not40man,0
+21,2793,,622694,16933,Elieser Hernández,Elieser Hernandez,4.051,3.118,,1,Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,1600000.0,1600000.0,2023,2023,2023,arbeligible,0
+22,2835,,641645,16451,Luis Guillorme,Luis Guillorme,3.167,2.167,,1,Arbitration,,0,0,0,0,0,1,-1,28.8,1.0,1600000.0,1600000.0,2023,2023,2023,arbeligible,0
+23,1899,2022-03-15T00:00:00,596129,14130,Daniel Vogelbach,Daniel Vogelbach,4.138,3.138,,8,Free Agent/Arb,,0,0,0,0,0,1,-1,30.5,2.0,2300000.0,1500000.0,2022,2023,2023,arbeligible,0
+24,3288,2023-03-30T00:00:00,641796,15124,Tim Locastro,Tim Locastro,3.122,3.010,,8,Free Agent/Arb,,0,0,0,0,0,-1,-1,31.0,1.0,1400000.0,1400000.0,2023,2023,2023,arbeligible,0
+25,2833,,622098,17755,Drew Smith,Drew Smith,4.034,3.034,,1,Arbitration,,0,0,0,0,0,-1,-1,29.8,1.0,1300000.0,1300000.0,2023,2023,2023,arbeligible,0
+26,3091,2022-11-28T00:00:00,641627,15046,Trevor Gott,Trevor Gott,4.057,3.057,,2,Free Agent,,0,0,0,0,0,-1,-1,30.9,1.0,1200000.0,1200000.0,2023,2023,2023,gauranteed,0
+27,2832,,664192,19320,Joey Lucchesi,Joey Lucchesi,4.067,3.067,,1,Arbitration,,0,0,0,0,0,-1,-1,30.1,1.0,1150000.0,1150000.0,2023,2023,2023,arbeligible,0
+28,2936,,642701,17878,Dennis Santana,Dennis Santana,3.095,2.095,,1,Arbitration,,0,0,0,1,0,-1,-1,27.2,1.0,1000000.0,1000000.0,2023,2023,2023,not40man,0
+29,3179,2022-12-22T00:00:00,664901,18889,Danny Mendick,Danny Mendick,2.168,1.152,,2,Free Agent,,0,0,0,0,0,-1,-1,29.8,1.0,1000000.0,1000000.0,2023,2023,2023,gauranteed,0
+30,2520,2022-04-06T00:00:00,595928,16128,John Curtiss,John Curtiss,3.045,2.045,,2,Free Agent,,0,0,0,1,0,-1,-1,30.3,2.0,1545000.0,775000.0,2022,2023,2023,gauranteed,0
+31,2860,,656322,17264,Sam Coonrod,Sam Coonrod,3.078,2.078,,1,Arbitration,,0,0,0,0,0,-1,-1,30.8,1.0,775000.0,775000.0,2023,2023,2023,arbeligible,0
+32,2796,,656257,16631,Jeff Brigham,Jeff Brigham,3.010,2.126,,1,Arbitration,,0,0,0,0,0,-1,-1,31.4,1.0,760000.0,760000.0,2023,2023,2023,arbeligible,0
+33,3212,,656849,20302,David Peterson,David Peterson,2.125,2.000,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.8,1.0,750000.0,750000.0,2023,2023,2023,arbineligible,0
+34,3452,,682626,26121,Francisco Alvarez,Francisco Alvarez,0.006,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,21.6,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+35,3108,2023-03-27T00:00:00,488984,1157,Tommy Hunter,Tommy Hunter,12.156,12.045,"$1.75M, prorated",2,Free Agent,,0,0,0,1,0,-1,-1,37.0,1.0,696236.0,696236.0,2023,2023,2023,not40man,0
+36,3040,,656731,21318,Tylor Megill,Tylor Megill,1.103,0.102,,0,Pre-Arbitration,,0,0,0,0,1,-1,-1,27.9,1.0,0.0,,2023,2023,2023,arbineligible,0
+0,3104,2022-12-05T00:00:00,607208,16252,Trea Turner,Trea Turner,6.135,5.135,,2,Free Agent,,0,0,0,0,0,-1,-1,30.0,11.0,300000000.0,27272727.27272727,2023,2033,2033,gauranteed,0
+1,269,2019-02-28T00:00:00,547180,11579,Bryce Harper,Bryce Harper,10.159,9.159,,2,Free Agent,,0,0,0,0,0,-1,-1,30.7,13.0,330000000.0,25384615.38461538,2019,2031,2031,gauranteed,0
+2,270,2019-12-09T00:00:00,554430,10310,Zack Wheeler,Zack Wheeler,9.098,8.098,,2,Free Agent,,0,0,0,0,0,-1,-1,33.1,5.0,118000000.0,23600000.0,2020,2024,2024,gauranteed,0
+3,1446,2021-01-26T00:00:00,592663,11739,J.T. Realmuto,J.T. Realmuto,8.038,7.038,,2,Free Agent,,0,0,0,0,0,-1,-1,32.3,5.0,115500000.0,23100000.0,2021,2025,2025,gauranteed,0
+4,2474,2022-03-18T00:00:00,592206,11737,Nick Castellanos,Nick Castellanos,9.029,8.029,,2,Free Agent,,0,0,0,0,0,-1,-1,31.3,5.0,100000000.0,20000000.0,2022,2026,2026,gauranteed,0
+5,2411,2022-03-16T00:00:00,656941,16478,Kyle Schwarber,Kyle Schwarber,7.086,6.086,,2,Free Agent,,0,0,0,0,0,-1,-1,30.3,4.0,79000000.0,19750000.0,2022,2025,2025,gauranteed,0
+6,3117,2022-12-06T00:00:00,592836,11836,Taijuan Walker,Taijuan Walker,8.142,7.142,,2,Free Agent,,0,0,0,0,0,-1,-1,30.9,4.0,72000000.0,18000000.0,2023,2026,2026,gauranteed,0
+7,277,2019-02-13T00:00:00,605400,16149,Aaron Nola,Aaron Nola,7.076,6.076,,3,Extension,,0,0,0,0,0,-1,-1,30.1,5.0,56750000.0,16000000.0,2019,2023,2023,gauranteed,0
+8,2857,,656555,16472,Rhys Hoskins,Rhys Hoskins,5.053,4.053,,1,Arbitration,,0,0,0,0,0,-1,-1,30.3,1.0,12000000.0,12000000.0,2023,2023,2023,arbeligible,0
+9,3186,2022-12-23T00:00:00,518886,6655,Craig Kimbrel,Craig Kimbrel,11.161,10.161,,2,Free Agent,,0,0,0,0,0,-1,-1,35.1,1.0,10000000.0,10000000.0,2023,2023,2023,gauranteed,0
+10,3118,2022-12-06T00:00:00,621381,13799,Matt Strahm,Matt Strahm,6.064,5.064,,2,Free Agent,,0,0,0,0,0,-1,-1,31.6,2.0,15000000.0,7500000.0,2023,2024,2024,gauranteed,0
+11,2856,,621237,17780,José Alvarado,Jose Alvarado,5.082,4.088,,3,Extension,,1,0,0,0,0,-1,-1,28.1,3.0,22000000.0,7333333.33333333,2023,2025,2026,gauranteed,0
+12,279,2018-03-25T00:00:00,664068,17975,Scott Kingery,Scott Kingery,3.047,3.047,,3,Extension,,1,0,0,0,0,-1,-1,29.2,6.0,24000000.0,4000000.0,2018,2023,2026,not40man,0
+13,2683,,642397,19677,Gregory Soto,Gregory Soto,3.102,2.102,,1,Arbitration,,0,0,0,0,0,-1,-1,28.4,1.0,3925000.0,3925000.0,2023,2023,2023,arbeligible,0
+14,2858,,622554,19249,Seranthony Domínguez,Seranthony Dominguez,4.131,3.131,,3,Extension,,1,0,0,0,0,-1,-1,28.6,2.0,7250000.0,3625000.0,2023,2024,2025,gauranteed,0
+15,2859,,624133,17277,Ranger Suárez,Ranger Suarez,3.112,2.112,,1,Arbitration,,0,0,0,0,0,-1,-1,27.9,1.0,2950000.0,2950000.0,2023,2023,2023,arbeligible,0
+16,3337,2023-01-29T00:00:00,543281,8202,Josh Harrison,Josh Harrison,10.168,9.168,,2,Free Agent,,0,0,0,0,0,-1,-1,36.0,1.0,2000000.0,2000000.0,2023,2023,2023,gauranteed,0
+17,2823,,595909,14477,Jake Cave,Jake Cave,3.137,3.072,,1,Arbitration,,0,0,0,0,0,-1,-1,30.6,1.0,950000.0,950000.0,2023,2023,2023,arbeligible,0
+18,2862,,624641,17022,Edmundo Sosa,Edmundo Sosa,2.140,1.140,,1,Arbitration,,0,0,0,0,0,1,-1,27.3,1.0,950000.0,950000.0,2023,2023,2023,arbeligible,0
+19,3044,,571479,10657,Andrew Bellatti,Andrew Bellatti,1.083,0.083,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,31.9,1.0,859000.0,859000.0,2023,2023,2023,arbineligible,0
+20,3045,,664761,21618,Alec Bohm,Alec Bohm,2.106,1.106,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.9,1.0,748000.0,748000.0,2023,2023,2023,arbineligible,0
+21,3229,,656793,20153,Nick Nelson,Nick Nelson,2.049,1.049,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.6,1.0,745000.0,745000.0,2023,2023,2023,arbineligible,0
+22,3228,,596117,18067,Garrett Stubbs,Garrett Stubbs,2.120,1.104,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,30.1,1.0,741000.0,741000.0,2023,2023,2023,arbineligible,0
+23,3046,,641401,21205,Connor Brogdon,Connor Brogdon,2.067,1.081,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.4,1.0,738750.0,738750.0,2023,2023,2023,arbineligible,0
+24,3041,,681082,26294,Bryson Stott,Bryson Stott,0.171,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.7,1.0,734500.0,734500.0,2023,2023,2023,arbineligible,0
+25,3047,,669016,20202,Brandon Marsh,Brandon Marsh,1.078,0.078,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.5,1.0,734500.0,734500.0,2023,2023,2023,arbineligible,0
+26,3043,,663559,20070,Bailey Falter,Bailey Falter,1.032,0.119,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.2,1.0,733000.0,733000.0,2023,2023,2023,arbineligible,0
+27,3471,,665019,20572,Kody Clemens,Kody Clemens,0.120,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.1,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+28,3265,,665506,19948,Cristian Pache,Cristian Pache,1.031,0.079,,0,Pre-Arbitration,,0,0,0,0,1,-1,-1,24.6,1.0,0.0,,2023,2023,2023,arbineligible,0
+0,3418,2023-04-25T00:00:00,668804,19326,Bryan Reynolds,Bryan Reynolds,3.163,2.163,,3,Extension,,1,0,0,0,0,-1,-1,28.4,8.0,106750000.0,13343750.0,2023,2030,2031,gauranteed,0
+1,1955,,663647,18577,Ke'Bryan Hayes,Ke'Bryan Hayes,2.075,1.075,,3,Extension,,1,0,0,0,0,-1,-1,26.4,8.0,70000000.0,8750000.0,2022,2029,2030,gauranteed,0
+2,3188,2022-12-27T00:00:00,448179,4806,Rich Hill,Rich Hill,13.127,12.127,,2,Free Agent,,0,0,0,0,0,-1,-1,43.3,1.0,8000000.0,8000000.0,2023,2023,2023,gauranteed,0
+3,3085,2022-11-25T00:00:00,467793,2396,Carlos Santana,Carlos Santana,12.115,11.115,,2,Free Agent,,0,0,0,0,0,-1,-1,37.2,1.0,6725000.0,6725000.0,2023,2023,2023,gauranteed,0
+4,3162,2022-12-17T00:00:00,595978,12976,Austin Hedges,Austin Hedges,6.166,5.166,,2,Free Agent,,0,0,0,0,0,-1,-1,30.9,1.0,5000000.0,5000000.0,2023,2023,2023,gauranteed,0
+5,3305,2023-01-13T00:00:00,457705,9847,Andrew McCutchen,Andrew McCutchen,13.123,12.123,,2,Free Agent,,0,0,0,0,0,-1,-1,36.7,1.0,5000000.0,5000000.0,2023,2023,2023,gauranteed,0
+6,2914,,596847,5452,Ji Man Choi,Ji-Man Choi,5.076,4.076,,1,Arbitration,,0,0,0,0,0,-1,-1,32.1,1.0,4650000.0,4650000.0,2023,2023,2023,arbeligible,0
+7,3111,2022-12-06T00:00:00,592826,11189,Vince Velasquez,Vince Velasquez,7.086,6.086,,2,Free Agent,,0,0,0,0,0,-1,-1,31.1,1.0,3150000.0,3150000.0,2023,2023,2023,gauranteed,0
+8,3109,2022-12-06T00:00:00,606424,18282,Jarlín García,Jarlin Garcia,5.114,4.114,,2,Free Agent,,1,0,0,0,0,-1,-1,30.5,1.0,2500000.0,2500000.0,2023,2023,2024,gauranteed,0
+9,2867,,656605,17594,Mitch Keller,Mitch Keller,3.026,2.026,,1,Arbitration,,0,0,0,0,0,-1,-1,27.3,1.0,2437500.0,2437500.0,2023,2023,2023,arbeligible,0
+10,2868,,664141,17578,JT Brubaker,JT Brubaker,3.000,2.000,,1,Arbitration,,0,0,0,0,0,-1,-1,29.6,1.0,2275000.0,2275000.0,2023,2023,2023,arbeligible,0
+11,2865,,609280,15878,Miguel Andujar,Miguel Andujar,4.002,3.117,,1,Arbitration,,0,0,0,1,0,-1,-1,28.3,1.0,1525000.0,1525000.0,2023,2023,2023,not40man,0
+12,2866,,621249,14677,Duane Underwood Jr.,Duane Underwood Jr.,3.044,2.044,,1,Arbitration,,0,0,0,1,0,-1,-1,29.0,1.0,1025000.0,1025000.0,2023,2023,2023,not40man,0
+13,3052,,670280,19569,David Bednar,David Bednar,2.076,1.076,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.7,1.0,745000.0,745000.0,2023,2023,2023,arbineligible,0
+14,3053,,640444,19800,Wil Crowe,Wil Crowe,2.011,1.011,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.8,1.0,745000.0,745000.0,2023,2023,2023,arbineligible,0
+15,3027,,656582,16572,Connor Joe,Connor Joe,1.136,0.136,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,30.9,1.0,735000.0,735000.0,2023,2023,2023,arbineligible,0
+16,3479,,670912,22487,Johan Oviedo,Johan Oviedo,1.079,0.156,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.3,1.0,735000.0,735000.0,2023,2023,2023,arbineligible,0
+17,3048,,666801,21987,Rodolfo Castro,Rodolfo Castro,0.127,0.045,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.1,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+18,3050,,672710,22810,Roansy Contreras,Roansy Contreras,0.112,0.002,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.7,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+19,3055,,669261,22244,Jack Suwinski,Jack Suwinski,0.118,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.9,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+20,3431,,678225,23818,Ji Hwan Bae,Ji Hwan Bae,0.013,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.9,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+21,3434,,670059,22361,Colin Holderman,Colin Holderman,0.130,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.7,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+22,3489,,664294,21101,Dauri Moreta,Dauri Moreta,0.120,0.012,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.2,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+23,3056,,665833,21711,Oneil Cruz,Oneil Cruz,0.110,0.002,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.8,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+24,3457,,641511,19806,Jason Delay,Jason Delay,0.095,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.3,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+25,3472,,672779,22871,Tucupita Marcano,Tucupita Marcano,0.141,0.034,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.8,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,155,2019-02-26T00:00:00,571448,9777,Nolan Arenado,Nolan Arenado,9.155,8.155,,3,Extension,,0,0,0,0,0,-1,-1,32.2,9.0,275000000.0,30555555.55555556,2019,2027,2027,gauranteed,0
+1,335,2020-01-01T00:00:00,502671,9218,Paul Goldschmidt,Paul Goldschmidt,11.059,10.059,,3,Extension,,0,0,0,0,0,-1,-1,35.8,5.0,130000000.0,26000000.0,2020,2024,2024,gauranteed,0
+2,3397,2023-03-24T00:00:00,571945,9803,Miles Mikolas,Miles Mikolas,6.037,5.037,,3,Extension,,0,0,0,1,0,-1,-1,34.9,3.0,55750000.0,18583333.33333333,2023,2025,2025,gauranteed,0
+3,3070,,425794,2233,Adam Wainwright,Adam Wainwright,17.027,16.027,,3,Extension,,0,0,0,0,0,-1,-1,41.8,1.0,17500000.0,17500000.0,2023,2023,2023,gauranteed,0
+4,3125,2022-12-07T00:00:00,575929,11609,Willson Contreras,Willson Contreras,6.108,5.108,,2,Free Agent,,1,0,0,0,0,-1,-1,31.1,5.0,87500000.0,17500000.0,2023,2027,2028,gauranteed,0
+5,2296,2021-11-23T00:00:00,571927,13361,Steven Matz,Steven Matz,7.099,6.099,,2,Free Agent,,0,0,0,0,0,-1,-1,32.1,4.0,44000000.0,11000000.0,2022,2025,2025,gauranteed,0
+6,2903,,656756,16511,Jordan Montgomery,Jordan Montgomery,5.153,4.153,,1,Arbitration,,0,0,0,0,0,-1,-1,30.5,1.0,10000000.0,10000000.0,2023,2023,2023,arbeligible,0
+7,2617,2022-10-03T00:00:00,606149,14986,Giovanny Gallegos,Giovanny Gallegos,4.085,3.085,,3,Extension,,1,0,0,0,0,-1,-1,31.9,2.0,11000000.0,5500000.0,2023,2024,2025,gauranteed,0
+8,2906,,656427,17479,Jack Flaherty,Jack Flaherty,5.006,4.006,,1,Arbitration,,0,0,0,0,0,-1,-1,27.7,1.0,5400000.0,5400000.0,2023,2023,2023,arbeligible,0
+9,2909,,641933,15711,Tyler O'Neill,Tyler O'Neill,4.059,3.059,,1,Arbitration,,0,0,0,0,0,-1,-1,28.0,1.0,4950000.0,4950000.0,2023,2023,2023,arbeligible,0
+10,348,,657557,18015,Paul DeJong,Paul DeJong,5.057,4.127,,3,Extension,,1,0,0,0,0,-1,-1,29.9,6.0,26000000.0,4333333.33333333,2018,2023,2025,gauranteed,0
+11,2910,,669242,19470,Tommy Edman,Tommy Edman,3.114,2.114,,1,Arbitration,,0,0,0,0,0,-1,-1,28.2,1.0,4200000.0,4200000.0,2023,2023,2023,arbeligible,0
+12,2904,,608717,13761,Chris Stratton,Chris Stratton,5.100,4.100,,1,Arbitration,,0,0,0,0,0,-1,-1,32.9,1.0,2800000.0,2800000.0,2023,2023,2023,arbeligible,0
+13,2354,2022-03-11T00:00:00,572403,13424,Drew VerHagen,Drew VerHagen,4.066,3.066,,2,Free Agent,,0,0,0,1,0,-1,-1,32.7,2.0,5500000.0,2750000.0,2022,2023,2023,gauranteed,0
+14,2908,,641712,19206,Dakota Hudson,Dakota Hudson,4.062,3.066,,1,Arbitration,,0,0,0,0,0,-1,-1,28.8,1.0,2650000.0,2650000.0,2023,2023,2023,arbeligible,0
+15,2911,,664854,18138,Ryan Helsley,Ryan Helsley,3.105,2.105,,1,Arbitration,,0,0,0,0,0,-1,-1,29.0,1.0,2150000.0,2150000.0,2023,2023,2023,arbeligible,0
+16,2907,,663855,19618,Jordan Hicks,Jordan Hicks,5.000,4.000,,1,Arbitration,,0,0,0,0,0,-1,-1,26.8,1.0,1837500.0,1837500.0,2023,2023,2023,arbeligible,0
+17,2912,,668800,19514,Andrew Knizner,Andrew Knizner,3.021,2.021,,1,Arbitration,,0,0,0,0,0,-1,-1,28.4,1.0,1100000.0,1100000.0,2023,2023,2023,arbeligible,0
+18,2913,,650893,17490,Génesis Cabrera,Genesis Cabrera,3.011,2.040,,1,Arbitration,,0,0,0,0,0,-1,-1,26.7,1.0,950000.0,950000.0,2023,2023,2023,arbeligible,0
+19,3062,,666185,20126,Dylan Carlson,Dylan Carlson,2.104,1.104,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.7,1.0,742400.0,742400.0,2023,2023,2023,arbineligible,0
+20,3129,,663457,21454,Lars Nootbaar,Lars Nootbaar,1.076,0.087,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.8,1.0,732400.0,732400.0,2023,2023,2023,arbineligible,0
+21,3063,,669467,26108,Andre Pallante,Andre Pallante,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.8,1.0,728600.0,728600.0,2023,2023,2023,arbineligible,0
+22,3064,,680977,24679,Brendan Donovan,Brendan Donovan,0.164,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.5,1.0,728600.0,728600.0,2023,2023,2023,arbineligible,0
+23,3235,,669357,22263,Nolan Gorman,Nolan Gorman,0.139,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,23.2,1.0,726950.0,726950.0,2023,2023,2023,arbineligible,0
+24,3406,,691023,27475,Jordan Walker,Jordan Walker,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,21.1,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+0,3384,2023-02-26T00:00:00,592518,11493,Manny Machado,Manny Machado,10.056,9.056,,3,Extension,,0,0,0,0,0,-1,-1,31.0,11.0,350000000.0,31818181.81818182,2023,2033,2033,gauranteed,0
+1,3127,2022-12-07T00:00:00,593428,12161,Xander Bogaerts,Xander Bogaerts,9.042,8.042,,2,Free Agent,,0,0,0,0,0,-1,-1,30.8,11.0,280000000.0,25454545.45454545,2023,2033,2033,gauranteed,0
+2,2871,,665742,20123,Juan Soto,Juan Soto,4.134,3.134,,1,Arbitration,,0,0,0,0,0,-1,-1,24.7,1.0,23000000.0,23000000.0,2023,2023,2023,arbeligible,0
+3,1546,2021-02-18T00:00:00,665487,19709,Fernando Tatis Jr.,Fernando Tatis Jr.,3.127,3.000,2022-23 salaries reduced due to PED suspension,3,Extension,,0,0,0,0,0,-1,-1,24.5,14.0,338250916.0,21287478.0,2021,2034,2034,gauranteed,0
+4,2602,2022-08-01T00:00:00,605397,12970,Joe Musgrove,Joe Musgrove,6.063,5.063,,3,Extension,,0,0,0,1,0,-1,-1,30.6,5.0,100000000.0,20000000.0,2023,2027,2027,gauranteed,0
+5,3352,,506433,13074,Yu Darvish,Yu Darvish,11.000,10.000,,3,Extension,,0,0,0,0,0,-1,-1,36.9,6.0,108000000.0,18000000.0,2023,2028,2028,gauranteed,0
+6,2869,,623352,14212,Josh Hader,Josh Hader,5.115,4.115,,1,Arbitration,,0,0,0,0,0,-1,-1,29.2,1.0,14100000.0,14100000.0,2023,2023,2023,arbeligible,0
+7,600,,605483,13543,Blake Snell,Blake Snell,6.072,5.072,,3,Extension,,0,0,0,0,0,-1,-1,30.6,5.0,50000000.0,10000000.0,2019,2023,2023,gauranteed,0
+8,3074,2022-11-10T00:00:00,663158,30115,Robert Suarez,Robert Suarez,1.000,,,2,Free Agent,,0,0,0,0,0,-1,-1,32.3,5.0,46000000.0,9200000.0,2023,2027,2027,gauranteed,0
+9,3083,2022-11-16T00:00:00,607259,12730,Nick Martinez,Nick Martinez,4.002,3.002,"team has a 2-yr, $32M club option for 2024-25",2,Free Agent,,0,0,0,0,0,-1,-1,32.9,3.0,26000000.0,8666666.66666667,2023,2023,2025,gauranteed,0
+10,11,2020-01-01T00:00:00,519141,11426,Drew Pomeranz,Drew Pomeranz,10.013,9.013,,2,Free Agent,,0,0,0,0,0,-1,-1,34.6,4.0,34000000.0,8500000.0,2020,2023,2023,gauranteed,0
+11,3167,2022-12-19T00:00:00,607625,12447,Seth Lugo,Seth Lugo,6.082,5.082,,2,Free Agent,,0,0,0,0,0,-1,-1,33.6,2.0,15000000.0,7500000.0,2023,2023,2024,gauranteed,0
+12,1400,2020-12-28T00:00:00,673490,27506,Ha-Seong Kim,Ha-seong Kim,2.000,1.000,,2,Free Agent,,0,1,0,1,0,-1,-1,27.7,4.0,28000000.0,7000000.0,2021,2024,2025,gauranteed,0
+13,3369,2023-02-16T00:00:00,608379,14078,Michael Wacha,Michael Wacha,9.062,8.062,"2-yr, $32MM club option after 2023",2,Free Agent,,0,0,0,0,0,-1,-1,32.0,4.0,26000000.0,6500000.0,2023,2023,2026,gauranteed,0
+14,3172,2022-12-20T00:00:00,572761,8090,Matt Carpenter,Matt Carpenter,10.145,10.012,,2,Free Agent,,0,0,0,0,0,-1,-1,37.6,2.0,12000000.0,6000000.0,2023,2023,2024,gauranteed,0
+15,2878,,630105,18036,Jake Cronenworth,Jake Cronenworth,3.000,2.000,,13,Arbitration (Guarant,,0,0,0,0,0,-1,-1,29.5,1.0,4225000.0,4225000.0,2023,2023,2023,gauranteed,0
+16,2335,2021-12-01T00:00:00,472610,6984,Luis García,Luis Garcia,7.007,6.077,,2,Free Agent,,0,0,0,0,0,-1,-1,36.4,2.0,7000000.0,3500000.0,2022,2023,2023,gauranteed,0
+17,2876,,663757,18564,Trent Grisham,Trent Grisham,3.060,2.060,,1,Arbitration,,0,0,0,0,0,-1,-1,26.7,1.0,3175000.0,3175000.0,2023,2023,2023,arbeligible,0
+18,2875,,543592,15941,Austin Nola,Austin Nola,3.106,2.106,,1,Arbitration,,0,0,0,0,0,-1,-1,33.5,1.0,2350000.0,2350000.0,2023,2023,2023,arbeligible,0
+19,2872,,657612,16814,Tim Hill,Tim Hill,4.112,3.112,,1,Arbitration,,0,0,0,0,0,-1,-1,33.4,1.0,1850000.0,1850000.0,2023,2023,2023,arbeligible,0
+20,3447,2023-05-19T00:00:00,596142,11442,Gary Sánchez,Gary Sanchez,6.086,5.086,"$1.5M, prorated",2,Free Agent,,0,0,0,0,0,-1,-1,30.6,1.0,1096774.0,1096774.0,2023,2023,2023,gauranteed,0
+21,3284,2023-01-06T00:00:00,641553,15082,Adam Engel,Adam Engel,5.058,4.058,,2,Free Agent,,0,0,0,1,0,-1,-1,31.6,1.0,1000000.0,1000000.0,2023,2023,2023,not40man,0
+22,3299,2023-01-11T00:00:00,443558,2434,Nelson Cruz,Nelson Cruz,15.082,14.082,,2,Free Agent,,0,0,0,1,0,-1,-1,43.0,1.0,1000000.0,1000000.0,2023,2023,2023,not40man,0
+23,2877,,670970,20039,Adrian Morejon,Adrian Morejon,3.013,2.013,,1,Arbitration,,0,0,0,0,0,-1,-1,24.4,1.0,800000.0,800000.0,2023,2023,2023,arbeligible,0
+24,3386,2023-03-30T00:00:00,596059,12282,Rougned Odor,Rougned Odor,8.121,7.121,,2,Free Agent,,0,0,0,0,0,-1,-1,29.4,1.0,800000.0,800000.0,2023,2023,2023,gauranteed,0
+25,3058,,621051,20353,Steven Wilson,Steven Wilson,1.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.9,1.0,726400.0,726400.0,2023,2023,2023,arbineligible,0
+26,3285,,641703,16466,Brent Honeywell,Brent Honeywell,0.166,0.008,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,28.3,1.0,725000.0,725000.0,2023,2023,2023,arbineligible,0
+27,3231,,669134,22217,Luis Campusano,Luis Campusano,0.144,0.095,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.8,1.0,722700.0,722700.0,2023,2023,2023,arbineligible,0
+28,3413,2023-04-01T00:00:00,630105,18036,Jake Cronenworth,Jake Cronenworth,3.000,2.000,,3,Extension,,0,0,0,0,0,-1,-1,29.5,7.0,80000000.0,,2024,2030,2030,gauranteed,1
+0,3081,2022-11-15T00:00:00,592626,11899,Joc Pederson,Joc Pederson,8.028,7.028,,2,Free Agent,,0,0,0,0,0,-1,-1,31.2,1.0,19650000.0,19650000.0,2023,2023,2023,gauranteed,0
+1,3184,2022-12-23T00:00:00,624424,16376,Michael Conforto,Michael Conforto,6.043,6.043,must reach 350 PA in 2023 to opt out,2,Free Agent,,0,0,0,0,0,-1,-1,30.3,2.0,36000000.0,18000000.0,2023,2024,2024,gauranteed,0
+2,1713,2021-08-13T00:00:00,543063,5343,Brandon Crawford,Brandon Crawford,11.094,10.094,,3,Extension,,0,0,0,1,0,-1,-1,36.5,2.0,32000000.0,16000000.0,2022,2023,2023,gauranteed,0
+3,3116,2022-12-06T00:00:00,571745,14274,Mitch Haniger,Mitch Haniger,6.048,5.048,,2,Free Agent,,0,0,0,0,0,-1,-1,32.5,3.0,43500000.0,14500000.0,2023,2025,2025,gauranteed,0
+4,2318,2021-11-22T00:00:00,622072,13781,Alex Wood,Alex Wood,9.123,8.123,,2,Free Agent,,0,0,0,0,0,-1,-1,32.5,2.0,25000000.0,12500000.0,2022,2023,2023,gauranteed,0
+5,3135,2022-12-12T00:00:00,640455,15873,Sean Manaea,Sean Manaea,6.157,5.157,,2,Free Agent,,0,0,0,0,0,-1,-1,31.4,2.0,25000000.0,12500000.0,2023,2024,2024,gauranteed,0
+6,3140,2022-12-13T00:00:00,548389,13273,Ross Stripling,Ross Stripling,6.115,5.115,,2,Free Agent,,0,0,0,0,0,-1,-1,33.6,2.0,25000000.0,12500000.0,2023,2024,2024,gauranteed,0
+7,2294,2021-11-22T00:00:00,543101,13050,Anthony DeSclafani,Anthony DeSclafani,8.062,7.062,,2,Free Agent,,0,0,0,0,0,-1,-1,33.2,3.0,36000000.0,12000000.0,2022,2024,2024,gauranteed,0
+8,3185,2022-12-23T00:00:00,573124,13449,Taylor Rogers,Taylor Rogers,6.145,5.145,,2,Free Agent,,0,0,0,0,0,-1,-1,32.6,3.0,33000000.0,11000000.0,2023,2025,2025,gauranteed,0
+9,2329,2021-11-30T00:00:00,502171,6562,Alex Cobb,Alex Cobb,11.061,10.061,,2,Free Agent,,1,0,0,0,0,-1,-1,35.7,2.0,20000000.0,10000000.0,2022,2023,2024,gauranteed,0
+10,1454,2021-01-27T00:00:00,600303,12371,Tommy La Stella,Tommy La Stella,8.057,7.057,,2,Free Agent,,0,0,0,1,0,-1,-1,34.4,3.0,18750000.0,6250000.0,2021,2023,2023,not40man,0
+11,2897,,573262,14854,Mike Yastrzemski,Mike Yastrzemski,3.128,2.128,,1,Arbitration,,0,0,0,0,0,-1,-1,32.9,1.0,6100000.0,6100000.0,2023,2023,2023,arbeligible,0
+12,3289,2023-01-09T00:00:00,592426,11752,Luke Jackson,Luke Jackson,6.019,5.019,,2,Free Agent,,1,0,0,0,0,-1,-1,31.9,2.0,11500000.0,5750000.0,2023,2024,2025,gauranteed,0
+13,2611,2022-09-12T00:00:00,527038,5827,Wilmer Flores,Wilmer Flores,9.003,8.003,team has $8.5M club option if player option is declined,3,Extension,,0,0,0,0,0,-1,-1,31.9,3.0,16500000.0,5500000.0,2023,2024,2025,gauranteed,0
+14,2899,,657277,17995,Logan Webb,Logan Webb,3.044,2.044,,13,Arbitration (Guarant,,0,0,0,0,0,-1,-1,26.6,1.0,4500000.0,4500000.0,2023,2023,2023,gauranteed,0
+15,2895,,605204,16219,J.D. Davis,J.D. Davis,4.137,3.137,,1,Arbitration,,0,0,0,0,0,-1,-1,30.2,1.0,4210000.0,4210000.0,2023,2023,2023,arbeligible,0
+16,2894,,596103,16153,Austin Slater,Austin Slater,4.147,3.147,,1,Arbitration,,0,0,0,0,0,-1,-1,30.6,1.0,3200000.0,3200000.0,2023,2023,2023,arbeligible,0
+17,2893,,596001,13619,Jakob Junis,Jakob Junis,5.002,4.016,,1,Arbitration,,0,0,0,0,0,-1,-1,30.8,1.0,2800000.0,2800000.0,2023,2023,2023,arbeligible,0
+18,3349,2023-03-30T00:00:00,547379,2900,Roberto Pérez,Roberto Perez,8.083,7.083,,2,Free Agent,,0,0,0,0,0,-1,-1,34.5,1.0,2500000.0,2500000.0,2023,2023,2023,gauranteed,0
+19,2892,,605154,12777,John Brebbia,John Brebbia,5.078,4.057,,1,Arbitration,,0,0,0,0,0,-1,-1,33.1,1.0,2300000.0,2300000.0,2023,2023,2023,arbeligible,0
+20,2902,,642731,16426,Thairo Estrada,Thairo Estrada,2.169,1.158,,1,Arbitration,,0,0,0,0,0,1,-1,27.4,1.0,2250000.0,2250000.0,2023,2023,2023,arbeligible,0
+21,2901,,643511,15541,Tyler Rogers,Tyler Rogers,3.034,2.034,,1,Arbitration,,0,0,0,0,0,-1,-1,32.6,1.0,1675000.0,1675000.0,2023,2023,2023,arbeligible,0
+22,2900,,664774,18126,LaMonte Wade Jr.,LaMonte Wade Jr.,3.035,2.035,,1,Arbitration,,0,0,0,0,0,-1,-1,29.5,1.0,1375000.0,1375000.0,2023,2023,2023,arbeligible,0
+23,3401,2023-03-30T00:00:00,607461,17710,Matt Beaty,Matt Beaty,3.086,2.115,,1,Arbitration,,0,0,0,0,0,-1,-1,30.2,1.0,1250000.0,1250000.0,2023,2023,2023,arbeligible,0
+24,2891,,518397,10591,Scott Alexander,Scott Alexander,5.080,5.039,,1,Arbitration,,0,0,0,0,0,-1,-1,34.0,1.0,1150000.0,1150000.0,2023,2023,2023,arbeligible,0
+25,3060,,666808,21992,Camilo Doval,Camilo Doval,1.071,0.125,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.0,1.0,735000.0,735000.0,2023,2023,2023,arbineligible,0
+26,3061,,670768,20332,Luis González,Luis Gonzalez,1.076,0.071,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,27.8,1.0,735000.0,735000.0,2023,2023,2023,arbineligible,0
+27,3232,,663698,21524,Joey Bart,Joey Bart,1.094,1.000,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,26.6,1.0,735000.0,735000.0,2023,2023,2023,arbineligible,0
+28,3464,,672275,27478,Patrick Bailey,Patrick Bailey,,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,24.1,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+29,3465,,666165,25805,Blake Sabol,Blake Sabol,0.000,,,0,Pre-Arbitration,,0,0,0,0,0,-1,-1,25.5,1.0,720000.0,720000.0,2023,2023,2023,arbineligible,0
+30,3415,,573131,9929,Darin Ruf,Darin Ruf,5.138,4.138,"league minimum, prorated",2,Free Agent,,0,0,0,0,0,-1,-1,36.9,1.0,108387.0,108387.0,2023,2023,2023,not40man,0
+31,3416,2023-04-14T00:00:00,657277,17995,Logan Webb,Logan Webb,3.044,2.044,,3,Extension,,0,0,0,1,0,-1,-1,26.6,5.0,90000000.0,,2024,2028,2028,gauranteed,1
