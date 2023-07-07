@@ -8,7 +8,8 @@ For fun project - practice Python, SQL, data analysis, and using git/github.
 ### Things to do:
 - [X] Pitching and hitting modules need improvements :tada:  
 - [X] Incorporate other stat sources - player salaries, advanced stats :tada:    
-- [ ] Create a update module, to add new data added since last time program was run.
-- [ ] Investigate if the lag added during scraping does anything (prevents IP getting blocked, maybe?)
-- [ ] Exploratory notebook.  
+- [X] Investigate if the lag added during scraping does anything (prevents IP getting blocked, maybe?) :tada:  
+- [ ] Exploratory notebook.
+- [ ] While creating notebook I noticed the get_war function is not including the season data, needs to be added.
+- [ ] When data sources are all sorted out create functions to search the data, possibly a front-end. 
 
