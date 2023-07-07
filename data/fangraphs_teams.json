@@ -1,0 +1,212 @@
+[
+    {
+        "teamid": 13,
+        "shortName": "Rangers",
+        "AbbName": "TEX",
+        "League": "AL",
+        "Division": "W"
+    },
+    {
+        "teamid": 8,
+        "shortName": "Twins",
+        "AbbName": "MIN",
+        "League": "AL",
+        "Division": "C"
+    },
+    {
+        "teamid": 12,
+        "shortName": "Rays",
+        "AbbName": "TBR",
+        "League": "AL",
+        "Division": "E"
+    },
+    {
+        "teamid": 16,
+        "shortName": "Braves",
+        "AbbName": "ATL",
+        "League": "NL",
+        "Division": "E"
+    },
+    {
+        "teamid": 15,
+        "shortName": "Diamondbacks",
+        "AbbName": "ARI",
+        "League": "NL",
+        "Division": "W"
+    },
+    {
+        "teamid": 18,
+        "shortName": "Reds",
+        "AbbName": "CIN",
+        "League": "NL",
+        "Division": "C"
+    },
+    {
+        "teamid": 22,
+        "shortName": "Dodgers",
+        "AbbName": "LAD",
+        "League": "NL",
+        "Division": "W"
+    },
+    {
+        "teamid": 5,
+        "shortName": "Guardians",
+        "AbbName": "CLE",
+        "League": "AL",
+        "Division": "C"
+    },
+    {
+        "teamid": 21,
+        "shortName": "Astros",
+        "AbbName": "HOU",
+        "League": "AL",
+        "Division": "W"
+    },
+    {
+        "teamid": 23,
+        "shortName": "Brewers",
+        "AbbName": "MIL",
+        "League": "NL",
+        "Division": "C"
+    },
+    {
+        "teamid": 30,
+        "shortName": "Giants",
+        "AbbName": "SFG",
+        "League": "NL",
+        "Division": "W"
+    },
+    {
+        "teamid": 2,
+        "shortName": "Orioles",
+        "AbbName": "BAL",
+        "League": "AL",
+        "Division": "E"
+    },
+    {
+        "teamid": 6,
+        "shortName": "Tigers",
+        "AbbName": "DET",
+        "League": "AL",
+        "Division": "C"
+    },
+    {
+        "teamid": 1,
+        "shortName": "Angels",
+        "AbbName": "LAA",
+        "League": "AL",
+        "Division": "W"
+    },
+    {
+        "teamid": 11,
+        "shortName": "Mariners",
+        "AbbName": "SEA",
+        "League": "AL",
+        "Division": "W"
+    },
+    {
+        "teamid": 17,
+        "shortName": "Cubs",
+        "AbbName": "CHC",
+        "League": "NL",
+        "Division": "C"
+    },
+    {
+        "teamid": 14,
+        "shortName": "Blue Jays",
+        "AbbName": "TOR",
+        "League": "AL",
+        "Division": "E"
+    },
+    {
+        "teamid": 9,
+        "shortName": "Yankees",
+        "AbbName": "NYY",
+        "League": "AL",
+        "Division": "E"
+    },
+    {
+        "teamid": 4,
+        "shortName": "White Sox",
+        "AbbName": "CHW",
+        "League": "AL",
+        "Division": "C"
+    },
+    {
+        "teamid": 20,
+        "shortName": "Marlins",
+        "AbbName": "MIA",
+        "League": "NL",
+        "Division": "E"
+    },
+    {
+        "teamid": 29,
+        "shortName": "Padres",
+        "AbbName": "SDP",
+        "League": "NL",
+        "Division": "W"
+    },
+    {
+        "teamid": 27,
+        "shortName": "Pirates",
+        "AbbName": "PIT",
+        "League": "NL",
+        "Division": "C"
+    },
+    {
+        "teamid": 26,
+        "shortName": "Phillies",
+        "AbbName": "PHI",
+        "League": "NL",
+        "Division": "E"
+    },
+    {
+        "teamid": 3,
+        "shortName": "Red Sox",
+        "AbbName": "BOS",
+        "League": "AL",
+        "Division": "E"
+    },
+    {
+        "teamid": 28,
+        "shortName": "Cardinals",
+        "AbbName": "STL",
+        "League": "NL",
+        "Division": "C"
+    },
+    {
+        "teamid": 19,
+        "shortName": "Rockies",
+        "AbbName": "COL",
+        "League": "NL",
+        "Division": "W"
+    },
+    {
+        "teamid": 25,
+        "shortName": "Mets",
+        "AbbName": "NYM",
+        "League": "NL",
+        "Division": "E"
+    },
+    {
+        "teamid": 7,
+        "shortName": "Royals",
+        "AbbName": "KCR",
+        "League": "AL",
+        "Division": "C"
+    },
+    {
+        "teamid": 24,
+        "shortName": "Nationals",
+        "AbbName": "WSN",
+        "League": "NL",
+        "Division": "E"
+    },
+    {
+        "teamid": 10,
+        "shortName": "Athletics",
+        "AbbName": "OAK",
+        "League": "AL",
+        "Division": "W"
+    }
+]
