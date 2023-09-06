@@ -30,7 +30,7 @@ def get_hitting(start_season = 1876, end_season = current_year):
     for y in years:
         if break_program:
             break
-        api_url = 'https://bdfed.stitch.mlbinfra.com/bdfed/stats/player?stitch_env=prod&season=' + y + '&sportId=1&stats=season&group=hitting&gameType=R&limit=10000&offset=0&sortStat=onBasePlusSlugging&order=desc'
+        api_url = f'https://bdfed.stitch.mlbinfra.com/bdfed/stats/player?stitch_env=prod&season={y}&sportId=1&stats=season&group=hitting&gameType=R&limit=10000&offset=0&sortStat=onBasePlusSlugging&order=desc'
         make_request = requests.get(url = api_url).json()
         temp_df = pd.DataFrame(make_request['stats'])
         hitting_df = pd.concat([hitting_df, temp_df], axis = 0)
@@ -46,7 +46,7 @@ def get_pitching(start_season = 1876, end_season = current_year):
     for y in years:
         if break_program:
             break
-        api_url = 'https://bdfed.stitch.mlbinfra.com/bdfed/stats/player?stitch_env=prod&season=' + y + '&sportId=1&stats=season&group=pitching&gameType=R&limit=10000&offset=0&sortStat=earnedRunAverage&order=asc'
+        api_url = f'https://bdfed.stitch.mlbinfra.com/bdfed/stats/player?stitch_env=prod&season={y}&sportId=1&stats=season&group=pitching&gameType=R&limit=10000&offset=0&sortStat=earnedRunAverage&order=asc'
         make_request = requests.get(url = api_url).json()
         temp_df = pd.DataFrame(make_request['stats'])
         pitching_df = pd.concat([pitching_df, temp_df], axis = 0)
